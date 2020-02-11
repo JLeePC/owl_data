@@ -16,7 +16,6 @@ for i in range(len(pd_data)):
     pd_round = pd_data['map_round'][i]
     if pd_round == 1:
         map_counter.update(pd_maps.split('.'))
-    # match_counter.update(str(pd_match_id).split('.'))
     previous_round = pd_round
 maps = []
 times_played = []
@@ -34,7 +33,6 @@ for i, v in enumerate(times_played):
     plt.text(v - 12, i - .3, str(v), color='white')
 
 plt.title("Most played maps 2018-2019")
-# plt.xlabel("Name of map")
 plt.xlabel("Times played")
 
 plt.tight_layout()
