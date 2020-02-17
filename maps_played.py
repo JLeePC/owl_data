@@ -14,6 +14,8 @@ previous_round = ''
 for i in range(len(pd_data)):
     pd_maps = pd_data['map_name'][i]
     pd_round = pd_data['map_round'][i]
+    pd_stage = pd_data['stage'][i]
+    # if 'OWL 2020 Regular Season' in pd_stage:
     if pd_round == 1:
         map_counter.update(pd_maps.split('.'))
     previous_round = pd_round
