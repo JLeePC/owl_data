@@ -15,9 +15,9 @@ for i in range(len(pd_data)):
     pd_maps = pd_data['map_name'][i]
     pd_round = pd_data['map_round'][i]
     pd_stage = pd_data['stage'][i]
-    # if 'OWL 2020 Regular Season' in pd_stage:
-    if pd_round == 1:
-        map_counter.update(pd_maps.split('.'))
+    if 'OWL 2020 Regular Season' in pd_stage:
+        if pd_round == 1:
+            map_counter.update(pd_maps.split('.'))
     previous_round = pd_round
 maps = []
 times_played = []
@@ -31,10 +31,10 @@ times_played.reverse()
 
 plt.barh(maps, times_played)
 
-for i, v in enumerate(times_played):
-    plt.text(v - 12, i - .3, str(v), color='white')
+# for i, v in enumerate(times_played):
+#     plt.text(v - 12, i - .3, str(v), color='white')
 
-plt.title("Most played maps 2018-2019")
+plt.title("Most played maps 2020")
 plt.xlabel("Times played")
 
 plt.tight_layout()
