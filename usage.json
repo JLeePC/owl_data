@@ -1,0 +1,126 @@
+[
+  {
+    "Hero": "Reinhardt",
+    "Usage": 0.7921682825120873
+  },
+  {
+    "Hero": "L\u00facio",
+    "Usage": 0.9046390565104696
+  },
+  {
+    "Hero": "Moira",
+    "Usage": 0.05049028053964799
+  },
+  {
+    "Hero": "Mei",
+    "Usage": 0.7849525642923927
+  },
+  {
+    "Hero": "Orisa",
+    "Usage": 0.14529806772484985
+  },
+  {
+    "Hero": "McCree",
+    "Usage": 0.7678476484440855
+  },
+  {
+    "Hero": "Symmetra",
+    "Usage": 0.028645838042692235
+  },
+  {
+    "Hero": "Ana",
+    "Usage": 0.8897944119260313
+  },
+  {
+    "Hero": "Doomfist",
+    "Usage": 0.08122667017622759
+  },
+  {
+    "Hero": "Reaper",
+    "Usage": 0.2674736675253254
+  },
+  {
+    "Hero": "D.Va",
+    "Usage": 0.8978578311873576
+  },
+  {
+    "Hero": "Baptiste",
+    "Usage": 0.11542207948419114
+  },
+  {
+    "Hero": "Wrecking Ball",
+    "Usage": 0.012124201783130773
+  },
+  {
+    "Hero": "Widowmaker",
+    "Usage": 0.131042803254077
+  },
+  {
+    "Hero": "Tracer",
+    "Usage": 0.026133511271384677
+  },
+  {
+    "Hero": "Winston",
+    "Usage": 0.24203501336482802
+  },
+  {
+    "Hero": "Zenyatta",
+    "Usage": 7.556905158688198e-06
+  },
+  {
+    "Hero": "Sombra",
+    "Usage": 0.10016994322137715
+  },
+  {
+    "Hero": "Hanzo",
+    "Usage": 0.04526227939513898
+  },
+  {
+    "Hero": "Roadhog",
+    "Usage": 3.210534959311542e-08
+  },
+  {
+    "Hero": "Sigma",
+    "Usage": 0.021070639532125447
+  },
+  {
+    "Hero": "Zarya",
+    "Usage": 1.4897315980631718e-05
+  },
+  {
+    "Hero": "Ashe",
+    "Usage": 0.0
+  },
+  {
+    "Hero": "Bastion",
+    "Usage": 0.013670564827805412
+  },
+  {
+    "Hero": "Genji",
+    "Usage": 0.06290977747889909
+  },
+  {
+    "Hero": "Junkrat",
+    "Usage": 0.0005083939678541532
+  },
+  {
+    "Hero": "Pharah",
+    "Usage": 0.08603147410161067
+  },
+  {
+    "Hero": "Soldier: 76",
+    "Usage": 0.005531654115837972
+  },
+  {
+    "Hero": "Torbj\u00f6rn",
+    "Usage": 0.010385846919665872
+  },
+  {
+    "Hero": "Brigitte",
+    "Usage": 0.15405163143457032
+  },
+  {
+    "Hero": "Mercy",
+    "Usage": 0.16303017564317804
+  }
+]
