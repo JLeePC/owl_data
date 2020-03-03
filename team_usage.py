@@ -22,7 +22,7 @@ for i in range(len(data)):
             if not data['team_name'][i] in hero_usage:
                 hero_usage[data['team_name'][i]] = []
             if not data['esports_match_id'][i] in hero_usage[data['team_name'][i]]:
-                hero_usage[data['team_name'][i]][data['esports_match_id'][i]] = []
+                hero_usage[data['team_name'][i]][data['esports_match_id'][i]] = [] #! trying to create list inside list but its not working. How do you do it?
             add_hero = True
             for k in hero_usage[data['team_name'][i]]:
                 if k['hero_name'] == data['hero_name'][i]:
