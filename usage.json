@@ -1,126 +1,3929 @@
-[
-  {
-    "Hero": "Reinhardt",
-    "Usage": 0.7921682825120873
-  },
-  {
-    "Hero": "L\u00facio",
-    "Usage": 0.9046390565104696
-  },
-  {
-    "Hero": "Moira",
-    "Usage": 0.05049028053964799
-  },
-  {
-    "Hero": "Mei",
-    "Usage": 0.7849525642923927
-  },
-  {
-    "Hero": "Orisa",
-    "Usage": 0.14529806772484985
-  },
-  {
-    "Hero": "McCree",
-    "Usage": 0.7678476484440855
-  },
-  {
-    "Hero": "Symmetra",
-    "Usage": 0.028645838042692235
-  },
-  {
-    "Hero": "Ana",
-    "Usage": 0.8897944119260313
-  },
-  {
-    "Hero": "Doomfist",
-    "Usage": 0.08122667017622759
-  },
-  {
-    "Hero": "Reaper",
-    "Usage": 0.2674736675253254
-  },
-  {
-    "Hero": "D.Va",
-    "Usage": 0.8978578311873576
-  },
-  {
-    "Hero": "Baptiste",
-    "Usage": 0.11542207948419114
-  },
-  {
-    "Hero": "Wrecking Ball",
-    "Usage": 0.012124201783130773
-  },
-  {
-    "Hero": "Widowmaker",
-    "Usage": 0.131042803254077
-  },
-  {
-    "Hero": "Tracer",
-    "Usage": 0.026133511271384677
-  },
-  {
-    "Hero": "Winston",
-    "Usage": 0.24203501336482802
-  },
-  {
-    "Hero": "Zenyatta",
-    "Usage": 7.556905158688198e-06
-  },
-  {
-    "Hero": "Sombra",
-    "Usage": 0.10016994322137715
-  },
-  {
-    "Hero": "Hanzo",
-    "Usage": 0.04526227939513898
-  },
-  {
-    "Hero": "Roadhog",
-    "Usage": 3.210534959311542e-08
-  },
-  {
-    "Hero": "Sigma",
-    "Usage": 0.021070639532125447
-  },
-  {
-    "Hero": "Zarya",
-    "Usage": 1.4897315980631718e-05
-  },
-  {
-    "Hero": "Ashe",
-    "Usage": 0.0
-  },
-  {
-    "Hero": "Bastion",
-    "Usage": 0.013670564827805412
-  },
-  {
-    "Hero": "Genji",
-    "Usage": 0.06290977747889909
-  },
-  {
-    "Hero": "Junkrat",
-    "Usage": 0.0005083939678541532
-  },
-  {
-    "Hero": "Pharah",
-    "Usage": 0.08603147410161067
-  },
-  {
-    "Hero": "Soldier: 76",
-    "Usage": 0.005531654115837972
-  },
-  {
-    "Hero": "Torbj\u00f6rn",
-    "Usage": 0.010385846919665872
-  },
-  {
-    "Hero": "Brigitte",
-    "Usage": 0.15405163143457032
-  },
-  {
-    "Hero": "Mercy",
-    "Usage": 0.16303017564317804
+{
+  "Matches": {
+    "30991": [
+      {
+        "Hero": "Reinhardt",
+        "Time Played": 719.3110594,
+        "Percentage": 1.1013570190881257
+      },
+      {
+        "Hero": "L\u00facio",
+        "Time Played": 719.3110594,
+        "Percentage": 1.1013570190881257
+      },
+      {
+        "Hero": "Moira",
+        "Time Played": 51.61291629,
+        "Percentage": 0.07902596086735403
+      },
+      {
+        "Hero": "Mei",
+        "Time Played": 719.3110594,
+        "Percentage": 1.1013570190881257
+      },
+      {
+        "Hero": "Orisa",
+        "Time Played": 718.3401711,
+        "Percentage": 1.0998704652113545
+      },
+      {
+        "Hero": "McCree",
+        "Time Played": 28.22370261,
+        "Percentage": 0.043214090160253904
+      },
+      {
+        "Hero": "Symmetra",
+        "Time Played": 369.8498291,
+        "Percentage": 0.5662872827613704
+      },
+      {
+        "Hero": "Ana",
+        "Time Played": 667.6981431,
+        "Percentage": 1.0223310582054603
+      },
+      {
+        "Hero": "Doomfist",
+        "Time Played": 4.869537652,
+        "Percentage": 0.007455883518901601
+      },
+      {
+        "Hero": "Reaper",
+        "Time Played": 284.2255651,
+        "Percentage": 0.4351856085575625
+      },
+      {
+        "Hero": "D.Va",
+        "Time Played": 719.3110594,
+        "Percentage": 1.1013570190881257
+      },
+      {
+        "Hero": "Baptiste",
+        "Time Played": 369.8498291,
+        "Percentage": 0.5662872827613704
+      },
+      {
+        "Hero": "Wrecking Ball",
+        "Time Played": 0.970888317,
+        "Percentage": 0.001486553902800465
+      },
+      {
+        "Hero": "Widowmaker",
+        "Time Played": 435.0854943,
+        "Percentage": 0.6661714105305632
+      },
+      {
+        "Hero": "Tracer",
+        "Time Played": 39.94368827,
+        "Percentage": 0.0611588837256692
+      },
+      {
+        "Hero": "Winston",
+        "Time Played": 451.6749892,
+        "Percentage": 0.6915720441124826
+      },
+      {
+        "Hero": "Zenyatta",
+        "Time Played": 453.62048710000005,
+        "Percentage": 0.6945508496511789
+      },
+      {
+        "Hero": "Sombra",
+        "Time Played": 453.62048710000005,
+        "Percentage": 0.6945508496511789
+      },
+      {
+        "Hero": "Hanzo",
+        "Time Played": 116.82655109999999,
+        "Percentage": 0.17887635729828538
+      },
+      {
+        "Hero": "Roadhog",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Sigma",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Zarya",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Ashe",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Bastion",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Genji",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Junkrat",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Pharah",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Soldier: 76",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Torbj\u00f6rn",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Brigitte",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Mercy",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      }
+    ],
+    "30992": [
+      {
+        "Hero": "D.Va",
+        "Time Played": 787.4406776000001,
+        "Percentage": 1.2056721581810144
+      },
+      {
+        "Hero": "Orisa",
+        "Time Played": 72.99862379,
+        "Percentage": 0.11177020795697491
+      },
+      {
+        "Hero": "Mei",
+        "Time Played": 780.6240417,
+        "Percentage": 1.1952350187864174
+      },
+      {
+        "Hero": "McCree",
+        "Time Played": 131.3932589,
+        "Percentage": 0.20117984571387829
+      },
+      {
+        "Hero": "Reaper",
+        "Time Played": 145.02394950000001,
+        "Percentage": 0.2220501723565004
+      },
+      {
+        "Hero": "Symmetra",
+        "Time Played": 1.94925344,
+        "Percentage": 0.0029845557496591363
+      },
+      {
+        "Hero": "Tracer",
+        "Time Played": 6.816635907,
+        "Percentage": 0.010437139405314978
+      },
+      {
+        "Hero": "Ana",
+        "Time Played": 787.4406776000001,
+        "Percentage": 1.2056721581810144
+      },
+      {
+        "Hero": "Baptiste",
+        "Time Played": 304.6127958,
+        "Percentage": 0.46640106025650235
+      },
+      {
+        "Hero": "Reinhardt",
+        "Time Played": 787.4406776000001,
+        "Percentage": 1.2056721581810144
+      },
+      {
+        "Hero": "L\u00facio",
+        "Time Played": 787.4406776000001,
+        "Percentage": 1.2056721581810144
+      },
+      {
+        "Hero": "Wrecking Ball",
+        "Time Played": 3.89609617,
+        "Percentage": 0.005965420394691437
+      },
+      {
+        "Hero": "Zarya",
+        "Time Played": 304.6127958,
+        "Percentage": 0.46640106025650235
+      },
+      {
+        "Hero": "Doomfist",
+        "Time Played": 47.68608618,
+        "Percentage": 0.07301348288874128
+      },
+      {
+        "Hero": "Roadhog",
+        "Time Played": 1.949155569,
+        "Percentage": 0.002984405896669381
+      },
+      {
+        "Hero": "Hanzo",
+        "Time Played": 1.946302652,
+        "Percentage": 0.002980037716698053
+      },
+      {
+        "Hero": "Sombra",
+        "Time Played": 201.47884530000002,
+        "Percentage": 0.308489821710818
+      },
+      {
+        "Hero": "Widowmaker",
+        "Time Played": 541.2121473999999,
+        "Percentage": 0.8286648586384118
+      },
+      {
+        "Hero": "Moira",
+        "Time Played": 168.3814738,
+        "Percentage": 0.257813522579121
+      },
+      {
+        "Hero": "Mercy",
+        "Time Played": 52.55617237,
+        "Percentage": 0.08047020628931666
+      },
+      {
+        "Hero": "Winston",
+        "Time Played": 201.47884530000002,
+        "Percentage": 0.308489821710818
+      },
+      {
+        "Hero": "Genji",
+        "Time Played": 201.47884530000002,
+        "Percentage": 0.308489821710818
+      },
+      {
+        "Hero": "Sigma",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Ashe",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Bastion",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Junkrat",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Pharah",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Soldier: 76",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Torbj\u00f6rn",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Brigitte",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Zenyatta",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      }
+    ],
+    "30993": [
+      {
+        "Hero": "L\u00facio",
+        "Time Played": 508.01095819999995,
+        "Percentage": 0.7778296013604352
+      },
+      {
+        "Hero": "McCree",
+        "Time Played": 319.22734049999997,
+        "Percentage": 0.4887777930701868
+      },
+      {
+        "Hero": "Reaper",
+        "Time Played": 503.1422747,
+        "Percentage": 0.7703750256572391
+      },
+      {
+        "Hero": "Symmetra",
+        "Time Played": 4.868683517,
+        "Percentage": 0.007454575729225347
+      },
+      {
+        "Hero": "Widowmaker",
+        "Time Played": 22.38019222,
+        "Percentage": 0.03426693009641562
+      },
+      {
+        "Hero": "Bastion",
+        "Time Played": 3.8968505860000002,
+        "Percentage": 0.005966575501854123
+      },
+      {
+        "Hero": "Mei",
+        "Time Played": 494.3840072,
+        "Percentage": 0.7569650005226021
+      },
+      {
+        "Hero": "Reinhardt",
+        "Time Played": 508.01095819999995,
+        "Percentage": 0.7778296013604352
+      },
+      {
+        "Hero": "D.Va",
+        "Time Played": 508.01095819999995,
+        "Percentage": 0.7778296013604352
+      },
+      {
+        "Hero": "Orisa",
+        "Time Played": 3.89334631,
+        "Percentage": 0.00596121000813762
+      },
+      {
+        "Hero": "Ana",
+        "Time Played": 473.9365336,
+        "Percentage": 0.7256573092565124
+      },
+      {
+        "Hero": "Baptiste",
+        "Time Played": 508.01095819999995,
+        "Percentage": 0.7778296013604352
+      },
+      {
+        "Hero": "Moira",
+        "Time Played": 34.07442462,
+        "Percentage": 0.05217229213454554
+      },
+      {
+        "Hero": "Wrecking Ball",
+        "Time Played": 163.5093307,
+        "Percentage": 0.25035364978686514
+      },
+      {
+        "Hero": "Doomfist",
+        "Time Played": 13.62695104,
+        "Percentage": 0.02086460089907834
+      },
+      {
+        "Hero": "Winston",
+        "Time Played": 93.42494917,
+        "Percentage": 0.14304551859964196
+      },
+      {
+        "Hero": "Brigitte",
+        "Time Played": 328.9482428,
+        "Percentage": 0.5036617349199136
+      },
+      {
+        "Hero": "Tracer",
+        "Time Played": 8.760890365,
+        "Percentage": 0.013414041075640775
+      },
+      {
+        "Hero": "Zenyatta",
+        "Time Played": 231.6353619,
+        "Percentage": 0.3546632967250374
+      },
+      {
+        "Hero": "Hanzo",
+        "Time Played": 5.843002617000001,
+        "Percentage": 0.008946382598581297
+      },
+      {
+        "Hero": "Sombra",
+        "Time Played": 54.52063084,
+        "Percentage": 0.08347804288013222
+      },
+      {
+        "Hero": "Roadhog",
+        "Time Played": 0.9731185440000001,
+        "Percentage": 0.0014899686649239043
+      },
+      {
+        "Hero": "Genji",
+        "Time Played": 347.44260510000004,
+        "Percentage": 0.5319789635604049
+      },
+      {
+        "Hero": "Mercy",
+        "Time Played": 78.83853799,
+        "Percentage": 0.1207118617950341
+      },
+      {
+        "Hero": "Pharah",
+        "Time Played": 78.84270412,
+        "Percentage": 0.12071824067167995
+      },
+      {
+        "Hero": "Sigma",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Zarya",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Ashe",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Junkrat",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Soldier: 76",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Torbj\u00f6rn",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      }
+    ],
+    "30994": [
+      {
+        "Hero": "L\u00facio",
+        "Time Played": 1083.396768,
+        "Percentage": 1.658818697837735
+      },
+      {
+        "Hero": "Baptiste",
+        "Time Played": 134.31870469999998,
+        "Percentage": 0.2056590765329893
+      },
+      {
+        "Hero": "Moira",
+        "Time Played": 0.974848032,
+        "Percentage": 0.0014926167317419197
+      },
+      {
+        "Hero": "McCree",
+        "Time Played": 501.32294210000003,
+        "Percentage": 0.7675893952920712
+      },
+      {
+        "Hero": "Mei",
+        "Time Played": 1041.560528,
+        "Percentage": 1.5947620759157957
+      },
+      {
+        "Hero": "Reaper",
+        "Time Played": 710.5255932,
+        "Percentage": 1.087905349273119
+      },
+      {
+        "Hero": "Symmetra",
+        "Time Played": 4.86227864,
+        "Percentage": 0.0074447690452488354
+      },
+      {
+        "Hero": "Tracer",
+        "Time Played": 27.25110286,
+        "Percentage": 0.041724915835144316
+      },
+      {
+        "Hero": "Doomfist",
+        "Time Played": 16.53932571,
+        "Percentage": 0.025323818150227648
+      },
+      {
+        "Hero": "Orisa",
+        "Time Played": 102.18788990000002,
+        "Percentage": 0.15646269904573304
+      },
+      {
+        "Hero": "Reinhardt",
+        "Time Played": 1069.772217,
+        "Percentage": 1.637957771706152
+      },
+      {
+        "Hero": "Wrecking Ball",
+        "Time Played": 13.62455094,
+        "Percentage": 0.020860926039715386
+      },
+      {
+        "Hero": "Ana",
+        "Time Played": 1083.396768,
+        "Percentage": 1.658818697837735
+      },
+      {
+        "Hero": "D.Va",
+        "Time Played": 1083.396768,
+        "Percentage": 1.658818697837735
+      },
+      {
+        "Hero": "Widowmaker",
+        "Time Played": 554.8227228999999,
+        "Percentage": 0.8495043864961617
+      },
+      {
+        "Hero": "Zarya",
+        "Time Played": 360.1571054,
+        "Percentage": 0.5514464859439527
+      },
+      {
+        "Hero": "Mercy",
+        "Time Played": 286.1782448,
+        "Percentage": 0.438175410348487
+      },
+      {
+        "Hero": "Genji",
+        "Time Played": 341.6546027,
+        "Percentage": 0.5231167933123119
+      },
+      {
+        "Hero": "Sombra",
+        "Time Played": 490.5640558999999,
+        "Percentage": 0.7511161676402894
+      },
+      {
+        "Hero": "Winston",
+        "Time Played": 286.1782448,
+        "Percentage": 0.438175410348487
+      },
+      {
+        "Hero": "Hanzo",
+        "Time Played": 4.86271739,
+        "Percentage": 0.007445440827485199
+      },
+      {
+        "Hero": "Roadhog",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Sigma",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Ashe",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Bastion",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Junkrat",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Pharah",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Soldier: 76",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Torbj\u00f6rn",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Brigitte",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Zenyatta",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      }
+    ],
+    "30995": [
+      {
+        "Hero": "D.Va",
+        "Time Played": 905.2396542000001,
+        "Percentage": 1.3860374230054244
+      },
+      {
+        "Hero": "Orisa",
+        "Time Played": 907.1842247999999,
+        "Percentage": 1.3890148087294931
+      },
+      {
+        "Hero": "Wrecking Ball",
+        "Time Played": 30.16905451,
+        "Percentage": 0.046192672154319964
+      },
+      {
+        "Hero": "Doomfist",
+        "Time Played": 6.812903881,
+        "Percentage": 0.010431425197286607
+      },
+      {
+        "Hero": "Mei",
+        "Time Played": 937.3532792999999,
+        "Percentage": 1.4352074808685018
+      },
+      {
+        "Hero": "Reaper",
+        "Time Played": 509.1511285,
+        "Percentage": 0.779575347580309
+      },
+      {
+        "Hero": "Symmetra",
+        "Time Played": 274.4658629,
+        "Percentage": 0.42024225910990376
+      },
+      {
+        "Hero": "Tracer",
+        "Time Played": 61.30053878,
+        "Percentage": 0.09385894708132558
+      },
+      {
+        "Hero": "Ana",
+        "Time Played": 869.2423785,
+        "Percentage": 1.3309210005034329
+      },
+      {
+        "Hero": "Moira",
+        "Time Played": 715.3893744,
+        "Percentage": 1.0953524189294608
+      },
+      {
+        "Hero": "Reinhardt",
+        "Time Played": 937.3532792999999,
+        "Percentage": 1.4352074808685018
+      },
+      {
+        "Hero": "L\u00facio",
+        "Time Played": 937.3532792999999,
+        "Percentage": 1.4352074808685018
+      },
+      {
+        "Hero": "Sigma",
+        "Time Played": 561.5820196000001,
+        "Percentage": 0.8598537322588334
+      },
+      {
+        "Hero": "Winston",
+        "Time Played": 0.974960625,
+        "Percentage": 0.0014927891259922646
+      },
+      {
+        "Hero": "McCree",
+        "Time Played": 101.22017629999999,
+        "Percentage": 0.15498100603976692
+      },
+      {
+        "Hero": "Sombra",
+        "Time Played": 8.768476844,
+        "Percentage": 0.013425656943056722
+      },
+      {
+        "Hero": "Baptiste",
+        "Time Played": 221.96390490000002,
+        "Percentage": 0.339855061939041
+      },
+      {
+        "Hero": "Hanzo",
+        "Time Played": 466.301635,
+        "Percentage": 0.7139673052544189
+      },
+      {
+        "Hero": "Widowmaker",
+        "Time Played": 27.25216246,
+        "Percentage": 0.04172653821795378
+      },
+      {
+        "Hero": "Roadhog",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Zarya",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Ashe",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Bastion",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Genji",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Junkrat",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Pharah",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Soldier: 76",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Torbj\u00f6rn",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Brigitte",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Mercy",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Zenyatta",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      }
+    ],
+    "30996": [
+      {
+        "Hero": "McCree",
+        "Time Played": 322.1963505,
+        "Percentage": 0.49332372623847487
+      },
+      {
+        "Hero": "Pharah",
+        "Time Played": 136.25805400000002,
+        "Percentage": 0.20862846778049812
+      },
+      {
+        "Hero": "Soldier: 76",
+        "Time Played": 42.81688768,
+        "Percentage": 0.06555811865482893
+      },
+      {
+        "Hero": "Sombra",
+        "Time Played": 225.79818250000002,
+        "Percentage": 0.34572583021475034
+      },
+      {
+        "Hero": "Tracer",
+        "Time Played": 23.333898899999998,
+        "Percentage": 0.03572717672051921
+      },
+      {
+        "Hero": "Orisa",
+        "Time Played": 698.8285837999999,
+        "Percentage": 1.069995735293632
+      },
+      {
+        "Hero": "Winston",
+        "Time Played": 365.9562664,
+        "Percentage": 0.5603257414325306
+      },
+      {
+        "Hero": "Wrecking Ball",
+        "Time Played": 40.87062961,
+        "Percentage": 0.06257814919886172
+      },
+      {
+        "Hero": "Mei",
+        "Time Played": 408.8224535,
+        "Percentage": 0.6259593437901948
+      },
+      {
+        "Hero": "Ana",
+        "Time Played": 698.8285837999999,
+        "Percentage": 1.069995735293632
+      },
+      {
+        "Hero": "Baptiste",
+        "Time Played": 663.7861159,
+        "Percentage": 1.016341245370972
+      },
+      {
+        "Hero": "Moira",
+        "Time Played": 249.1449685,
+        "Percentage": 0.38147273872981824
+      },
+      {
+        "Hero": "L\u00facio",
+        "Time Played": 473.03040130000005,
+        "Percentage": 0.7242699050788818
+      },
+      {
+        "Hero": "Mercy",
+        "Time Played": 225.79818250000002,
+        "Percentage": 0.34572583021475034
+      },
+      {
+        "Hero": "D.Va",
+        "Time Played": 698.8285837999999,
+        "Percentage": 1.069995735293632
+      },
+      {
+        "Hero": "Reinhardt",
+        "Time Played": 292.0016878,
+        "Percentage": 0.4470918446775511
+      },
+      {
+        "Hero": "Doomfist",
+        "Time Played": 40.87404889,
+        "Percentage": 0.06258338455285636
+      },
+      {
+        "Hero": "Genji",
+        "Time Played": 225.79818250000002,
+        "Percentage": 0.34572583021475034
+      },
+      {
+        "Hero": "Hanzo",
+        "Time Played": 442.86703099999994,
+        "Percentage": 0.678085936175401
+      },
+      {
+        "Hero": "Widowmaker",
+        "Time Played": 35.01517785,
+        "Percentage": 0.053612705373783896
+      },
+      {
+        "Hero": "Reaper",
+        "Time Played": 12.64614046,
+        "Percentage": 0.019362854745501968
+      },
+      {
+        "Hero": "Roadhog",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Sigma",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Zarya",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Ashe",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Bastion",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Junkrat",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Symmetra",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Torbj\u00f6rn",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Brigitte",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Zenyatta",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      }
+    ],
+    "30997": [
+      {
+        "Hero": "Reinhardt",
+        "Time Played": 334.8884988,
+        "Percentage": 0.5127570248578126
+      },
+      {
+        "Hero": "Doomfist",
+        "Time Played": 115.79125020000001,
+        "Percentage": 0.17729117951159273
+      },
+      {
+        "Hero": "Mei",
+        "Time Played": 7.784305215,
+        "Percentage": 0.01191876459457722
+      },
+      {
+        "Hero": "McCree",
+        "Time Played": 265.7665057,
+        "Percentage": 0.40692243316177124
+      },
+      {
+        "Hero": "Ana",
+        "Time Played": 222.86419130000002,
+        "Percentage": 0.34123351529781
+      },
+      {
+        "Hero": "Moira",
+        "Time Played": 144.0199792,
+        "Percentage": 0.22051296571632534
+      },
+      {
+        "Hero": "D.Va",
+        "Time Played": 690.093119,
+        "Percentage": 1.0566206240024163
+      },
+      {
+        "Hero": "L\u00facio",
+        "Time Played": 690.093119,
+        "Percentage": 1.0566206240024163
+      },
+      {
+        "Hero": "Reaper",
+        "Time Played": 664.8089798999999,
+        "Percentage": 1.0179073806767631
+      },
+      {
+        "Hero": "Symmetra",
+        "Time Played": 4.872166991,
+        "Percentage": 0.007459909372425427
+      },
+      {
+        "Hero": "Baptiste",
+        "Time Played": 323.20894849999996,
+        "Percentage": 0.494874142988281
+      },
+      {
+        "Hero": "Orisa",
+        "Time Played": 72.99878412,
+        "Percentage": 0.1117704534426637
+      },
+      {
+        "Hero": "Sombra",
+        "Time Played": 479.8455898,
+        "Percentage": 0.7347048283193844
+      },
+      {
+        "Hero": "Tracer",
+        "Time Played": 5.844760835,
+        "Percentage": 0.00894907465469538
+      },
+      {
+        "Hero": "Winston",
+        "Time Played": 222.86419130000002,
+        "Percentage": 0.34123351529781
+      },
+      {
+        "Hero": "Wrecking Ball",
+        "Time Played": 132.3404289,
+        "Percentage": 0.20263008384679376
+      },
+      {
+        "Hero": "Genji",
+        "Time Played": 222.86419130000002,
+        "Percentage": 0.34123351529781
+      },
+      {
+        "Hero": "Soldier: 76",
+        "Time Played": 0.9766113759999999,
+        "Percentage": 0.0014953166364161043
+      },
+      {
+        "Hero": "Brigitte",
+        "Time Played": 72.01766579999999,
+        "Percentage": 0.11026823609987839
+      },
+      {
+        "Hero": "Widowmaker",
+        "Time Played": 16.52322251,
+        "Percentage": 0.025299162096190923
+      },
+      {
+        "Hero": "Roadhog",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Sigma",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Zarya",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Ashe",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Bastion",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Hanzo",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Junkrat",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Pharah",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Torbj\u00f6rn",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Mercy",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Zenyatta",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      }
+    ],
+    "30998": [
+      {
+        "Hero": "L\u00facio",
+        "Time Played": 268.5730842,
+        "Percentage": 0.41121966297660983
+      },
+      {
+        "Hero": "Baptiste",
+        "Time Played": 580.0666363,
+        "Percentage": 0.8881560391421447
+      },
+      {
+        "Hero": "Moira",
+        "Time Played": 97.30191666,
+        "Percentage": 0.14898165054435258
+      },
+      {
+        "Hero": "McCree",
+        "Time Played": 222.90095219999998,
+        "Percentage": 0.3412898009265569
+      },
+      {
+        "Hero": "Reaper",
+        "Time Played": 226.7625262,
+        "Percentage": 0.34720236347380284
+      },
+      {
+        "Hero": "Symmetra",
+        "Time Played": 106.074895,
+        "Percentage": 0.1624141998521953
+      },
+      {
+        "Hero": "Tracer",
+        "Time Played": 65.17836463,
+        "Percentage": 0.09979639328472659
+      },
+      {
+        "Hero": "Doomfist",
+        "Time Played": 12.65316826,
+        "Percentage": 0.0193736152040791
+      },
+      {
+        "Hero": "Mei",
+        "Time Played": 719.1977825,
+        "Percentage": 1.1011835776996122
+      },
+      {
+        "Hero": "Sombra",
+        "Time Played": 169.3359814,
+        "Percentage": 0.2592749955139454
+      },
+      {
+        "Hero": "Orisa",
+        "Time Played": 739.6398565000001,
+        "Percentage": 1.13248300148909
+      },
+      {
+        "Hero": "Wrecking Ball",
+        "Time Played": 1.95015955,
+        "Percentage": 0.0029859431196926213
+      },
+      {
+        "Hero": "Reinhardt",
+        "Time Played": 739.6398565000001,
+        "Percentage": 1.13248300148909
+      },
+      {
+        "Hero": "Ana",
+        "Time Played": 739.6398565000001,
+        "Percentage": 1.13248300148909
+      },
+      {
+        "Hero": "D.Va",
+        "Time Played": 739.6398565000001,
+        "Percentage": 1.13248300148909
+      },
+      {
+        "Hero": "Brigitte",
+        "Time Played": 471.0667723,
+        "Percentage": 0.7212633385124801
+      },
+      {
+        "Hero": "Zarya",
+        "Time Played": 0.9730250840000001,
+        "Percentage": 0.0014898255657380113
+      },
+      {
+        "Hero": "Sigma",
+        "Time Played": 255.9877363,
+        "Percentage": 0.39194988939785674
+      },
+      {
+        "Hero": "Mercy",
+        "Time Played": 258.9128314,
+        "Percentage": 0.396428583250517
+      },
+      {
+        "Hero": "Genji",
+        "Time Played": 170.3549186,
+        "Percentage": 0.2608351183878604
+      },
+      {
+        "Hero": "Widowmaker",
+        "Time Played": 224.7980134,
+        "Percentage": 0.34419444369682456
+      },
+      {
+        "Hero": "Junkrat",
+        "Time Played": 262.7577081,
+        "Percentage": 0.4023155801008165
+      },
+      {
+        "Hero": "Winston",
+        "Time Played": 258.9128314,
+        "Percentage": 0.396428583250517
+      },
+      {
+        "Hero": "Soldier: 76",
+        "Time Played": 13.62741798,
+        "Percentage": 0.02086531584380187
+      },
+      {
+        "Hero": "Roadhog",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Ashe",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Bastion",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Hanzo",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Pharah",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Torbj\u00f6rn",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Zenyatta",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      }
+    ],
+    "31001": [
+      {
+        "Hero": "D.Va",
+        "Time Played": 1016.2480419999999,
+        "Percentage": 1.5560054298690578
+      },
+      {
+        "Hero": "Ana",
+        "Time Played": 764.1186774,
+        "Percentage": 1.1699631998885198
+      },
+      {
+        "Hero": "Reinhardt",
+        "Time Played": 979.2641022,
+        "Percentage": 1.499378298727436
+      },
+      {
+        "Hero": "Brigitte",
+        "Time Played": 234.62557909999998,
+        "Percentage": 0.35924170082265416
+      },
+      {
+        "Hero": "L\u00facio",
+        "Time Played": 357.2423192,
+        "Percentage": 0.546983576332652
+      },
+      {
+        "Hero": "Doomfist",
+        "Time Played": 71.09916675,
+        "Percentage": 0.10886189684994795
+      },
+      {
+        "Hero": "Mei",
+        "Time Played": 945.1488756000001,
+        "Percentage": 1.4471435335550047
+      },
+      {
+        "Hero": "McCree",
+        "Time Played": 950.0160351,
+        "Percentage": 1.4545957758197317
+      },
+      {
+        "Hero": "Symmetra",
+        "Time Played": 3.884184957,
+        "Percentage": 0.0059471828076670605
+      },
+      {
+        "Hero": "Widowmaker",
+        "Time Played": 404.93714730000005,
+        "Percentage": 0.6200104442164195
+      },
+      {
+        "Hero": "Wrecking Ball",
+        "Time Played": 36.98394018,
+        "Percentage": 0.05662713172345026
+      },
+      {
+        "Hero": "Moira",
+        "Time Played": 17.50378579,
+        "Percentage": 0.026800529601910764
+      },
+      {
+        "Hero": "Tracer",
+        "Time Played": 66.23200721,
+        "Percentage": 0.10140965452397555
+      },
+      {
+        "Hero": "Orisa",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Roadhog",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Sigma",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Winston",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Zarya",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Ashe",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Bastion",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Genji",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Hanzo",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Junkrat",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Pharah",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Reaper",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Soldier: 76",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Sombra",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Torbj\u00f6rn",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Baptiste",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Mercy",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Zenyatta",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      }
+    ],
+    "31002": [
+      {
+        "Hero": "Ana",
+        "Time Played": 579.1475522999999,
+        "Percentage": 0.886748804259122
+      },
+      {
+        "Hero": "Baptiste",
+        "Time Played": 469.1437152,
+        "Percentage": 0.7183188927021251
+      },
+      {
+        "Hero": "Moira",
+        "Time Played": 90.55533648,
+        "Percentage": 0.13865177539648293
+      },
+      {
+        "Hero": "L\u00facio",
+        "Time Played": 1138.8466039999998,
+        "Percentage": 1.7437194723883527
+      },
+      {
+        "Hero": "D.Va",
+        "Time Played": 624.928488,
+        "Percentage": 0.9568452586576893
+      },
+      {
+        "Hero": "Orisa",
+        "Time Played": 513.918116,
+        "Percentage": 0.7868742137306636
+      },
+      {
+        "Hero": "Wrecking Ball",
+        "Time Played": 32.13571399,
+        "Percentage": 0.04920387877230374
+      },
+      {
+        "Hero": "Reinhardt",
+        "Time Played": 1106.71089,
+        "Percentage": 1.694515593600738
+      },
+      {
+        "Hero": "McCree",
+        "Time Played": 100.25661109999999,
+        "Percentage": 0.1535056647635543
+      },
+      {
+        "Hero": "Symmetra",
+        "Time Played": 2.9184513689999996,
+        "Percentage": 0.004468521452730911
+      },
+      {
+        "Hero": "Tracer",
+        "Time Played": 34.08641505,
+        "Percentage": 0.05219065101290534
+      },
+      {
+        "Hero": "Widowmaker",
+        "Time Played": 173.2298298,
+        "Percentage": 0.26523697428594184
+      },
+      {
+        "Hero": "Mei",
+        "Time Played": 1076.5281630000002,
+        "Percentage": 1.6483019871195603
+      },
+      {
+        "Hero": "Reaper",
+        "Time Played": 73.97697455,
+        "Percentage": 0.1132681878122478
+      },
+      {
+        "Hero": "Doomfist",
+        "Time Played": 62.31844074,
+        "Percentage": 0.0954174848706996
+      },
+      {
+        "Hero": "Hanzo",
+        "Time Played": 1030.783214,
+        "Percentage": 1.5782606329507487
+      },
+      {
+        "Hero": "Junkrat",
+        "Time Played": 175.26464030000002,
+        "Percentage": 0.2683525288119053
+      },
+      {
+        "Hero": "Roadhog",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Sigma",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Winston",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Zarya",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Ashe",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Bastion",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Genji",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Pharah",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Soldier: 76",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Sombra",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Torbj\u00f6rn",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Brigitte",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Mercy",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Zenyatta",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      }
+    ],
+    "31005": [
+      {
+        "Hero": "Doomfist",
+        "Time Played": 48.6783607,
+        "Percentage": 0.0745327817973051
+      },
+      {
+        "Hero": "Mei",
+        "Time Played": 1027.867338,
+        "Percentage": 1.5737960547165848
+      },
+      {
+        "Hero": "L\u00facio",
+        "Time Played": 1017.164816,
+        "Percentage": 1.5574091278473146
+      },
+      {
+        "Hero": "D.Va",
+        "Time Played": 1027.867338,
+        "Percentage": 1.5737960547165848
+      },
+      {
+        "Hero": "Orisa",
+        "Time Played": 462.332459,
+        "Percentage": 0.7078899903147007
+      },
+      {
+        "Hero": "Reinhardt",
+        "Time Played": 1016.1932539999999,
+        "Percentage": 1.555921542449876
+      },
+      {
+        "Hero": "Ana",
+        "Time Played": 1027.867338,
+        "Percentage": 1.5737960547165848
+      },
+      {
+        "Hero": "Baptiste",
+        "Time Played": 328.0403473,
+        "Percentage": 0.5022716310580911
+      },
+      {
+        "Hero": "McCree",
+        "Time Played": 807.8934217999999,
+        "Percentage": 1.236987919408255
+      },
+      {
+        "Hero": "Symmetra",
+        "Time Played": 4.871803701,
+        "Percentage": 0.00745935312907808
+      },
+      {
+        "Hero": "Wrecking Ball",
+        "Time Played": 11.67408413,
+        "Percentage": 0.017874512465755082
+      },
+      {
+        "Hero": "Hanzo",
+        "Time Played": 160.5778185,
+        "Percentage": 0.24586513053525572
+      },
+      {
+        "Hero": "Widowmaker",
+        "Time Played": 136.252004,
+        "Percentage": 0.2086192044584924
+      },
+      {
+        "Hero": "Tracer",
+        "Time Played": 83.72191209,
+        "Percentage": 0.12818893068141324
+      },
+      {
+        "Hero": "Sombra",
+        "Time Played": 31.15087849,
+        "Percentage": 0.04769596995261048
+      },
+      {
+        "Hero": "Brigitte",
+        "Time Played": 10.70252192,
+        "Percentage": 0.01638692674678001
+      },
+      {
+        "Hero": "Roadhog",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Sigma",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Winston",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Zarya",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Ashe",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Bastion",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Genji",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Junkrat",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Pharah",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Reaper",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Soldier: 76",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Torbj\u00f6rn",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Mercy",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Moira",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Zenyatta",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      }
+    ],
+    "31006": [
+      {
+        "Hero": "Orisa",
+        "Time Played": 741.6736485,
+        "Percentage": 1.1355969965615884
+      },
+      {
+        "Hero": "Wrecking Ball",
+        "Time Played": 0.9710271359999999,
+        "Percentage": 0.0014867664524033592
+      },
+      {
+        "Hero": "Reinhardt",
+        "Time Played": 774.7654692000001,
+        "Percentage": 1.1862647967101798
+      },
+      {
+        "Hero": "Brigitte",
+        "Time Played": 734.8539326,
+        "Percentage": 1.1251551412939702
+      },
+      {
+        "Hero": "L\u00facio",
+        "Time Played": 774.7654692000001,
+        "Percentage": 1.1862647967101798
+      },
+      {
+        "Hero": "Mei",
+        "Time Played": 768.9249365000001,
+        "Percentage": 1.1773221958696976
+      },
+      {
+        "Hero": "Doomfist",
+        "Time Played": 23.344901500000002,
+        "Percentage": 0.035744023105097715
+      },
+      {
+        "Hero": "McCree",
+        "Time Played": 681.3184505,
+        "Percentage": 1.043185486843942
+      },
+      {
+        "Hero": "Symmetra",
+        "Time Played": 5.84053272,
+        "Percentage": 0.008942600871104947
+      },
+      {
+        "Hero": "Tracer",
+        "Time Played": 8.761300147,
+        "Percentage": 0.0134146685041727
+      },
+      {
+        "Hero": "Ana",
+        "Time Played": 774.7654692000001,
+        "Percentage": 1.1862647967101798
+      },
+      {
+        "Hero": "Baptiste",
+        "Time Played": 31.14222926,
+        "Percentage": 0.04768272687780199
+      },
+      {
+        "Hero": "D.Va",
+        "Time Played": 773.7944421,
+        "Percentage": 1.184778030312897
+      },
+      {
+        "Hero": "Widowmaker",
+        "Time Played": 84.68571854,
+        "Percentage": 0.12966464134216038
+      },
+      {
+        "Hero": "Sombra",
+        "Time Played": 160.6052312,
+        "Percentage": 0.24590710287693268
+      },
+      {
+        "Hero": "Roadhog",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Sigma",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Winston",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Zarya",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Ashe",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Bastion",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Genji",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Hanzo",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Junkrat",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Pharah",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Reaper",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Soldier: 76",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Torbj\u00f6rn",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Mercy",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Moira",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Zenyatta",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      }
+    ],
+    "31010": [
+      {
+        "Hero": "L\u00facio",
+        "Time Played": 998.7184695000001,
+        "Percentage": 1.5291654175236433
+      },
+      {
+        "Hero": "D.Va",
+        "Time Played": 998.7184695000001,
+        "Percentage": 1.5291654175236433
+      },
+      {
+        "Hero": "Ana",
+        "Time Played": 984.0996844,
+        "Percentage": 1.5067821921164657
+      },
+      {
+        "Hero": "Reinhardt",
+        "Time Played": 988.0126395,
+        "Percentage": 1.5127734256842582
+      },
+      {
+        "Hero": "Wrecking Ball",
+        "Time Played": 10.70583004,
+        "Percentage": 0.016391991900630173
+      },
+      {
+        "Hero": "McCree",
+        "Time Played": 932.5315887,
+        "Percentage": 1.4278248572916994
+      },
+      {
+        "Hero": "Mei",
+        "Time Played": 986.0655401,
+        "Percentage": 1.5097921680447037
+      },
+      {
+        "Hero": "Tracer",
+        "Time Played": 12.65292943,
+        "Percentage": 0.01937324952487338
+      },
+      {
+        "Hero": "Moira",
+        "Time Played": 14.61878508,
+        "Percentage": 0.022383225376555037
+      },
+      {
+        "Hero": "Doomfist",
+        "Time Played": 46.72612053,
+        "Percentage": 0.07154365298289653
+      },
+      {
+        "Hero": "Widowmaker",
+        "Time Played": 19.46076024,
+        "Percentage": 0.029796907203113576
+      },
+      {
+        "Hero": "Mercy",
+        "Time Played": 150.8617831,
+        "Percentage": 0.23098864053046614
+      },
+      {
+        "Hero": "Winston",
+        "Time Played": 154.75401519999997,
+        "Percentage": 0.23694814454091578
+      },
+      {
+        "Hero": "Sombra",
+        "Time Played": 158.6488612,
+        "Percentage": 0.24291165076581026
+      },
+      {
+        "Hero": "Genji",
+        "Time Played": 156.70132809999998,
+        "Percentage": 0.2399297290762138
+      },
+      {
+        "Hero": "Orisa",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Roadhog",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Sigma",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Zarya",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Ashe",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Bastion",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Hanzo",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Junkrat",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Pharah",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Reaper",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Soldier: 76",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Symmetra",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Torbj\u00f6rn",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Baptiste",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Brigitte",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Zenyatta",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      }
+    ],
+    "31011": [
+      {
+        "Hero": "Mei",
+        "Time Played": 548.0021169,
+        "Percentage": 0.8390611683718631
+      },
+      {
+        "Hero": "McCree",
+        "Time Played": 393.222802,
+        "Percentage": 0.602074286761898
+      },
+      {
+        "Hero": "Symmetra",
+        "Time Played": 123.6257594,
+        "Percentage": 0.1892868128134467
+      },
+      {
+        "Hero": "Widowmaker",
+        "Time Played": 3.897579789,
+        "Percentage": 0.005967692004696523
+      },
+      {
+        "Hero": "D.Va",
+        "Time Played": 497.3822505,
+        "Percentage": 0.7615556936034833
+      },
+      {
+        "Hero": "Ana",
+        "Time Played": 494.46726950000004,
+        "Percentage": 0.7570924857285253
+      },
+      {
+        "Hero": "L\u00facio",
+        "Time Played": 548.0021169,
+        "Percentage": 0.8390611683718631
+      },
+      {
+        "Hero": "Reinhardt",
+        "Time Played": 541.1940331000001,
+        "Percentage": 0.8286371233336504
+      },
+      {
+        "Hero": "Tracer",
+        "Time Played": 9.739480257,
+        "Percentage": 0.014912387072519927
+      },
+      {
+        "Hero": "Wrecking Ball",
+        "Time Played": 6.808083773,
+        "Percentage": 0.010424044996872349
+      },
+      {
+        "Hero": "Moira",
+        "Time Played": 0.9719110129999999,
+        "Percentage": 0.001488119780876819
+      },
+      {
+        "Hero": "Doomfist",
+        "Time Played": 31.15355539,
+        "Percentage": 0.0477000686280943
+      },
+      {
+        "Hero": "Reaper",
+        "Time Played": 3.895450473,
+        "Percentage": 0.005964431750190756
+      },
+      {
+        "Hero": "Brigitte",
+        "Time Played": 223.8624248,
+        "Percentage": 0.34276193816514494
+      },
+      {
+        "Hero": "Winston",
+        "Time Played": 431.17128399999996,
+        "Percentage": 0.6601782550914017
+      },
+      {
+        "Hero": "Sombra",
+        "Time Played": 389.3267309,
+        "Percentage": 0.5961089047525756
+      },
+      {
+        "Hero": "Mercy",
+        "Time Played": 316.3279298,
+        "Percentage": 0.4843384253113652
+      },
+      {
+        "Hero": "Genji",
+        "Time Played": 408.7848736,
+        "Percentage": 0.6259018041679401
+      },
+      {
+        "Hero": "Torbj\u00f6rn",
+        "Time Played": 89.55950207,
+        "Percentage": 0.13712702584207204
+      },
+      {
+        "Hero": "Hanzo",
+        "Time Played": 5.841937125,
+        "Percentage": 0.008944751194367991
+      },
+      {
+        "Hero": "Orisa",
+        "Time Played": 50.61986637,
+        "Percentage": 0.07750547472244587
+      },
+      {
+        "Hero": "Baptiste",
+        "Time Played": 53.53484738,
+        "Percentage": 0.08196868261271524
+      },
+      {
+        "Hero": "Roadhog",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Sigma",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Zarya",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Ashe",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Bastion",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Junkrat",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Pharah",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Soldier: 76",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Zenyatta",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      }
+    ],
+    "31012": [
+      {
+        "Hero": "Reinhardt",
+        "Time Played": 794.287047,
+        "Percentage": 1.2161548233582324
+      },
+      {
+        "Hero": "Winston",
+        "Time Played": 632.7162141,
+        "Percentage": 0.968769261063721
+      },
+      {
+        "Hero": "L\u00facio",
+        "Time Played": 755.3501441000001,
+        "Percentage": 1.156537456504123
+      },
+      {
+        "Hero": "D.Va",
+        "Time Played": 794.287047,
+        "Percentage": 1.2161548233582324
+      },
+      {
+        "Hero": "Sigma",
+        "Time Played": 309.52856760000003,
+        "Percentage": 0.47392773415566564
+      },
+      {
+        "Hero": "Wrecking Ball",
+        "Time Played": 10.71631956,
+        "Percentage": 0.016408052694257484
+      },
+      {
+        "Hero": "Ana",
+        "Time Played": 757.3022287,
+        "Percentage": 1.1595263471210102
+      },
+      {
+        "Hero": "Moira",
+        "Time Played": 36.98481822,
+        "Percentage": 0.0566284761147319
+      },
+      {
+        "Hero": "Doomfist",
+        "Time Played": 44.77269346,
+        "Percentage": 0.06855270687313447
+      },
+      {
+        "Hero": "Mei",
+        "Time Played": 749.5143535,
+        "Percentage": 1.1476021164238528
+      },
+      {
+        "Hero": "Sombra",
+        "Time Played": 421.47707189999994,
+        "Percentage": 0.6453351793436579
+      },
+      {
+        "Hero": "McCree",
+        "Time Played": 780.6550492,
+        "Percentage": 1.195282495225606
+      },
+      {
+        "Hero": "Reaper",
+        "Time Played": 305.6339102,
+        "Percentage": 0.46796451670143735
+      },
+      {
+        "Hero": "Symmetra",
+        "Time Played": 5.838220357999999,
+        "Percentage": 0.008939060349815732
+      },
+      {
+        "Hero": "Tracer",
+        "Time Played": 13.63199776,
+        "Percentage": 0.02087232807138125
+      },
+      {
+        "Hero": "Widowmaker",
+        "Time Played": 538.2024806,
+        "Percentage": 0.8240566747213434
+      },
+      {
+        "Hero": "Brigitte",
+        "Time Played": 38.93690282,
+        "Percentage": 0.059617366731619076
+      },
+      {
+        "Hero": "Mercy",
+        "Time Played": 209.2908219,
+        "Percentage": 0.3204509547268165
+      },
+      {
+        "Hero": "Torbj\u00f6rn",
+        "Time Played": 101.2655357,
+        "Percentage": 0.15505045706921905
+      },
+      {
+        "Hero": "Pharah",
+        "Time Played": 209.2880804,
+        "Percentage": 0.3204467571404895
+      },
+      {
+        "Hero": "Hanzo",
+        "Time Played": 137.2776132,
+        "Percentage": 0.21018954301578296
+      },
+      {
+        "Hero": "Baptiste",
+        "Time Played": 156.71400559999998,
+        "Percentage": 0.23994913994641665
+      },
+      {
+        "Hero": "Orisa",
+        "Time Played": 182.015306,
+        "Percentage": 0.2786886594122246
+      },
+      {
+        "Hero": "Roadhog",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Zarya",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Ashe",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Bastion",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Genji",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Junkrat",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Soldier: 76",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Zenyatta",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      }
+    ],
+    "31016": [
+      {
+        "Hero": "Mei",
+        "Time Played": 743.6496549999999,
+        "Percentage": 1.1386225146599116
+      },
+      {
+        "Hero": "Sombra",
+        "Time Played": 173.23139790000002,
+        "Percentage": 0.2652393752471381
+      },
+      {
+        "Hero": "Tracer",
+        "Time Played": 18.48357219,
+        "Percentage": 0.02830070760521742
+      },
+      {
+        "Hero": "L\u00facio",
+        "Time Played": 743.6496549999999,
+        "Percentage": 1.1386225146599116
+      },
+      {
+        "Hero": "D.Va",
+        "Time Played": 741.7023437999999,
+        "Percentage": 1.1356409327275303
+      },
+      {
+        "Hero": "Orisa",
+        "Time Played": 198.52409540000002,
+        "Percentage": 0.3039657225752794
+      },
+      {
+        "Hero": "Reinhardt",
+        "Time Played": 743.6496549999999,
+        "Percentage": 1.1386225146599116
+      },
+      {
+        "Hero": "Winston",
+        "Time Played": 568.3194887999999,
+        "Percentage": 0.8701696573337231
+      },
+      {
+        "Hero": "Wrecking Ball",
+        "Time Played": 1.947311223,
+        "Percentage": 0.002981581967596997
+      },
+      {
+        "Hero": "Ana",
+        "Time Played": 743.6496549999999,
+        "Percentage": 1.1386225146599116
+      },
+      {
+        "Hero": "Moira",
+        "Time Played": 40.90135765,
+        "Percentage": 0.06262519774913015
+      },
+      {
+        "Hero": "Doomfist",
+        "Time Played": 17.52619755,
+        "Percentage": 0.026834844866306544
+      },
+      {
+        "Hero": "McCree",
+        "Time Played": 725.1660829,
+        "Percentage": 1.1103218071924956
+      },
+      {
+        "Hero": "Soldier: 76",
+        "Time Played": 40.86766565,
+        "Percentage": 0.06257361099788783
+      },
+      {
+        "Hero": "Mercy",
+        "Time Played": 565.4043373,
+        "Percentage": 0.8657061884015085
+      },
+      {
+        "Hero": "Pharah",
+        "Time Played": 532.3186371,
+        "Percentage": 0.8150477595194191
+      },
+      {
+        "Hero": "Brigitte",
+        "Time Played": 217.0649307,
+        "Percentage": 0.33235410730892284
+      },
+      {
+        "Hero": "Symmetra",
+        "Time Played": 35.050143,
+        "Percentage": 0.05366624148013556
+      },
+      {
+        "Hero": "Baptiste",
+        "Time Played": 15.57904392,
+        "Percentage": 0.023853504193702083
+      },
+      {
+        "Hero": "Reaper",
+        "Time Played": 6.826196969,
+        "Percentage": 0.010451778611269101
+      },
+      {
+        "Hero": "Roadhog",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Sigma",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Zarya",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Ashe",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Bastion",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Genji",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Hanzo",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Junkrat",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Torbj\u00f6rn",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Widowmaker",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Zenyatta",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      }
+    ],
+    "31017": [
+      {
+        "Hero": "Ana",
+        "Time Played": 708.6420609,
+        "Percentage": 1.0850214209750966
+      },
+      {
+        "Hero": "L\u00facio",
+        "Time Played": 754.4281804999999,
+        "Percentage": 1.1551258125860513
+      },
+      {
+        "Hero": "D.Va",
+        "Time Played": 727.1673366,
+        "Percentage": 1.1133859819756688
+      },
+      {
+        "Hero": "Reinhardt",
+        "Time Played": 338.795432,
+        "Percentage": 0.5187390381282851
+      },
+      {
+        "Hero": "McCree",
+        "Time Played": 337.8227452,
+        "Percentage": 0.5172497305185176
+      },
+      {
+        "Hero": "Mei",
+        "Time Played": 329.0608346,
+        "Percentage": 0.5038341273329056
+      },
+      {
+        "Hero": "Baptiste",
+        "Time Played": 362.05986839999997,
+        "Percentage": 0.5543598588975942
+      },
+      {
+        "Hero": "Moira",
+        "Time Played": 45.78611958,
+        "Percentage": 0.0701043915803323
+      },
+      {
+        "Hero": "Orisa",
+        "Time Played": 350.37676339999996,
+        "Percentage": 0.5364715343287678
+      },
+      {
+        "Hero": "Wrecking Ball",
+        "Time Played": 27.26084387,
+        "Percentage": 0.04173983056444857
+      },
+      {
+        "Hero": "Doomfist",
+        "Time Played": 254.05005010000002,
+        "Percentage": 0.3889830445686666
+      },
+      {
+        "Hero": "Hanzo",
+        "Time Played": 4.86177361,
+        "Percentage": 0.007443995779874862
+      },
+      {
+        "Hero": "Reaper",
+        "Time Played": 378.6205671,
+        "Percentage": 0.5797164018227963
+      },
+      {
+        "Hero": "Tracer",
+        "Time Played": 29.23097509,
+        "Percentage": 0.04475635285938113
+      },
+      {
+        "Hero": "Genji",
+        "Time Played": 171.3172958,
+        "Percentage": 0.26230864068447923
+      },
+      {
+        "Hero": "Winston",
+        "Time Played": 387.3744602,
+        "Percentage": 0.5931197291928413
+      },
+      {
+        "Hero": "Brigitte",
+        "Time Played": 399.10616580000004,
+        "Percentage": 0.6110824674819108
+      },
+      {
+        "Hero": "Mercy",
+        "Time Played": 219.00728650000002,
+        "Percentage": 0.33532810189157386
+      },
+      {
+        "Hero": "Sombra",
+        "Time Played": 8.753893077,
+        "Percentage": 0.013403327334829103
+      },
+      {
+        "Hero": "Symmetra",
+        "Time Played": 67.1549747,
+        "Percentage": 0.10282283552573791
+      },
+      {
+        "Hero": "Roadhog",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Sigma",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Zarya",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Ashe",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Bastion",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Junkrat",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Pharah",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Soldier: 76",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Torbj\u00f6rn",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Widowmaker",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Zenyatta",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      }
+    ],
+    "31018": [
+      {
+        "Hero": "D.Va",
+        "Time Played": 925.6864607000001,
+        "Percentage": 1.4173440928562895
+      },
+      {
+        "Hero": "Wrecking Ball",
+        "Time Played": 5.8393458129999996,
+        "Percentage": 0.008940783565033571
+      },
+      {
+        "Hero": "McCree",
+        "Time Played": 900.3838981,
+        "Percentage": 1.3786026408012193
+      },
+      {
+        "Hero": "Torbj\u00f6rn",
+        "Time Played": 0.972414911,
+        "Percentage": 0.0014888913130143443
+      },
+      {
+        "Hero": "Tracer",
+        "Time Played": 25.30256253,
+        "Percentage": 0.03874145194789105
+      },
+      {
+        "Hero": "Ana",
+        "Time Played": 925.6864607000001,
+        "Percentage": 1.4173440928562895
+      },
+      {
+        "Hero": "Moira",
+        "Time Played": 54.51138228,
+        "Percentage": 0.08346388215461667
+      },
+      {
+        "Hero": "Reinhardt",
+        "Time Played": 919.8471149000001,
+        "Percentage": 1.4084033093111605
+      },
+      {
+        "Hero": "Winston",
+        "Time Played": 0.97475934,
+        "Percentage": 0.0014924809329724435
+      },
+      {
+        "Hero": "L\u00facio",
+        "Time Played": 925.6864607000001,
+        "Percentage": 1.4173440928562895
+      },
+      {
+        "Hero": "Doomfist",
+        "Time Played": 8.761114061,
+        "Percentage": 0.013414383582761336
+      },
+      {
+        "Hero": "Mei",
+        "Time Played": 916.9253466,
+        "Percentage": 1.4039297092138139
+      },
+      {
+        "Hero": "Sombra",
+        "Time Played": 52.54150468,
+        "Percentage": 0.08044774818426711
+      },
+      {
+        "Hero": "Hanzo",
+        "Time Played": 58.39330691,
+        "Percentage": 0.08940760411321941
+      },
+      {
+        "Hero": "Reaper",
+        "Time Played": 264.7634227,
+        "Percentage": 0.4053865850911194
+      },
+      {
+        "Hero": "Bastion",
+        "Time Played": 25.30919462,
+        "Percentage": 0.0387516065239639
+      },
+      {
+        "Hero": "Widowmaker",
+        "Time Played": 170.3378685,
+        "Percentage": 0.2608090125090953
+      },
+      {
+        "Hero": "Symmetra",
+        "Time Played": 1.9438220259999999,
+        "Percentage": 0.002976239561753638
+      },
+      {
+        "Hero": "Orisa",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Roadhog",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Sigma",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Zarya",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Ashe",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Genji",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Junkrat",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Pharah",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Soldier: 76",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Baptiste",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Brigitte",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Mercy",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Zenyatta",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      }
+    ],
+    "31023": [
+      {
+        "Hero": "Reinhardt",
+        "Time Played": 690.0745444,
+        "Percentage": 1.0565921839196186
+      },
+      {
+        "Hero": "Winston",
+        "Time Played": 81.75542086,
+        "Percentage": 0.12517798167564886
+      },
+      {
+        "Hero": "D.Va",
+        "Time Played": 744.5891897999999,
+        "Percentage": 1.140061062327343
+      },
+      {
+        "Hero": "Wrecking Ball",
+        "Time Played": 54.514645400000006,
+        "Percentage": 0.08346887840772466
+      },
+      {
+        "Hero": "Ana",
+        "Time Played": 613.1707988,
+        "Percentage": 0.938842736161402
+      },
+      {
+        "Hero": "Brigitte",
+        "Time Played": 213.16503340000003,
+        "Percentage": 0.32638286689916113
+      },
+      {
+        "Hero": "L\u00facio",
+        "Time Played": 744.5891897999999,
+        "Percentage": 1.140061062327343
+      },
+      {
+        "Hero": "Doomfist",
+        "Time Played": 3.892691195,
+        "Percentage": 0.005960206943477163
+      },
+      {
+        "Hero": "Mei",
+        "Time Played": 740.6964986,
+        "Percentage": 1.1341008553762104
+      },
+      {
+        "Hero": "McCree",
+        "Time Played": 676.4473315,
+        "Percentage": 1.0357271820794658
+      },
+      {
+        "Hero": "Sombra",
+        "Time Played": 250.18983070000002,
+        "Percentage": 0.38307255608687346
+      },
+      {
+        "Hero": "Tracer",
+        "Time Played": 2.9195297960000004,
+        "Percentage": 0.004470172662079779
+      },
+      {
+        "Hero": "Widowmaker",
+        "Time Played": 6.812445104,
+        "Percentage": 0.010430722751157712
+      },
+      {
+        "Hero": "Baptiste",
+        "Time Played": 0.9742711190000001,
+        "Percentage": 0.0014917334043223702
+      },
+      {
+        "Hero": "Reaper",
+        "Time Played": 65.22232848,
+        "Percentage": 0.0998637075490506
+      },
+      {
+        "Hero": "Hanzo",
+        "Time Played": 319.2601743,
+        "Percentage": 0.48882806580771926
+      },
+      {
+        "Hero": "Moira",
+        "Time Played": 131.4183909,
+        "Percentage": 0.20121832601282824
+      },
+      {
+        "Hero": "Orisa",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Roadhog",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Sigma",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Zarya",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Ashe",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Bastion",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Genji",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Junkrat",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Pharah",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Soldier: 76",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Symmetra",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Torbj\u00f6rn",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Mercy",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Zenyatta",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      }
+    ],
+    "31024": [
+      {
+        "Hero": "Baptiste",
+        "Time Played": 637.6214336,
+        "Percentage": 0.976279778045066
+      },
+      {
+        "Hero": "Moira",
+        "Time Played": 702.8522092999999,
+        "Percentage": 1.0761564193658375
+      },
+      {
+        "Hero": "Mei",
+        "Time Played": 654.1793351,
+        "Percentage": 1.0016320381001333
+      },
+      {
+        "Hero": "Orisa",
+        "Time Played": 0.976608932,
+        "Percentage": 0.0014953128943402396
+      },
+      {
+        "Hero": "L\u00facio",
+        "Time Played": 702.8522092999999,
+        "Percentage": 1.0761564193658375
+      },
+      {
+        "Hero": "Reinhardt",
+        "Time Played": 2.914778531,
+        "Percentage": 0.004462897869083182
+      },
+      {
+        "Hero": "McCree",
+        "Time Played": 175.21131599999998,
+        "Percentage": 0.268270882504198
+      },
+      {
+        "Hero": "Reaper",
+        "Time Played": 247.2473292,
+        "Percentage": 0.37856721081468264
+      },
+      {
+        "Hero": "Symmetra",
+        "Time Played": 455.6048802,
+        "Percentage": 0.6975892087042679
+      },
+      {
+        "Hero": "Torbj\u00f6rn",
+        "Time Played": 506.22856900000005,
+        "Percentage": 0.7751005360548021
+      },
+      {
+        "Hero": "Doomfist",
+        "Time Played": 48.67287427,
+        "Percentage": 0.07452438137288332
+      },
+      {
+        "Hero": "Genji",
+        "Time Played": 131.39149799999998,
+        "Percentage": 0.20117714955127994
+      },
+      {
+        "Hero": "Winston",
+        "Time Played": 1.9509417409999998,
+        "Percentage": 0.0029871407539245154
+      },
+      {
+        "Hero": "Ana",
+        "Time Played": 333.8313864,
+        "Percentage": 0.5111384508813799
+      },
+      {
+        "Hero": "Sombra",
+        "Time Played": 21.41232425,
+        "Percentage": 0.03278500073028126
+      },
+      {
+        "Hero": "Tracer",
+        "Time Played": 36.97448146,
+        "Percentage": 0.05661264921615741
+      },
+      {
+        "Hero": "D.Va",
+        "Time Played": 698.9608218999999,
+        "Percentage": 1.0701982086988753
+      },
+      {
+        "Hero": "Zarya",
+        "Time Played": 3.8910084960000004,
+        "Percentage": 0.005957630516588623
+      },
+      {
+        "Hero": "Zenyatta",
+        "Time Played": 1.9433076980000001,
+        "Percentage": 0.0029754520599552005
+      },
+      {
+        "Hero": "Brigitte",
+        "Time Played": 234.6283495,
+        "Percentage": 0.359245942658569
+      },
+      {
+        "Hero": "Widowmaker",
+        "Time Played": 10.70145899,
+        "Percentage": 0.016385299265315626
+      },
+      {
+        "Hero": "Wrecking Ball",
+        "Time Played": 72.05198359,
+        "Percentage": 0.11032078101546419
+      },
+      {
+        "Hero": "Soldier: 76",
+        "Time Played": 24.35268682,
+        "Percentage": 0.037287071027705496
+      },
+      {
+        "Hero": "Roadhog",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Sigma",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Ashe",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Bastion",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Hanzo",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Junkrat",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Pharah",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Mercy",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      }
+    ],
+    "31025": [
+      {
+        "Hero": "Doomfist",
+        "Time Played": 596.6419625,
+        "Percentage": 0.9135349786363778
+      },
+      {
+        "Hero": "Mei",
+        "Time Played": 384.3957236,
+        "Percentage": 0.5885589033587978
+      },
+      {
+        "Hero": "L\u00facio",
+        "Time Played": 616.0864527000001,
+        "Percentage": 0.9433069743321253
+      },
+      {
+        "Hero": "McCree",
+        "Time Played": 62.32363731,
+        "Percentage": 0.09542544148247402
+      },
+      {
+        "Hero": "Tracer",
+        "Time Played": 204.3887338,
+        "Percentage": 0.3129452323184515
+      },
+      {
+        "Hero": "Widowmaker",
+        "Time Played": 48.65059477,
+        "Percentage": 0.07449026861542449
+      },
+      {
+        "Hero": "D.Va",
+        "Time Played": 817.5494083,
+        "Percentage": 1.25177246688465
+      },
+      {
+        "Hero": "Reinhardt",
+        "Time Played": 610.2297083999999,
+        "Percentage": 0.9343395514633737
+      },
+      {
+        "Hero": "Ana",
+        "Time Played": 132.35018190000002,
+        "Percentage": 0.20264501693431802
+      },
+      {
+        "Hero": "Moira",
+        "Time Played": 685.1992263999999,
+        "Percentage": 1.0491274499503318
+      },
+      {
+        "Hero": "Wrecking Ball",
+        "Time Played": 4.881504953,
+        "Percentage": 0.0074742069838110445
+      },
+      {
+        "Hero": "Reaper",
+        "Time Played": 561.5883877,
+        "Percentage": 0.85986348263253
+      },
+      {
+        "Hero": "Sombra",
+        "Time Played": 230.71548969999998,
+        "Percentage": 0.35325485500723713
+      },
+      {
+        "Hero": "Brigitte",
+        "Time Played": 366.9247848,
+        "Percentage": 0.5618086666899925
+      },
+      {
+        "Hero": "Mercy",
+        "Time Played": 201.4629556,
+        "Percentage": 0.30846549255252476
+      },
+      {
+        "Hero": "Winston",
+        "Time Played": 202.4381949,
+        "Percentage": 0.3099587083655022
+      },
+      {
+        "Hero": "Genji",
+        "Time Played": 247.2589259,
+        "Percentage": 0.3785849668421708
+      },
+      {
+        "Hero": "Hanzo",
+        "Time Played": 113.8877369,
+        "Percentage": 0.17437665775290973
+      },
+      {
+        "Hero": "Pharah",
+        "Time Played": 202.4381949,
+        "Percentage": 0.3099587083655022
+      },
+      {
+        "Hero": "Symmetra",
+        "Time Played": 2.921691954,
+        "Percentage": 0.004473483201878323
+      },
+      {
+        "Hero": "Orisa",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Roadhog",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Sigma",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Zarya",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Ashe",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Bastion",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Junkrat",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Soldier: 76",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Torbj\u00f6rn",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Baptiste",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Zenyatta",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      }
+    ],
+    "31029": [
+      {
+        "Hero": "Mei",
+        "Time Played": 638.5331062999999,
+        "Percentage": 0.977675665282075
+      },
+      {
+        "Hero": "Tracer",
+        "Time Played": 15.56800157,
+        "Percentage": 0.023836596946801316
+      },
+      {
+        "Hero": "Reinhardt",
+        "Time Played": 638.5331062999999,
+        "Percentage": 0.977675665282075
+      },
+      {
+        "Hero": "Wrecking Ball",
+        "Time Played": 16.54397416,
+        "Percentage": 0.025330935520339617
+      },
+      {
+        "Hero": "Doomfist",
+        "Time Played": 3.9003862139999996,
+        "Percentage": 0.005971988999483274
+      },
+      {
+        "Hero": "McCree",
+        "Time Played": 426.34350889999996,
+        "Percentage": 0.6527863153686911
+      },
+      {
+        "Hero": "Symmetra",
+        "Time Played": 38.92530906,
+        "Percentage": 0.05959961520564605
+      },
+      {
+        "Hero": "D.Va",
+        "Time Played": 638.5331062999999,
+        "Percentage": 0.977675665282075
+      },
+      {
+        "Hero": "Orisa",
+        "Time Played": 0.9743766779999999,
+        "Percentage": 0.0014918950286211467
+      },
+      {
+        "Hero": "Sigma",
+        "Time Played": 36.97861826,
+        "Percentage": 0.05661898318483066
+      },
+      {
+        "Hero": "Ana",
+        "Time Played": 638.5331062999999,
+        "Percentage": 0.977675665282075
+      },
+      {
+        "Hero": "Moira",
+        "Time Played": 43.79077536,
+        "Percentage": 0.06704926496511385
+      },
+      {
+        "Hero": "L\u00facio",
+        "Time Played": 638.5331062999999,
+        "Percentage": 0.977675665282075
+      },
+      {
+        "Hero": "Hanzo",
+        "Time Played": 212.1895974,
+        "Percentage": 0.3248893499133839
+      },
+      {
+        "Hero": "Roadhog",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Winston",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Zarya",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Ashe",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Bastion",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Genji",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Junkrat",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Pharah",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Reaper",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Soldier: 76",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Sombra",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Torbj\u00f6rn",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Widowmaker",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Baptiste",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Brigitte",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Mercy",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Zenyatta",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      }
+    ],
+    "31030": [
+      {
+        "Hero": "Ana",
+        "Time Played": 930.5254801000001,
+        "Percentage": 1.4247532490371204
+      },
+      {
+        "Hero": "Mei",
+        "Time Played": 928.5819096000001,
+        "Percentage": 1.4217773945937686
+      },
+      {
+        "Hero": "Tracer",
+        "Time Played": 32.11647028,
+        "Percentage": 0.0491744141967146
+      },
+      {
+        "Hero": "D.Va",
+        "Time Played": 930.5254801000001,
+        "Percentage": 1.4247532490371204
+      },
+      {
+        "Hero": "L\u00facio",
+        "Time Played": 930.5254801000001,
+        "Percentage": 1.4247532490371204
+      },
+      {
+        "Hero": "Reinhardt",
+        "Time Played": 930.5254801000001,
+        "Percentage": 1.4247532490371204
+      },
+      {
+        "Hero": "Wrecking Ball",
+        "Time Played": 57.45367527,
+        "Percentage": 0.0879689081713907
+      },
+      {
+        "Hero": "McCree",
+        "Time Played": 496.3980612,
+        "Percentage": 0.7600487741984479
+      },
+      {
+        "Hero": "Moira",
+        "Time Played": 123.61153190000002,
+        "Percentage": 0.18926502869545728
+      },
+      {
+        "Hero": "Doomfist",
+        "Time Played": 1.943570495,
+        "Percentage": 0.002975854435696214
+      },
+      {
+        "Hero": "Widowmaker",
+        "Time Played": 402.0109486,
+        "Percentage": 0.6155300606113352
+      },
+      {
+        "Hero": "Reaper",
+        "Time Played": 63.27915692,
+        "Percentage": 0.09688846393374519
+      },
+      {
+        "Hero": "Zarya",
+        "Time Played": 283.2759125,
+        "Percentage": 0.43373156924725675
+      },
+      {
+        "Hero": "Baptiste",
+        "Time Played": 434.13145819999994,
+        "Percentage": 0.664710659522404
+      },
+      {
+        "Hero": "Brigitte",
+        "Time Played": 632.6886015,
+        "Percentage": 0.968726982649636
+      },
+      {
+        "Hero": "Hanzo",
+        "Time Played": 122.6564373,
+        "Percentage": 0.18780265698872917
+      },
+      {
+        "Hero": "Symmetra",
+        "Time Played": 91.46850562,
+        "Percentage": 0.14004995387408425
+      },
+      {
+        "Hero": "Sombra",
+        "Time Played": 165.4781871,
+        "Percentage": 0.2533682201697053
+      },
+      {
+        "Hero": "Orisa",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Roadhog",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Sigma",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Winston",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Ashe",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Bastion",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Genji",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Junkrat",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Pharah",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Soldier: 76",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Torbj\u00f6rn",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Mercy",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Zenyatta",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      }
+    ],
+    "31031": [
+      {
+        "Hero": "D.Va",
+        "Time Played": 631.7364908,
+        "Percentage": 0.967269179674566
+      },
+      {
+        "Hero": "Ana",
+        "Time Played": 420.4981983,
+        "Percentage": 0.6438363989536285
+      },
+      {
+        "Hero": "Orisa",
+        "Time Played": 265.716047,
+        "Percentage": 0.4068451744533268
+      },
+      {
+        "Hero": "Reinhardt",
+        "Time Played": 631.7364908,
+        "Percentage": 0.967269179674566
+      },
+      {
+        "Hero": "Winston",
+        "Time Played": 200.5448656,
+        "Percentage": 0.30705977961034087
+      },
+      {
+        "Hero": "Wrecking Ball",
+        "Time Played": 6.809488237,
+        "Percentage": 0.010426195410471923
+      },
+      {
+        "Hero": "Brigitte",
+        "Time Played": 175.1782589,
+        "Percentage": 0.26822026786587166
+      },
+      {
+        "Hero": "L\u00facio",
+        "Time Played": 631.7364908,
+        "Percentage": 0.967269179674566
+      },
+      {
+        "Hero": "Doomfist",
+        "Time Played": 215.1376165,
+        "Percentage": 0.32940314333524395
+      },
+      {
+        "Hero": "Mei",
+        "Time Played": 631.7364908,
+        "Percentage": 0.967269179674566
+      },
+      {
+        "Hero": "McCree",
+        "Time Played": 377.6806335,
+        "Percentage": 0.5782772435416762
+      },
+      {
+        "Hero": "Sombra",
+        "Time Played": 197.6310214,
+        "Percentage": 0.3025983123212433
+      },
+      {
+        "Hero": "Widowmaker",
+        "Time Played": 397.10626010000004,
+        "Percentage": 0.6080203566587481
+      },
+      {
+        "Hero": "Reaper",
+        "Time Played": 204.42608959999998,
+        "Percentage": 0.31300242881501017
+      },
+      {
+        "Hero": "Symmetra",
+        "Time Played": 23.3455044,
+        "Percentage": 0.035744946221930314
+      },
+      {
+        "Hero": "Tracer",
+        "Time Played": 49.62976766,
+        "Percentage": 0.07598950725663466
+      },
+      {
+        "Hero": "Moira",
+        "Time Played": 211.23829249999997,
+        "Percentage": 0.3234327807209376
+      },
+      {
+        "Hero": "Mercy",
+        "Time Played": 348.45730660000004,
+        "Percentage": 0.5335326010371266
+      },
+      {
+        "Hero": "Pharah",
+        "Time Played": 348.45730660000004,
+        "Percentage": 0.5335326010371266
+      },
+      {
+        "Hero": "Sigma",
+        "Time Played": 0.975956678,
+        "Percentage": 0.0014943142102358585
+      },
+      {
+        "Hero": "Roadhog",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Zarya",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Ashe",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Bastion",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Genji",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Hanzo",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Junkrat",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Soldier: 76",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Torbj\u00f6rn",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Baptiste",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Zenyatta",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      }
+    ],
+    "31032": [
+      {
+        "Hero": "Doomfist",
+        "Time Played": 289.10467339999997,
+        "Percentage": 0.4426561459598074
+      },
+      {
+        "Hero": "Mei",
+        "Time Played": 364.0087557,
+        "Percentage": 0.5573438540401924
+      },
+      {
+        "Hero": "L\u00facio",
+        "Time Played": 257.965538,
+        "Percentage": 0.3949781561764551
+      },
+      {
+        "Hero": "McCree",
+        "Time Played": 93.40113157,
+        "Percentage": 0.14300905081481502
+      },
+      {
+        "Hero": "Reaper",
+        "Time Played": 335.8282775,
+        "Percentage": 0.5141959459672668
+      },
+      {
+        "Hero": "Symmetra",
+        "Time Played": 2.9200012089999996,
+        "Percentage": 0.004470894455537079
+      },
+      {
+        "Hero": "Tracer",
+        "Time Played": 38.93491852,
+        "Percentage": 0.059614328515113967
+      },
+      {
+        "Hero": "D.Va",
+        "Time Played": 653.1134291000001,
+        "Percentage": 1.0
+      },
+      {
+        "Hero": "Reinhardt",
+        "Time Played": 242.3923806,
+        "Percentage": 0.371133664996018
+      },
+      {
+        "Hero": "Ana",
+        "Time Played": 423.38260959999997,
+        "Percentage": 0.6482528007170629
+      },
+      {
+        "Hero": "Moira",
+        "Time Played": 229.7308195,
+        "Percentage": 0.3517471992829369
+      },
+      {
+        "Hero": "Wrecking Ball",
+        "Time Played": 0.971439719,
+        "Percentage": 0.0014873981696237027
+      },
+      {
+        "Hero": "Baptiste",
+        "Time Played": 68.12699664,
+        "Percentage": 0.1043111251500065
+      },
+      {
+        "Hero": "Orisa",
+        "Time Played": 56.45814455,
+        "Percentage": 0.08644462360512194
+      },
+      {
+        "Hero": "Zarya",
+        "Time Played": 135.25492419999998,
+        "Percentage": 0.20709254805307442
+      },
+      {
+        "Hero": "Widowmaker",
+        "Time Played": 13.60610151,
+        "Percentage": 0.020832677608159746
+      },
+      {
+        "Hero": "Hanzo",
+        "Time Played": 4.870835781,
+        "Percentage": 0.007457871120047376
+      },
+      {
+        "Hero": "Sombra",
+        "Time Played": 223.88402000000002,
+        "Percentage": 0.34279500317198425
+      },
+      {
+        "Hero": "Brigitte",
+        "Time Played": 395.1478912,
+        "Percentage": 0.6050218439766575
+      },
+      {
+        "Hero": "Mercy",
+        "Time Played": 1.9470853209999999,
+        "Percentage": 0.002981236082808942
+      },
+      {
+        "Hero": "Winston",
+        "Time Played": 410.7210485,
+        "Percentage": 0.6288663350039818
+      },
+      {
+        "Hero": "Genji",
+        "Time Played": 17.523803,
+        "Percentage": 0.026831178504701795
+      },
+      {
+        "Hero": "Roadhog",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Sigma",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Ashe",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Bastion",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Junkrat",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Pharah",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Soldier: 76",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Torbj\u00f6rn",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      },
+      {
+        "Hero": "Zenyatta",
+        "Time Played": 0.0,
+        "Percentage": 0.0
+      }
+    ]
   }
-]
+}

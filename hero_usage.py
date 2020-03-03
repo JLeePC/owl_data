@@ -14,6 +14,7 @@ ow_heroes = ['D.Va','Orisa','Reinhardt','Roadhog','Sigma','Winston','Wrecking Ba
 
 match_id_list = []
 match_time = []
+teams = []
 
 data = pd.read_csv('data/phs_2020_1.csv')
 for i in range(len(data)):
@@ -21,8 +22,10 @@ for i in range(len(data)):
         if data['stat_name'][i] == 'Time Played':
             if data['esports_match_id'][i] not in match_id_list:
                 match_id_list.append(data['esports_match_id'][i])
+                teams.append(data['team_name'][i])
                 builder = {}
                 builder['match_id'] = data['esports_match_id'][i]
+                builder['team'] = data['team_name'][i]
                 builder['time_played'] = data['stat_amount'][i]
                 match_time.append(builder)
             else:
@@ -82,7 +85,7 @@ for match in matches['Matches']:
 
 
 with open('usage.json', 'w') as json_file:
-    json.dump(hero_usage, json_file, indent=2)
+    json.dump(matches, json_file, indent=2)
 
 bar_hero = []
 bar_time = []
@@ -94,9 +97,6 @@ for j in range(0,10000):
                 bar_time.append(i['Usage']*100)
 
 plt.barh(bar_hero, bar_time)
-
-# for i, v in enumerate(times_played):
-#     plt.text(v - 12, i - .3, str(v), color='white')
 
 plt.title("Most played heroes 2020")
 plt.xlabel("Percentage")
