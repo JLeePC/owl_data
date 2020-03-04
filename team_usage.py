@@ -8,6 +8,8 @@ import matplotlib
 from collections import Counter
 from matplotlib import pyplot as plt
 
+#! average play time by how many matches there were
+
 ow_heroes = ['D.Va','Orisa','Reinhardt','Roadhog','Sigma','Winston','Wrecking Ball','Zarya',
             'Ashe','Bastion','Doomfist','Genji','Hanzo','Junkrat','McCree','Mei','Pharah','Reaper','Soldier: 76','Sombra','Symmetra','Torbjörn','Tracer','Widowmaker',
             'Ana','Baptiste','Brigitte','Lúcio','Mercy','Moira','Zenyatta']
