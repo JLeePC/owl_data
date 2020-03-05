@@ -2,6 +2,7 @@ import os
 import csv
 import sys
 import json
+import time
 import numpy as np
 import pandas as pd
 import matplotlib
@@ -13,6 +14,8 @@ ow_heroes = ['D.Va','Orisa','Reinhardt','Roadhog','Sigma','Winston','Wrecking Ba
             'Ana','Baptiste','Brigitte','Lúcio','Mercy','Moira','Zenyatta']
 
 data = pd.read_csv('data/phs_2020_1.csv')
+
+print('Compiling data..')
 
 hero_usage = {}
 
@@ -67,6 +70,8 @@ for i in range(len(data)):
                         hero_usage[data['team_name'][i]][match_id][data['map_name'][i]] = {}
                         hero_usage[data['team_name'][i]][match_id][data['map_name'][i]]['map_time']  = float(data['stat_amount'][i])
 
+print('Averaging team percentages..')
+
 team_hero_usage = {}
 
 for team in hero_usage:
@@ -104,6 +109,8 @@ for team in team_hero_usage:
             builder['percentage'] = 0
             team_hero_usage[team]['team_percentage'].append(builder)
             team_hero_usage[team]['heroes_used'].append(hero)
+
+print('Averaging league percentages..')
 
 owl_hero_usage = []
 
