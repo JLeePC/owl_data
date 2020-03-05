@@ -85,8 +85,6 @@ for team in hero_usage:
                     builder['percentage'] = hero['percentage']
                     team_hero_usage[team]['team_percentage'].append(builder)
                     team_hero_usage[team]['heroes_used'].append(hero['hero_name'])
-                    # hero_usage[team]['team_percentage'].append(builder) #! why do these two lines throw errors?
-                    # hero_usage[team]['heroes_used'].append(hero['hero_name'])
                 else:
                     for i in team_hero_usage[team]['team_percentage']:
                         if i['hero_name'] == hero['hero_name']:
