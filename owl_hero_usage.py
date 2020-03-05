@@ -67,31 +67,83 @@ for i in range(len(data)):
                         hero_usage[data['team_name'][i]][match_id][data['map_name'][i]] = {}
                         hero_usage[data['team_name'][i]][match_id][data['map_name'][i]]['map_time']  = float(data['stat_amount'][i])
 
+team_hero_usage = {}
+
 for team in hero_usage:
-    team_percentage_builder = []
-    heroes_used_builder = []
-    hero_usage[team]['team_percentage'] = []
-    hero_usage[team]['heroes_used'] = []
+    maps_played = 0
+    team_hero_usage[team] = {}
+    team_hero_usage[team]['team_percentage'] = []
+    team_hero_usage[team]['heroes_used'] = []
     for match in hero_usage[team]:
+        maps_played = maps_played + len(hero_usage[team][match])
         for match_map in hero_usage[team][match]:
             for hero in hero_usage[team][match][match_map]['heroes']:
                 hero['percentage'] = hero['time_played'] / hero_usage[team][match][match_map]['map_time']
-                if not hero['hero_name'] in hero_usage[team]['heroes_used']:
+                if not hero['hero_name'] in team_hero_usage[team]['heroes_used']:
                     builder = {}
                     builder['hero_name'] = hero['hero_name']
                     builder['percentage'] = hero['percentage']
-                    team_percentage_builder.append(builder)
-                    heroes_used_builder.append(hero['hero_name'])
-                # else:
-                #     for team_2 in hero_usage:
-                #         for hero_2 in hero_usage[team]:
-                #             if hero['hero_name'] == hero_2['hero_name']:
-                #                 hero_2['percentage'] = hero_2['percentage'] + hero['percentage']
-    hero_usage[team]['team_percentage'].append(team_percentage_builder)
-    hero_usage[team]['heroes_used'].append(heroes_used_builder)
-                
-# for i in hero_usage['Dallas Fuel']:
-#     print(len(hero_usage['Dallas Fuel'][i]))
+                    team_hero_usage[team]['team_percentage'].append(builder)
+                    team_hero_usage[team]['heroes_used'].append(hero['hero_name'])
+                    # hero_usage[team]['team_percentage'].append(builder) #! why do these two lines throw errors?
+                    # hero_usage[team]['heroes_used'].append(hero['hero_name'])
+                else:
+                    for i in team_hero_usage[team]['team_percentage']:
+                        if i['hero_name'] == hero['hero_name']:
+                            i['percentage'] = i['percentage'] + hero['percentage']
+
+    hero_usage[team]['maps_played'] = maps_played
+    team_hero_usage[team]['maps_played'] = maps_played
+
+    for i in team_hero_usage[team]['team_percentage']:
+        i['percentage'] = i['percentage'] / hero_usage[team]['maps_played']
+
+for team in team_hero_usage:
+    for hero in ow_heroes:
+        if not hero in team_hero_usage[team]['heroes_used']:
+            builder = {}
+            builder['hero_name'] = hero
+            builder['percentage'] = 0
+            team_hero_usage[team]['team_percentage'].append(builder)
+            team_hero_usage[team]['heroes_used'].append(hero)
+
+owl_hero_usage = []
+
+for hero in ow_heroes:
+    percentage = 0
+    for team in team_hero_usage:
+        for i in team_hero_usage[team]['team_percentage']:
+            if i['hero_name'] == hero:
+                percentage = percentage + i['percentage']
+    percentage = percentage / len(team_hero_usage)
+    builder = {}
+    builder['hero_name'] = hero
+    builder['percentage'] = percentage
+    owl_hero_usage.append(builder)
+
+with open('hero_usage.json', 'w') as json_file:
+    json.dump(hero_usage, json_file, indent=2)
+
+with open('team_hero_usage.json', 'w') as json_file:
+    json.dump(team_hero_usage, json_file, indent=2)
 
 with open('owl_hero_usage.json', 'w') as json_file:
-    json.dump(hero_usage, json_file, indent=2)
+    json.dump(owl_hero_usage, json_file, indent=2)
+
+bar_hero = []
+bar_time = []
+for j in range(0,10000):
+    for i in owl_hero_usage:
+        if int(i['percentage'] * 10000) == j:
+            if i['percentage'] >= 0:
+                bar_hero.append("{} - {}%".format(i['hero_name'],round(i['percentage']*100,2)))
+                bar_time.append(i['percentage']*100)
+
+plt.barh(bar_hero, bar_time)
+
+plt.title("Most played heroes 2020")
+plt.xlabel("Percentage")
+
+plt.tight_layout()
+
+plt.show()
