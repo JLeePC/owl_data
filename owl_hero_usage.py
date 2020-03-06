@@ -21,54 +21,55 @@ hero_usage = {}
 
 for i in range(len(data)):
     match_id = int(data['esports_match_id'][i])
-    if data['stat_name'][i] == 'Time Played':
-        if data['hero_name'][i] != 'All Heroes':
-            builder = {}
-            builder['hero_name'] = data['hero_name'][i]
-            builder['time_played'] = data['stat_amount'][i]
+    if match_id >= 0:
+        if data['stat_name'][i] == 'Time Played':
+            if data['hero_name'][i] != 'All Heroes':
+                builder = {}
+                builder['hero_name'] = data['hero_name'][i]
+                builder['time_played'] = data['stat_amount'][i]
 
-            try:
-                hero_usage[data['team_name'][i]][match_id][data['map_name'][i]]['heroes'].append(builder)
-            except KeyError:
                 try:
-                    hero_usage[data['team_name'][i]][match_id][data['map_name'][i]]['heroes'] = []
                     hero_usage[data['team_name'][i]][match_id][data['map_name'][i]]['heroes'].append(builder)
                 except KeyError:
                     try:
-                        hero_usage[data['team_name'][i]][match_id][data['map_name'][i]] = {}
                         hero_usage[data['team_name'][i]][match_id][data['map_name'][i]]['heroes'] = []
                         hero_usage[data['team_name'][i]][match_id][data['map_name'][i]]['heroes'].append(builder)
                     except KeyError:
                         try:
-                            hero_usage[data['team_name'][i]][match_id] = {}
                             hero_usage[data['team_name'][i]][match_id][data['map_name'][i]] = {}
                             hero_usage[data['team_name'][i]][match_id][data['map_name'][i]]['heroes'] = []
                             hero_usage[data['team_name'][i]][match_id][data['map_name'][i]]['heroes'].append(builder)
                         except KeyError:
-                            hero_usage[data['team_name'][i]] = {}
-                            hero_usage[data['team_name'][i]][match_id] = {}
-                            hero_usage[data['team_name'][i]][match_id][data['map_name'][i]] = {}
-                            hero_usage[data['team_name'][i]][match_id][data['map_name'][i]]['heroes'] = []
-                            hero_usage[data['team_name'][i]][match_id][data['map_name'][i]]['heroes'].append(builder)
+                            try:
+                                hero_usage[data['team_name'][i]][match_id] = {}
+                                hero_usage[data['team_name'][i]][match_id][data['map_name'][i]] = {}
+                                hero_usage[data['team_name'][i]][match_id][data['map_name'][i]]['heroes'] = []
+                                hero_usage[data['team_name'][i]][match_id][data['map_name'][i]]['heroes'].append(builder)
+                            except KeyError:
+                                hero_usage[data['team_name'][i]] = {}
+                                hero_usage[data['team_name'][i]][match_id] = {}
+                                hero_usage[data['team_name'][i]][match_id][data['map_name'][i]] = {}
+                                hero_usage[data['team_name'][i]][match_id][data['map_name'][i]]['heroes'] = []
+                                hero_usage[data['team_name'][i]][match_id][data['map_name'][i]]['heroes'].append(builder)
 
-        else:
-            #* get map play times
-            try:
-                hero_usage[data['team_name'][i]][match_id][data['map_name'][i]]['map_time']  = float(data['stat_amount'][i])
-            except KeyError:
+            else:
+                #* get map play times
                 try:
-                    hero_usage[data['team_name'][i]][match_id][data['map_name'][i]] = {}
                     hero_usage[data['team_name'][i]][match_id][data['map_name'][i]]['map_time']  = float(data['stat_amount'][i])
                 except KeyError:
                     try:
-                        hero_usage[data['team_name'][i]][match_id] = {}
                         hero_usage[data['team_name'][i]][match_id][data['map_name'][i]] = {}
                         hero_usage[data['team_name'][i]][match_id][data['map_name'][i]]['map_time']  = float(data['stat_amount'][i])
                     except KeyError:
-                        hero_usage[data['team_name'][i]] = {}
-                        hero_usage[data['team_name'][i]][match_id] = {}
-                        hero_usage[data['team_name'][i]][match_id][data['map_name'][i]] = {}
-                        hero_usage[data['team_name'][i]][match_id][data['map_name'][i]]['map_time']  = float(data['stat_amount'][i])
+                        try:
+                            hero_usage[data['team_name'][i]][match_id] = {}
+                            hero_usage[data['team_name'][i]][match_id][data['map_name'][i]] = {}
+                            hero_usage[data['team_name'][i]][match_id][data['map_name'][i]]['map_time']  = float(data['stat_amount'][i])
+                        except KeyError:
+                            hero_usage[data['team_name'][i]] = {}
+                            hero_usage[data['team_name'][i]][match_id] = {}
+                            hero_usage[data['team_name'][i]][match_id][data['map_name'][i]] = {}
+                            hero_usage[data['team_name'][i]][match_id][data['map_name'][i]]['map_time']  = float(data['stat_amount'][i])
 
 print('Averaging team percentages..')
 
