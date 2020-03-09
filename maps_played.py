@@ -19,6 +19,7 @@ for i in range(len(pd_data)):
         if pd_round == 1:
             map_counter.update(pd_maps.split('.'))
     previous_round = pd_round
+
 maps = []
 times_played = []
 
@@ -30,9 +31,6 @@ maps.reverse()
 times_played.reverse()
 
 plt.barh(maps, times_played)
-
-# for i, v in enumerate(times_played):
-#     plt.text(v - 12, i - .3, str(v), color='white')
 
 plt.title("Most played maps 2020")
 plt.xlabel("Times played")
