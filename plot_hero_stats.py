@@ -11,8 +11,8 @@ from matplotlib import pyplot as plt
 with open('hero_stats.json', 'r') as json_data:
     hero_stats = json.load(json_data)
 
-    hero_search = 'Ana'
-    stat_search = ['Damage - Biotic Grenade', 'Healing - Biotic Grenade', 'Enemies Slept', 'All Damage Done']
+    hero_search = 'Doomfist'
+    stat_search = ['Solo Kills']
 
     for hero in hero_stats:
         if hero  == hero_search:
