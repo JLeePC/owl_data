@@ -1,1456 +1,4578 @@
 {
   "All Heroes": [
-    "Objective Time",
-    "Damage Done",
-    "Average Time Alive",
-    "Objective Kills",
-    "Deaths",
-    "Eliminations",
-    "Barrier Damage Done",
-    "Time Holding Ultimate",
-    "Time Elapsed per Ultimate Earned",
-    "Time Alive",
-    "Offensive Assists",
-    "Assists",
-    "Damage Taken",
-    "Multikills",
-    "Final Blows",
-    "Time Building Ultimate",
-    "Ultimates Used",
-    "Time Played",
-    "All Damage Done",
-    "Damage Blocked",
-    "Hero Damage Done",
-    "Ultimates Earned - Fractional",
-    "Melee Percentage of Final Blows",
-    "Damage - Quick Melee",
-    "Weapon Accuracy",
-    "Environmental Kills",
-    "Melee Final Blows",
-    "Knockback Kills",
-    "Shots Fired",
-    "Defensive Assists",
-    "Healing Done",
-    "Environmental Deaths",
-    "Solo Kills",
-    "Turrets Destroyed",
-    "Teleporter Pads Destroyed",
-    "Recon Assists"
+    {
+      "Assists": true
+    },
+    {
+      "Time Holding Ultimate": false
+    },
+    {
+      "All Damage Done": true
+    },
+    {
+      "Average Time Alive": false
+    },
+    {
+      "Final Blows": true
+    },
+    {
+      "Time Played": false
+    },
+    {
+      "Objective Time": false
+    },
+    {
+      "Time Alive": false
+    },
+    {
+      "Ultimates Used": true
+    },
+    {
+      "Objective Kills": true
+    },
+    {
+      "Damage Taken": true
+    },
+    {
+      "Hero Damage Done": true
+    },
+    {
+      "Time Building Ultimate": false
+    },
+    {
+      "Eliminations": true
+    },
+    {
+      "Ultimates Earned - Fractional": true
+    },
+    {
+      "Deaths": true
+    },
+    {
+      "Damage Blocked": true
+    },
+    {
+      "Barrier Damage Done": true
+    },
+    {
+      "Time Elapsed per Ultimate Earned": false
+    },
+    {
+      "Multikills": true
+    },
+    {
+      "Offensive Assists": true
+    },
+    {
+      "Damage Done": true
+    },
+    {
+      "Melee Final Blows": true
+    },
+    {
+      "Weapon Accuracy": false
+    },
+    {
+      "Knockback Kills": true
+    },
+    {
+      "Environmental Kills": true
+    },
+    {
+      "Healing Done": true
+    },
+    {
+      "Melee Percentage of Final Blows": false
+    },
+    {
+      "Shots Fired": true
+    },
+    {
+      "Damage - Quick Melee": true
+    },
+    {
+      "Defensive Assists": true
+    },
+    {
+      "Environmental Deaths": true
+    },
+    {
+      "Solo Kills": true
+    },
+    {
+      "Turrets Destroyed": true
+    },
+    {
+      "Teleporter Pads Destroyed": true
+    },
+    {
+      "Recon Assists": true
+    }
   ],
   "Reinhardt": [
-    "Damage Taken",
-    "Eliminations",
-    "Charge Kills",
-    "Offensive Assists",
-    "Average Time Alive",
-    "Time Alive",
-    "Time Building Ultimate",
-    "Fire Strike Kills",
-    "Multikills",
-    "Rocket Hammer Melee Accuracy",
-    "Objective Kills",
-    "Objective Time",
-    "Damage - Charge",
-    "Ultimates Used",
-    "Damage Blocked",
-    "Healing Received",
-    "Ultimates Earned - Fractional",
-    "Damage - Fire Strike",
-    "Earthshatter Stuns",
-    "Rocket Hammer Melee Hits - Multiple",
-    "Eliminations per Life",
-    "Time Holding Ultimate",
-    "Earthshatter Efficiency",
-    "Hero Damage Done",
-    "All Damage Done",
-    "Rocket Hammer Melee Average Targets",
-    "Damage - Weapon",
-    "Barrier Damage Done",
-    "Rocket Hammer Melee Ticks",
-    "Final Blows",
-    "Rocket Hammer Melee Hits",
-    "Time Played",
-    "Deaths",
-    "Damage - Earthshatter",
-    "Assists",
-    "Time Elapsed per Ultimate Earned",
-    "Earthshatter Kills",
-    "Turrets Destroyed",
-    "Solo Kills",
-    "Environmental Deaths",
-    "Time Discorded",
-    "Time Hacked",
-    "Environmental Kills",
-    "Teleporter Pads Destroyed"
+    {
+      "Rocket Hammer Melee Ticks": true
+    },
+    {
+      "Ultimates Earned - Fractional": true
+    },
+    {
+      "Rocket Hammer Melee Hits - Multiple": true
+    },
+    {
+      "Time Holding Ultimate": false
+    },
+    {
+      "All Damage Done": true
+    },
+    {
+      "Assists": true
+    },
+    {
+      "Offensive Assists": true
+    },
+    {
+      "Multikills": true
+    },
+    {
+      "Ultimates Used": true
+    },
+    {
+      "Objective Kills": true
+    },
+    {
+      "Earthshatter Kills": true
+    },
+    {
+      "Deaths": true
+    },
+    {
+      "Damage Taken": true
+    },
+    {
+      "Barrier Damage Done": true
+    },
+    {
+      "Fire Strike Kills": true
+    },
+    {
+      "Damage - Fire Strike": true
+    },
+    {
+      "Hero Damage Done": true
+    },
+    {
+      "Average Time Alive": false
+    },
+    {
+      "Time Alive": false
+    },
+    {
+      "Time Played": false
+    },
+    {
+      "Rocket Hammer Melee Hits": true
+    },
+    {
+      "Earthshatter Efficiency": false
+    },
+    {
+      "Healing Received": true
+    },
+    {
+      "Damage - Weapon": true
+    },
+    {
+      "Final Blows": true
+    },
+    {
+      "Damage - Earthshatter": true
+    },
+    {
+      "Rocket Hammer Melee Average Targets": false
+    },
+    {
+      "Damage Blocked": true
+    },
+    {
+      "Eliminations": true
+    },
+    {
+      "Earthshatter Stuns": true
+    },
+    {
+      "Charge Kills": true
+    },
+    {
+      "Rocket Hammer Melee Accuracy": false
+    },
+    {
+      "Time Building Ultimate": false
+    },
+    {
+      "Eliminations per Life": true
+    },
+    {
+      "Objective Time": false
+    },
+    {
+      "Damage - Charge": true
+    },
+    {
+      "Time Elapsed per Ultimate Earned": false
+    },
+    {
+      "Turrets Destroyed": true
+    },
+    {
+      "Environmental Deaths": true
+    },
+    {
+      "Solo Kills": true
+    },
+    {
+      "Time Discorded": false
+    },
+    {
+      "Time Hacked": false
+    },
+    {
+      "Environmental Kills": true
+    },
+    {
+      "Teleporter Pads Destroyed": true
+    }
   ],
   "L\u00facio": [
-    "Damage - Quick Melee",
-    "Damage Taken",
-    "Soundwave Kills",
-    "Sound Barrier Casts",
-    "Objective Kills",
-    "Self Healing Percent of Damage Taken",
-    "Deaths",
-    "Healing Done",
-    "All Damage Done",
-    "Average Time Alive",
-    "Weapon Accuracy",
-    "Offensive Assists",
-    "Time Building Ultimate",
-    "Time Played",
-    "Critical Hits",
-    "Damage - Weapon Primary",
-    "Healing - Healing Boost Amped",
-    "Eliminations per Life",
-    "Assists",
-    "Sound Barriers Provided",
-    "Self Healing",
-    "Time Holding Ultimate",
-    "Critical Hit Accuracy",
-    "Quick Melee Accuracy",
-    "Environmental Kills",
-    "Ultimates Used",
-    "Shots Missed",
-    "Objective Time",
-    "Players Knocked Back",
-    "Amped Heal Activations",
-    "Healing Received",
-    "Time Alive",
-    "Hero Damage Done",
-    "Defensive Assists",
-    "Heal Song Time Elapsed",
-    "Final Blows",
-    "Ultimates Earned - Fractional",
-    "Damage - Weapon Secondary",
-    "Speed Song Time Elapsed",
-    "Eliminations",
-    "Melee Final Blows",
-    "Amped Speed Activations",
-    "Quick Melee Hits",
-    "Barrier Damage Done",
-    "Quick Melee Ticks",
-    "Shots Fired",
-    "Healing - Healing Boost",
-    "Shots Hit",
-    "Sound Barrier Efficiency",
-    "Time Elapsed per Ultimate Earned",
-    "Knockback Kills",
-    "Multikills",
-    "Turrets Destroyed",
-    "Solo Kills",
-    "Environmental Deaths",
-    "Critical Hit Kills",
-    "Time Discorded",
-    "Time Hacked",
-    "Teleporter Pads Destroyed"
+    {
+      "Critical Hit Accuracy": false
+    },
+    {
+      "Damage - Quick Melee": true
+    },
+    {
+      "Offensive Assists": true
+    },
+    {
+      "Healing Done": true
+    },
+    {
+      "Sound Barrier Efficiency": false
+    },
+    {
+      "Assists": true
+    },
+    {
+      "Self Healing": true
+    },
+    {
+      "Average Time Alive": false
+    },
+    {
+      "Sound Barriers Provided": true
+    },
+    {
+      "Speed Song Time Elapsed": false
+    },
+    {
+      "Shots Fired": true
+    },
+    {
+      "Amped Heal Activations": true
+    },
+    {
+      "Weapon Accuracy": false
+    },
+    {
+      "All Damage Done": true
+    },
+    {
+      "Self Healing Percent of Damage Taken": true
+    },
+    {
+      "Healing - Healing Boost": true
+    },
+    {
+      "Amped Speed Activations": true
+    },
+    {
+      "Time Elapsed per Ultimate Earned": false
+    },
+    {
+      "Soundwave Kills": true
+    },
+    {
+      "Damage - Weapon Primary": true
+    },
+    {
+      "Ultimates Used": true
+    },
+    {
+      "Objective Kills": true
+    },
+    {
+      "Sound Barrier Casts": true
+    },
+    {
+      "Melee Final Blows": true
+    },
+    {
+      "Environmental Kills": true
+    },
+    {
+      "Shots Hit": true
+    },
+    {
+      "Damage - Weapon Secondary": true
+    },
+    {
+      "Heal Song Time Elapsed": false
+    },
+    {
+      "Quick Melee Hits": true
+    },
+    {
+      "Quick Melee Accuracy": false
+    },
+    {
+      "Time Played": false
+    },
+    {
+      "Eliminations per Life": true
+    },
+    {
+      "Quick Melee Ticks": true
+    },
+    {
+      "Knockback Kills": true
+    },
+    {
+      "Damage Taken": true
+    },
+    {
+      "Shots Missed": true
+    },
+    {
+      "Healing - Healing Boost Amped": true
+    },
+    {
+      "Deaths": true
+    },
+    {
+      "Barrier Damage Done": true
+    },
+    {
+      "Critical Hits": true
+    },
+    {
+      "Time Building Ultimate": false
+    },
+    {
+      "Time Alive": false
+    },
+    {
+      "Objective Time": false
+    },
+    {
+      "Final Blows": true
+    },
+    {
+      "Hero Damage Done": true
+    },
+    {
+      "Defensive Assists": true
+    },
+    {
+      "Ultimates Earned - Fractional": true
+    },
+    {
+      "Players Knocked Back": true
+    },
+    {
+      "Eliminations": true
+    },
+    {
+      "Healing Received": true
+    },
+    {
+      "Time Holding Ultimate": false
+    },
+    {
+      "Multikills": true
+    },
+    {
+      "Turrets Destroyed": true
+    },
+    {
+      "Solo Kills": true
+    },
+    {
+      "Critical Hit Kills": true
+    },
+    {
+      "Environmental Deaths": true
+    },
+    {
+      "Time Discorded": false
+    },
+    {
+      "Time Hacked": false
+    },
+    {
+      "Teleporter Pads Destroyed": true
+    }
   ],
   "Moira": [
-    "Eliminations per Life",
-    "Average Time Alive",
-    "Damage - Weapon",
-    "Defensive Assists",
-    "Secondary Fire Ticks",
-    "Barrier Damage Done",
-    "Biotic Orb Damage Efficiency",
-    "Hero Damage Done",
-    "Healing Received",
-    "Self Healing Percent of Damage Taken",
-    "Ultimates Used",
-    "Quick Melee Ticks",
-    "All Damage Done",
-    "Healing - Coalescence",
-    "Coalesence - Damage per Use",
-    "Healing - Secondary Fire",
-    "Coalescence Kills",
-    "Secondary Fire Hits",
-    "Coalescence Healing",
-    "Damage - Coalescence",
-    "Damage Taken",
-    "Final Blows",
-    "Objective Kills",
-    "Time Alive",
-    "Biotic Orb Healing Efficiency",
-    "Time Holding Ultimate",
-    "Healing Done",
-    "Damage - Biotic Orb",
-    "Time Elapsed per Ultimate Earned",
-    "Ultimates Earned - Fractional",
-    "Environmental Deaths",
-    "Time Building Ultimate",
-    "Self Healing",
-    "Healing - Biotic Orb",
-    "Secondary Fire Accuracy",
-    "Objective Time",
-    "Eliminations",
-    "Coalesence - Healing per Use",
-    "Assists",
-    "Time Played",
-    "Biotic Orb Maximum Healing",
-    "Deaths",
-    "Biotic Orb Maximum Damage",
-    "Time Hacked",
-    "Time Discorded",
-    "Multikills",
-    "Quick Melee Accuracy",
-    "Quick Melee Hits",
-    "Damage - Quick Melee",
-    "Melee Final Blows",
-    "Solo Kills",
-    "Turrets Destroyed"
+    {
+      "Self Healing Percent of Damage Taken": true
+    },
+    {
+      "Hero Damage Done": true
+    },
+    {
+      "Secondary Fire Ticks": true
+    },
+    {
+      "Healing - Coalescence": true
+    },
+    {
+      "Objective Time": false
+    },
+    {
+      "Coalescence Healing": true
+    },
+    {
+      "Coalescence Kills": true
+    },
+    {
+      "Healing Received": true
+    },
+    {
+      "Biotic Orb Healing Efficiency": false
+    },
+    {
+      "Coalesence - Healing per Use": true
+    },
+    {
+      "Defensive Assists": true
+    },
+    {
+      "Secondary Fire Hits": true
+    },
+    {
+      "Biotic Orb Maximum Healing": true
+    },
+    {
+      "Assists": true
+    },
+    {
+      "Time Played": false
+    },
+    {
+      "Damage Taken": true
+    },
+    {
+      "Time Holding Ultimate": false
+    },
+    {
+      "Ultimates Earned - Fractional": true
+    },
+    {
+      "Healing Done": true
+    },
+    {
+      "Biotic Orb Damage Efficiency": false
+    },
+    {
+      "Time Alive": false
+    },
+    {
+      "Healing - Secondary Fire": true
+    },
+    {
+      "Quick Melee Ticks": true
+    },
+    {
+      "Secondary Fire Accuracy": false
+    },
+    {
+      "Damage - Biotic Orb": true
+    },
+    {
+      "Coalesence - Damage per Use": true
+    },
+    {
+      "Environmental Deaths": true
+    },
+    {
+      "Biotic Orb Maximum Damage": true
+    },
+    {
+      "Healing - Biotic Orb": true
+    },
+    {
+      "Barrier Damage Done": true
+    },
+    {
+      "Damage - Weapon": true
+    },
+    {
+      "Average Time Alive": false
+    },
+    {
+      "Eliminations per Life": true
+    },
+    {
+      "Objective Kills": true
+    },
+    {
+      "Damage - Coalescence": true
+    },
+    {
+      "Final Blows": true
+    },
+    {
+      "Time Elapsed per Ultimate Earned": false
+    },
+    {
+      "Self Healing": true
+    },
+    {
+      "Time Building Ultimate": false
+    },
+    {
+      "Deaths": true
+    },
+    {
+      "Ultimates Used": true
+    },
+    {
+      "Eliminations": true
+    },
+    {
+      "All Damage Done": true
+    },
+    {
+      "Time Hacked": false
+    },
+    {
+      "Time Discorded": false
+    },
+    {
+      "Multikills": true
+    },
+    {
+      "Quick Melee Hits": true
+    },
+    {
+      "Quick Melee Accuracy": false
+    },
+    {
+      "Damage - Quick Melee": true
+    },
+    {
+      "Melee Final Blows": true
+    },
+    {
+      "Solo Kills": true
+    },
+    {
+      "Turrets Destroyed": true
+    }
   ],
   "Mei": [
-    "Time Elapsed per Ultimate Earned",
-    "Average Time Alive",
-    "Eliminations",
-    "Self Healing",
-    "Damage Taken",
-    "Time Building Ultimate",
-    "Hero Damage Done",
-    "Objective Time",
-    "Shots Hit",
-    "Time Played",
-    "Ultimates Used",
-    "Shots Fired",
-    "Ultimates Earned - Fractional",
-    "Assists",
-    "Enemies Frozen",
-    "Damage - Weapon Primary",
-    "Blizzard Kills",
-    "Healing Received",
-    "Weapon Accuracy",
-    "Deaths",
-    "Time Alive",
-    "Offensive Assists",
-    "Critical Hit Kills",
-    "Freeze Spray Damage",
-    "All Damage Done",
-    "Objective Kills",
-    "Multikills",
-    "Icicle Damage",
-    "Final Blows",
-    "Blizzard Efficiency",
-    "Self Healing Percent of Damage Taken",
-    "Damage - Blizzard",
-    "Damage Blocked",
-    "Quick Melee Ticks",
-    "Time Holding Ultimate",
-    "Successful Freezes",
-    "Damage - Weapon Secondary",
-    "Eliminations per Life",
-    "Shots Missed",
-    "Critical Hits",
-    "Total Time Frozen",
-    "Barrier Damage Done",
-    "Critical Hit Accuracy",
-    "Quick Melee Hits",
-    "Environmental Deaths",
-    "Quick Melee Accuracy",
-    "Damage - Quick Melee",
-    "Turrets Destroyed",
-    "Teleporter Pads Destroyed",
-    "Time Hacked",
-    "Time Discorded",
-    "Melee Final Blows",
-    "Solo Kills",
-    "Environmental Kills"
+    {
+      "Healing Received": true
+    },
+    {
+      "Ultimates Earned - Fractional": true
+    },
+    {
+      "Final Blows": true
+    },
+    {
+      "Shots Missed": true
+    },
+    {
+      "Enemies Frozen": true
+    },
+    {
+      "Self Healing": true
+    },
+    {
+      "Blizzard Efficiency": false
+    },
+    {
+      "Time Alive": false
+    },
+    {
+      "Total Time Frozen": false
+    },
+    {
+      "Damage - Weapon Primary": true
+    },
+    {
+      "Assists": true
+    },
+    {
+      "Eliminations": true
+    },
+    {
+      "Icicle Damage": true
+    },
+    {
+      "Self Healing Percent of Damage Taken": true
+    },
+    {
+      "Shots Hit": true
+    },
+    {
+      "Freeze Spray Damage": true
+    },
+    {
+      "Barrier Damage Done": true
+    },
+    {
+      "Multikills": true
+    },
+    {
+      "Shots Fired": true
+    },
+    {
+      "Weapon Accuracy": false
+    },
+    {
+      "Deaths": true
+    },
+    {
+      "Time Elapsed per Ultimate Earned": false
+    },
+    {
+      "Hero Damage Done": true
+    },
+    {
+      "Time Holding Ultimate": false
+    },
+    {
+      "Blizzard Kills": true
+    },
+    {
+      "Objective Kills": true
+    },
+    {
+      "Successful Freezes": true
+    },
+    {
+      "Offensive Assists": true
+    },
+    {
+      "Damage Blocked": true
+    },
+    {
+      "Eliminations per Life": true
+    },
+    {
+      "Damage Taken": true
+    },
+    {
+      "Time Building Ultimate": false
+    },
+    {
+      "All Damage Done": true
+    },
+    {
+      "Time Played": false
+    },
+    {
+      "Quick Melee Ticks": true
+    },
+    {
+      "Ultimates Used": true
+    },
+    {
+      "Critical Hit Accuracy": false
+    },
+    {
+      "Damage - Weapon Secondary": true
+    },
+    {
+      "Damage - Blizzard": true
+    },
+    {
+      "Critical Hits": true
+    },
+    {
+      "Objective Time": false
+    },
+    {
+      "Average Time Alive": false
+    },
+    {
+      "Critical Hit Kills": true
+    },
+    {
+      "Turrets Destroyed": true
+    },
+    {
+      "Environmental Deaths": true
+    },
+    {
+      "Quick Melee Hits": true
+    },
+    {
+      "Damage - Quick Melee": true
+    },
+    {
+      "Quick Melee Accuracy": false
+    },
+    {
+      "Time Hacked": false
+    },
+    {
+      "Time Discorded": false
+    },
+    {
+      "Teleporter Pads Destroyed": true
+    },
+    {
+      "Melee Final Blows": true
+    },
+    {
+      "Solo Kills": true
+    },
+    {
+      "Environmental Kills": true
+    }
   ],
   "Orisa": [
-    "Assists",
-    "Final Blows",
-    "Players Halted",
-    "Quick Melee Accuracy",
-    "Objective Kills",
-    "Multikills",
-    "Environmental Kills",
-    "Time Played",
-    "Ultimates Earned - Fractional",
-    "Time Building Ultimate",
-    "Shots Fired",
-    "Supercharger Efficiency",
-    "Hero Damage Done",
-    "Deaths",
-    "Time Holding Ultimate",
-    "Damage Blocked",
-    "Quick Melee Ticks",
-    "Damage - Weapon",
-    "Eliminations per Life",
-    "Weapon Accuracy",
-    "All Damage Done",
-    "Time Alive",
-    "Time Elapsed per Ultimate Earned",
-    "Average Time Alive",
-    "Shots Hit",
-    "Ultimates Used",
-    "Damage Amplified",
-    "Damage Taken",
-    "Objective Time",
-    "Healing Received",
-    "Damage - Quick Melee",
-    "Quick Melee Hits",
-    "Supercharger Assists",
-    "Eliminations",
-    "Barrier Damage Done",
-    "Shots Missed",
-    "Offensive Assists",
-    "Melee Final Blows",
-    "Critical Hit Kills",
-    "Time Hacked",
-    "Time Discorded",
-    "Turrets Destroyed",
-    "Solo Kills",
-    "Environmental Deaths"
+    {
+      "Quick Melee Accuracy": false
+    },
+    {
+      "Shots Hit": true
+    },
+    {
+      "Shots Fired": true
+    },
+    {
+      "Quick Melee Hits": true
+    },
+    {
+      "Healing Received": true
+    },
+    {
+      "Deaths": true
+    },
+    {
+      "Weapon Accuracy": false
+    },
+    {
+      "Time Elapsed per Ultimate Earned": false
+    },
+    {
+      "Quick Melee Ticks": true
+    },
+    {
+      "Objective Kills": true
+    },
+    {
+      "Damage - Quick Melee": true
+    },
+    {
+      "Multikills": true
+    },
+    {
+      "Time Played": false
+    },
+    {
+      "Hero Damage Done": true
+    },
+    {
+      "All Damage Done": true
+    },
+    {
+      "Supercharger Assists": true
+    },
+    {
+      "Damage Amplified": true
+    },
+    {
+      "Eliminations": true
+    },
+    {
+      "Final Blows": true
+    },
+    {
+      "Ultimates Earned - Fractional": true
+    },
+    {
+      "Time Building Ultimate": false
+    },
+    {
+      "Players Halted": true
+    },
+    {
+      "Assists": true
+    },
+    {
+      "Shots Missed": true
+    },
+    {
+      "Objective Time": false
+    },
+    {
+      "Average Time Alive": false
+    },
+    {
+      "Ultimates Used": true
+    },
+    {
+      "Time Alive": false
+    },
+    {
+      "Damage Taken": true
+    },
+    {
+      "Barrier Damage Done": true
+    },
+    {
+      "Damage Blocked": true
+    },
+    {
+      "Offensive Assists": true
+    },
+    {
+      "Eliminations per Life": true
+    },
+    {
+      "Environmental Kills": true
+    },
+    {
+      "Damage - Weapon": true
+    },
+    {
+      "Time Holding Ultimate": false
+    },
+    {
+      "Supercharger Efficiency": false
+    },
+    {
+      "Melee Final Blows": true
+    },
+    {
+      "Time Discorded": false
+    },
+    {
+      "Turrets Destroyed": true
+    },
+    {
+      "Critical Hit Kills": true
+    },
+    {
+      "Time Hacked": false
+    },
+    {
+      "Solo Kills": true
+    },
+    {
+      "Environmental Deaths": true
+    }
   ],
   "McCree": [
-    "Critical Hit Kills",
-    "Damage - Weapon Primary",
-    "Shots Missed",
-    "Time Holding Ultimate",
-    "Solo Kills",
-    "Eliminations",
-    "Ultimates Used",
-    "Hero Damage Done",
-    "Damage - Flashbang",
-    "Objective Kills",
-    "Healing Received",
-    "Quick Melee Ticks",
-    "Deadeye Kills",
-    "Ultimates Earned - Fractional",
-    "Time Elapsed per Ultimate Earned",
-    "Assists",
-    "Damage - Weapon Secondary",
-    "Average Time Alive",
-    "Shots Fired",
-    "Time Building Ultimate",
-    "Weapon Accuracy",
-    "Barrier Damage Done",
-    "Critical Hit Accuracy",
-    "Time Played",
-    "All Damage Done",
-    "Deadeye Efficiency",
-    "Objective Time",
-    "Time Alive",
-    "Critical Hits",
-    "Damage Taken",
-    "Final Blows",
-    "Damage - Deadeye",
-    "Shots Hit",
-    "Deaths",
-    "Eliminations per Life",
-    "Fan the Hammer Kills",
-    "Turrets Destroyed",
-    "Damage - Quick Melee",
-    "Quick Melee Accuracy",
-    "Time Discorded",
-    "Teleporter Pads Destroyed",
-    "Quick Melee Hits",
-    "Multikills",
-    "Melee Final Blows",
-    "Time Hacked",
-    "Environmental Deaths",
-    "Environmental Kills"
+    {
+      "Ultimates Earned - Fractional": true
+    },
+    {
+      "Healing Received": true
+    },
+    {
+      "Objective Kills": true
+    },
+    {
+      "Solo Kills": true
+    },
+    {
+      "Damage - Weapon Primary": true
+    },
+    {
+      "Hero Damage Done": true
+    },
+    {
+      "Average Time Alive": false
+    },
+    {
+      "Time Played": false
+    },
+    {
+      "Time Elapsed per Ultimate Earned": false
+    },
+    {
+      "Final Blows": true
+    },
+    {
+      "Deadeye Kills": true
+    },
+    {
+      "Assists": true
+    },
+    {
+      "Quick Melee Ticks": true
+    },
+    {
+      "Shots Missed": true
+    },
+    {
+      "Damage Taken": true
+    },
+    {
+      "Time Building Ultimate": false
+    },
+    {
+      "Critical Hits": true
+    },
+    {
+      "Time Alive": false
+    },
+    {
+      "All Damage Done": true
+    },
+    {
+      "Deadeye Efficiency": false
+    },
+    {
+      "Damage - Weapon Secondary": true
+    },
+    {
+      "Barrier Damage Done": true
+    },
+    {
+      "Shots Fired": true
+    },
+    {
+      "Objective Time": false
+    },
+    {
+      "Weapon Accuracy": false
+    },
+    {
+      "Critical Hit Kills": true
+    },
+    {
+      "Ultimates Used": true
+    },
+    {
+      "Eliminations": true
+    },
+    {
+      "Critical Hit Accuracy": false
+    },
+    {
+      "Damage - Flashbang": true
+    },
+    {
+      "Shots Hit": true
+    },
+    {
+      "Time Holding Ultimate": false
+    },
+    {
+      "Damage - Deadeye": true
+    },
+    {
+      "Fan the Hammer Kills": true
+    },
+    {
+      "Deaths": true
+    },
+    {
+      "Eliminations per Life": true
+    },
+    {
+      "Turrets Destroyed": true
+    },
+    {
+      "Quick Melee Hits": true
+    },
+    {
+      "Time Discorded": false
+    },
+    {
+      "Damage - Quick Melee": true
+    },
+    {
+      "Quick Melee Accuracy": false
+    },
+    {
+      "Teleporter Pads Destroyed": true
+    },
+    {
+      "Multikills": true
+    },
+    {
+      "Melee Final Blows": true
+    },
+    {
+      "Time Hacked": false
+    },
+    {
+      "Environmental Deaths": true
+    },
+    {
+      "Environmental Kills": true
+    }
   ],
   "Symmetra": [
-    "Damage Taken",
-    "Assists",
-    "Time Played",
-    "Time Elapsed per Ultimate Earned",
-    "Ultimates Earned - Fractional",
-    "Time Holding Ultimate",
-    "Average Time Alive",
-    "Damage - Weapon Primary",
-    "Healing Received",
-    "Average Players per Teleporter",
-    "Damage - Weapon Secondary",
-    "Shots Hit",
-    "Ultimates Used",
-    "Final Blows",
-    "Time Building Ultimate",
-    "Primary Fire Ticks",
-    "Primary Fire Average Level",
-    "Primary Fire Accuracy",
-    "Multikills",
-    "Teleporters Placed",
-    "Eliminations",
-    "Objective Kills",
-    "Primary Fire Hits",
-    "Primary Fire Hits Hits - Level",
-    "Quick Melee Ticks",
-    "Sentry Turret Kills",
-    "Players Teleported",
-    "All Damage Done",
-    "Barrier Damage Done",
-    "Secondary Fire Accuracy",
-    "Shots Fired",
-    "Damage Blocked",
-    "Objective Time",
-    "Weapon Accuracy",
-    "Shots Missed",
-    "Deaths",
-    "Eliminations per Life",
-    "Secondary Direct Hits",
-    "Teleporter Uptime",
-    "Photon Projector Kills",
-    "Time Alive",
-    "Damage - Sentry Turret",
-    "Hero Damage Done",
-    "Time Discorded",
-    "Quick Melee Hits",
-    "Quick Melee Accuracy",
-    "Environmental Deaths",
-    "Turrets Destroyed",
-    "Teleporter Pads Destroyed",
-    "Melee Final Blows",
-    "Damage - Quick Melee",
-    "Solo Kills"
+    {
+      "Eliminations": true
+    },
+    {
+      "Damage - Weapon Primary": true
+    },
+    {
+      "Damage - Sentry Turret": true
+    },
+    {
+      "Healing Received": true
+    },
+    {
+      "Time Elapsed per Ultimate Earned": false
+    },
+    {
+      "Weapon Accuracy": false
+    },
+    {
+      "Time Played": false
+    },
+    {
+      "Teleporter Uptime": true
+    },
+    {
+      "Secondary Fire Accuracy": false
+    },
+    {
+      "Assists": true
+    },
+    {
+      "Time Holding Ultimate": false
+    },
+    {
+      "Average Players per Teleporter": false
+    },
+    {
+      "Damage Taken": true
+    },
+    {
+      "Primary Fire Accuracy": false
+    },
+    {
+      "Teleporters Placed": true
+    },
+    {
+      "Hero Damage Done": true
+    },
+    {
+      "Ultimates Earned - Fractional": true
+    },
+    {
+      "Shots Fired": true
+    },
+    {
+      "Shots Hit": true
+    },
+    {
+      "Barrier Damage Done": true
+    },
+    {
+      "Multikills": true
+    },
+    {
+      "Objective Kills": true
+    },
+    {
+      "Final Blows": true
+    },
+    {
+      "Shots Missed": true
+    },
+    {
+      "Photon Projector Kills": true
+    },
+    {
+      "Primary Fire Hits Hits - Level": true
+    },
+    {
+      "Damage - Weapon Secondary": true
+    },
+    {
+      "Time Alive": false
+    },
+    {
+      "Secondary Direct Hits": true
+    },
+    {
+      "Time Building Ultimate": false
+    },
+    {
+      "All Damage Done": true
+    },
+    {
+      "Ultimates Used": true
+    },
+    {
+      "Primary Fire Average Level": false
+    },
+    {
+      "Average Time Alive": false
+    },
+    {
+      "Damage Blocked": true
+    },
+    {
+      "Primary Fire Ticks": true
+    },
+    {
+      "Primary Fire Hits": true
+    },
+    {
+      "Deaths": true
+    },
+    {
+      "Eliminations per Life": true
+    },
+    {
+      "Objective Time": false
+    },
+    {
+      "Quick Melee Ticks": true
+    },
+    {
+      "Players Teleported": true
+    },
+    {
+      "Sentry Turret Kills": true
+    },
+    {
+      "Time Discorded": false
+    },
+    {
+      "Quick Melee Accuracy": false
+    },
+    {
+      "Quick Melee Hits": true
+    },
+    {
+      "Environmental Deaths": true
+    },
+    {
+      "Turrets Destroyed": true
+    },
+    {
+      "Teleporter Pads Destroyed": true
+    },
+    {
+      "Damage - Quick Melee": true
+    },
+    {
+      "Melee Final Blows": true
+    },
+    {
+      "Solo Kills": true
+    },
+    {
+      "Time Hacked": false
+    }
   ],
   "Ana": [
-    "Self Healing",
-    "Time Holding Ultimate",
-    "Offensive Assists",
-    "Damage Taken",
-    "Environmental Deaths",
-    "Healing - Biotic Grenade",
-    "Barrier Damage Done",
-    "Scoped Shots",
-    "Damage - Weapon Scoped",
-    "Ultimates Earned - Fractional",
-    "Objective Time",
-    "Time Building Ultimate",
-    "Healing - Weapon",
-    "Sleep Dart Shots",
-    "Eliminations",
-    "Defensive Assists",
-    "Healing - Weapon Scoped",
-    "Self Healing Percent of Damage Taken",
-    "Ultimates Used",
-    "Eliminations per Life",
-    "Assists",
-    "Sleep Dart Success Rate",
-    "Scoped Accuracy",
-    "Sleep Dart Hits",
-    "Time Played",
-    "Enemies Slept",
-    "Quick Melee Ticks",
-    "Unscoped Shots",
-    "Scoped Hits",
-    "Shots Fired",
-    "Unscoped Accuracy",
-    "Damage - Biotic Grenade",
-    "Objective Kills",
-    "Nano Boost Efficiency",
-    "Healing Done",
-    "Time Elapsed per Ultimate Earned",
-    "Shots Hit",
-    "Nano Boost Assists",
-    "All Damage Done",
-    "Shots Missed",
-    "Biotic Grenade Kills",
-    "Damage - Weapon",
-    "Unscoped Hits",
-    "Average Time Alive",
-    "Deaths",
-    "Hero Damage Done",
-    "Healing Amplified",
-    "Time Alive",
-    "Healing Received",
-    "Nano Boosts Applied",
-    "Weapon Accuracy",
-    "Final Blows",
-    "Quick Melee Hits",
-    "Quick Melee Accuracy",
-    "Damage - Quick Melee",
-    "Turrets Destroyed",
-    "Solo Kills",
-    "Environmental Kills",
-    "Melee Final Blows",
-    "Time Discorded",
-    "Multikills",
-    "Time Hacked"
+    {
+      "Scoped Hits": true
+    },
+    {
+      "All Damage Done": true
+    },
+    {
+      "Sleep Dart Shots": true
+    },
+    {
+      "Unscoped Accuracy": false
+    },
+    {
+      "Healing Amplified": true
+    },
+    {
+      "Unscoped Shots": true
+    },
+    {
+      "Sleep Dart Success Rate": true
+    },
+    {
+      "Weapon Accuracy": false
+    },
+    {
+      "Healing Received": true
+    },
+    {
+      "Shots Hit": true
+    },
+    {
+      "Nano Boost Assists": true
+    },
+    {
+      "Average Time Alive": false
+    },
+    {
+      "Damage Taken": true
+    },
+    {
+      "Sleep Dart Hits": true
+    },
+    {
+      "Ultimates Earned - Fractional": true
+    },
+    {
+      "Self Healing": true
+    },
+    {
+      "Ultimates Used": true
+    },
+    {
+      "Damage - Biotic Grenade": true
+    },
+    {
+      "Objective Kills": true
+    },
+    {
+      "Shots Fired": true
+    },
+    {
+      "Shots Missed": true
+    },
+    {
+      "Objective Time": false
+    },
+    {
+      "Time Played": false
+    },
+    {
+      "Damage - Weapon": true
+    },
+    {
+      "Healing - Weapon Scoped": true
+    },
+    {
+      "Assists": true
+    },
+    {
+      "Scoped Accuracy": false
+    },
+    {
+      "Time Alive": false
+    },
+    {
+      "Damage - Weapon Scoped": true
+    },
+    {
+      "Hero Damage Done": true
+    },
+    {
+      "Enemies Slept": true
+    },
+    {
+      "Eliminations per Life": true
+    },
+    {
+      "Healing - Biotic Grenade": true
+    },
+    {
+      "Offensive Assists": true
+    },
+    {
+      "Healing - Weapon": true
+    },
+    {
+      "Unscoped Hits": true
+    },
+    {
+      "Biotic Grenade Kills": true
+    },
+    {
+      "Time Building Ultimate": false
+    },
+    {
+      "Deaths": true
+    },
+    {
+      "Healing Done": true
+    },
+    {
+      "Environmental Deaths": true
+    },
+    {
+      "Barrier Damage Done": true
+    },
+    {
+      "Eliminations": true
+    },
+    {
+      "Nano Boost Efficiency": false
+    },
+    {
+      "Defensive Assists": true
+    },
+    {
+      "Nano Boosts Applied": true
+    },
+    {
+      "Time Holding Ultimate": false
+    },
+    {
+      "Time Elapsed per Ultimate Earned": false
+    },
+    {
+      "Quick Melee Ticks": true
+    },
+    {
+      "Self Healing Percent of Damage Taken": true
+    },
+    {
+      "Scoped Shots": true
+    },
+    {
+      "Final Blows": true
+    },
+    {
+      "Quick Melee Accuracy": false
+    },
+    {
+      "Quick Melee Hits": true
+    },
+    {
+      "Damage - Quick Melee": true
+    },
+    {
+      "Turrets Destroyed": true
+    },
+    {
+      "Environmental Kills": true
+    },
+    {
+      "Solo Kills": true
+    },
+    {
+      "Melee Final Blows": true
+    },
+    {
+      "Time Discorded": false
+    },
+    {
+      "Multikills": true
+    },
+    {
+      "Time Hacked": false
+    }
   ],
   "Doomfist": [
-    "Time Alive",
-    "Time Building Ultimate",
-    "Time Played",
-    "Ultimates Earned - Fractional",
-    "Time Elapsed per Ultimate Earned",
-    "Average Time Alive",
-    "Shots Missed",
-    "Shots Fired",
-    "Quick Melee Ticks",
-    "Objective Time",
-    "Damage - Weapon",
-    "Hero Damage Done",
-    "Healing Received",
-    "Shields Created",
-    "Damage - Rising Uppercut",
-    "Weapon Accuracy",
-    "All Damage Done",
-    "Damage - Seismic Slam",
-    "Deaths",
-    "Ability Damage Done",
-    "Shots Hit",
-    "Damage Taken",
-    "Meteor Strike Efficiency",
-    "Objective Kills",
-    "Assists",
-    "Critical Hit Kills",
-    "Meteor Strike Kills",
-    "Ultimates Used",
-    "Time Holding Ultimate",
-    "Barrier Damage Done",
-    "Eliminations",
-    "Quick Melee Hits",
-    "Melee Final Blows",
-    "Damage - Meteor Strike",
-    "Damage - Rocket Punch",
-    "Quick Melee Accuracy",
-    "Eliminations per Life",
-    "Damage - Quick Melee",
-    "Knockback Kills",
-    "Final Blows",
-    "Environmental Kills",
-    "Time Hacked",
-    "Solo Kills",
-    "Multikills",
-    "Turrets Destroyed",
-    "Environmental Deaths"
+    {
+      "Time Elapsed per Ultimate Earned": false
+    },
+    {
+      "Ultimates Earned - Fractional": true
+    },
+    {
+      "Average Time Alive": false
+    },
+    {
+      "Time Alive": false
+    },
+    {
+      "Time Played": false
+    },
+    {
+      "Time Building Ultimate": false
+    },
+    {
+      "Quick Melee Ticks": true
+    },
+    {
+      "Shots Fired": true
+    },
+    {
+      "Shots Missed": true
+    },
+    {
+      "Ability Damage Done": true
+    },
+    {
+      "Hero Damage Done": true
+    },
+    {
+      "Deaths": true
+    },
+    {
+      "Weapon Accuracy": false
+    },
+    {
+      "Damage - Rising Uppercut": true
+    },
+    {
+      "Damage - Weapon": true
+    },
+    {
+      "Shields Created": true
+    },
+    {
+      "Healing Received": true
+    },
+    {
+      "Damage - Seismic Slam": true
+    },
+    {
+      "Shots Hit": true
+    },
+    {
+      "All Damage Done": true
+    },
+    {
+      "Damage Taken": true
+    },
+    {
+      "Objective Time": false
+    },
+    {
+      "Quick Melee Hits": true
+    },
+    {
+      "Damage - Meteor Strike": true
+    },
+    {
+      "Assists": true
+    },
+    {
+      "Quick Melee Accuracy": false
+    },
+    {
+      "Objective Kills": true
+    },
+    {
+      "Time Holding Ultimate": false
+    },
+    {
+      "Ultimates Used": true
+    },
+    {
+      "Barrier Damage Done": true
+    },
+    {
+      "Eliminations": true
+    },
+    {
+      "Knockback Kills": true
+    },
+    {
+      "Melee Final Blows": true
+    },
+    {
+      "Damage - Quick Melee": true
+    },
+    {
+      "Meteor Strike Kills": true
+    },
+    {
+      "Critical Hit Kills": true
+    },
+    {
+      "Eliminations per Life": true
+    },
+    {
+      "Damage - Rocket Punch": true
+    },
+    {
+      "Meteor Strike Efficiency": false
+    },
+    {
+      "Final Blows": true
+    },
+    {
+      "Environmental Kills": true
+    },
+    {
+      "Time Hacked": false
+    },
+    {
+      "Solo Kills": true
+    },
+    {
+      "Multikills": true
+    },
+    {
+      "Turrets Destroyed": true
+    },
+    {
+      "Environmental Deaths": true
+    },
+    {
+      "Time Discorded": false
+    },
+    {
+      "Teleporter Pads Destroyed": true
+    }
   ],
   "Reaper": [
-    "Quick Melee Ticks",
-    "Time Holding Ultimate",
-    "Critical Hit Accuracy",
-    "Time Building Ultimate",
-    "Weapon Accuracy",
-    "Hero Damage Done",
-    "Self Healing",
-    "Ultimates Earned - Fractional",
-    "Shots Fired",
-    "Damage - Weapon",
-    "Critical Hit Kills",
-    "Deaths",
-    "Self Healing Percent of Damage Taken",
-    "Shots Hit",
-    "Average Time Alive",
-    "Teleporter Pads Destroyed",
-    "Time Alive",
-    "Eliminations",
-    "Death Blossom Kills",
-    "Objective Kills",
-    "Objective Time",
-    "All Damage Done",
-    "Damage - Death Blossom",
-    "Eliminations per Life",
-    "Environmental Deaths",
-    "Barrier Damage Done",
-    "Turrets Destroyed",
-    "Time Elapsed per Ultimate Earned",
-    "Critical Hits",
-    "Shots Missed",
-    "Damage Taken",
-    "Death Blossoms",
-    "Final Blows",
-    "Assists",
-    "Time Played",
-    "Healing Received",
-    "Ultimates Used",
-    "Death Blossom Efficiency",
-    "Multikills",
-    "Quick Melee Accuracy",
-    "Quick Melee Hits",
-    "Damage - Quick Melee",
-    "Solo Kills",
-    "Time Hacked",
-    "Melee Final Blows",
-    "Time Discorded"
+    {
+      "Objective Kills": true
+    },
+    {
+      "Turrets Destroyed": true
+    },
+    {
+      "Ultimates Earned - Fractional": true
+    },
+    {
+      "Time Holding Ultimate": false
+    },
+    {
+      "Death Blossoms": true
+    },
+    {
+      "Critical Hits": true
+    },
+    {
+      "Time Elapsed per Ultimate Earned": false
+    },
+    {
+      "Ultimates Used": true
+    },
+    {
+      "Assists": true
+    },
+    {
+      "Objective Time": false
+    },
+    {
+      "Quick Melee Ticks": true
+    },
+    {
+      "Barrier Damage Done": true
+    },
+    {
+      "Shots Missed": true
+    },
+    {
+      "All Damage Done": true
+    },
+    {
+      "Average Time Alive": false
+    },
+    {
+      "Damage - Death Blossom": true
+    },
+    {
+      "Hero Damage Done": true
+    },
+    {
+      "Critical Hit Accuracy": false
+    },
+    {
+      "Time Alive": false
+    },
+    {
+      "Eliminations per Life": true
+    },
+    {
+      "Death Blossom Efficiency": false
+    },
+    {
+      "Time Played": false
+    },
+    {
+      "Damage Taken": true
+    },
+    {
+      "Healing Received": true
+    },
+    {
+      "Deaths": true
+    },
+    {
+      "Shots Fired": true
+    },
+    {
+      "Teleporter Pads Destroyed": true
+    },
+    {
+      "Death Blossom Kills": true
+    },
+    {
+      "Self Healing Percent of Damage Taken": true
+    },
+    {
+      "Environmental Deaths": true
+    },
+    {
+      "Shots Hit": true
+    },
+    {
+      "Time Building Ultimate": false
+    },
+    {
+      "Eliminations": true
+    },
+    {
+      "Damage - Weapon": true
+    },
+    {
+      "Self Healing": true
+    },
+    {
+      "Final Blows": true
+    },
+    {
+      "Weapon Accuracy": false
+    },
+    {
+      "Critical Hit Kills": true
+    },
+    {
+      "Damage - Quick Melee": true
+    },
+    {
+      "Solo Kills": true
+    },
+    {
+      "Quick Melee Hits": true
+    },
+    {
+      "Multikills": true
+    },
+    {
+      "Quick Melee Accuracy": false
+    },
+    {
+      "Time Hacked": false
+    },
+    {
+      "Melee Final Blows": true
+    },
+    {
+      "Time Discorded": false
+    }
   ],
   "D.Va": [
-    "Shots Fired",
-    "Self-Destructs",
-    "Deaths",
-    "Knockback Kills",
-    "Final Blows",
-    "Quick Melee Accuracy",
-    "Environmental Deaths",
-    "Barrier Damage Done",
-    "Average Time Alive",
-    "Self-Destruct Kills",
-    "All Damage Done",
-    "Damage Blocked",
-    "Eliminations",
-    "Time Building Ultimate",
-    "Time Elapsed per Ultimate Earned",
-    "Self Destruct Efficiency",
-    "Damage - Pistol",
-    "Damage - Weapon",
-    "Time Played",
-    "Hero Damage Done",
-    "Mechs Called",
-    "Eliminations per Life",
-    "Damage - Self Destruct",
-    "Healing Received",
-    "Assists",
-    "Time Alive",
-    "Objective Time",
-    "Critical Hit Accuracy",
-    "Objective Kills",
-    "Critical Hit Kills",
-    "Time Holding Ultimate",
-    "Damage - Quick Melee",
-    "Ultimates Earned - Fractional",
-    "Teleporter Pads Destroyed",
-    "Ultimates Used",
-    "Damage Taken",
-    "Mech Deaths",
-    "Critical Hits",
-    "Quick Melee Hits",
-    "Damage - Boosters",
-    "Weapon Accuracy",
-    "Quick Melee Ticks",
-    "Damage - Micro Missiles",
-    "Shots Missed",
-    "Shots Hit",
-    "Turrets Destroyed",
-    "Melee Final Blows",
-    "Ultimates Negated",
-    "Solo Kills",
-    "Multikills",
-    "Damage - Call Mech",
-    "Time Hacked",
-    "Environmental Kills",
-    "Time Discorded"
+    {
+      "Time Alive": false
+    },
+    {
+      "Critical Hits": true
+    },
+    {
+      "Quick Melee Ticks": true
+    },
+    {
+      "Healing Received": true
+    },
+    {
+      "Eliminations": true
+    },
+    {
+      "Time Holding Ultimate": false
+    },
+    {
+      "Critical Hit Kills": true
+    },
+    {
+      "Damage - Quick Melee": true
+    },
+    {
+      "Self-Destruct Kills": true
+    },
+    {
+      "Time Elapsed per Ultimate Earned": false
+    },
+    {
+      "Hero Damage Done": true
+    },
+    {
+      "Damage - Micro Missiles": true
+    },
+    {
+      "Shots Hit": true
+    },
+    {
+      "Self-Destructs": true
+    },
+    {
+      "Mech Deaths": true
+    },
+    {
+      "Self Destruct Efficiency": false
+    },
+    {
+      "Barrier Damage Done": true
+    },
+    {
+      "Critical Hit Accuracy": false
+    },
+    {
+      "Damage Blocked": true
+    },
+    {
+      "Damage - Weapon": true
+    },
+    {
+      "Environmental Deaths": true
+    },
+    {
+      "Ultimates Earned - Fractional": true
+    },
+    {
+      "Damage - Self Destruct": true
+    },
+    {
+      "Quick Melee Hits": true
+    },
+    {
+      "Shots Missed": true
+    },
+    {
+      "Knockback Kills": true
+    },
+    {
+      "Eliminations per Life": true
+    },
+    {
+      "Final Blows": true
+    },
+    {
+      "Objective Kills": true
+    },
+    {
+      "Damage Taken": true
+    },
+    {
+      "Teleporter Pads Destroyed": true
+    },
+    {
+      "Average Time Alive": false
+    },
+    {
+      "Shots Fired": true
+    },
+    {
+      "All Damage Done": true
+    },
+    {
+      "Damage - Boosters": true
+    },
+    {
+      "Deaths": true
+    },
+    {
+      "Ultimates Used": true
+    },
+    {
+      "Damage - Pistol": true
+    },
+    {
+      "Time Building Ultimate": false
+    },
+    {
+      "Objective Time": false
+    },
+    {
+      "Quick Melee Accuracy": false
+    },
+    {
+      "Assists": true
+    },
+    {
+      "Weapon Accuracy": false
+    },
+    {
+      "Mechs Called": true
+    },
+    {
+      "Time Played": false
+    },
+    {
+      "Turrets Destroyed": true
+    },
+    {
+      "Melee Final Blows": true
+    },
+    {
+      "Ultimates Negated": true
+    },
+    {
+      "Solo Kills": true
+    },
+    {
+      "Multikills": true
+    },
+    {
+      "Damage - Call Mech": true
+    },
+    {
+      "Time Hacked": false
+    },
+    {
+      "Environmental Kills": true
+    },
+    {
+      "Time Discorded": false
+    }
   ],
   "Baptiste": [
-    "Time Played",
-    "Healing - Biotic Launcher",
-    "Biotic Launcher Healing Explosions",
-    "Offensive Assists",
-    "Biotic Launcher Healing Shots",
-    "Healing Done",
-    "Ultimates Used",
-    "Final Blows",
-    "Objective Time",
-    "Amplification Matrix Assists",
-    "Amplification Matrix Casts",
-    "Critical Hits",
-    "Deaths",
-    "Eliminations per Life",
-    "Objective Kills",
-    "Quick Melee Hits",
-    "Time Building Ultimate",
-    "Damage - Quick Melee",
-    "Shots Fired",
-    "Shots Missed",
-    "Critical Hit Accuracy",
-    "Immortality Field Deaths Prevented",
-    "Damage Taken",
-    "Defensive Assists",
-    "Average Time Alive",
-    "Time Alive",
-    "Time Elapsed per Ultimate Earned",
-    "Time Holding Ultimate",
-    "Quick Melee Ticks",
-    "Self Healing Percent of Damage Taken",
-    "Hero Damage Done",
-    "Shots Hit",
-    "Assists",
-    "Healing Received",
-    "Barrier Damage Done",
-    "Healing - Immortality Field",
-    "Damage Amplified",
-    "Weapon Accuracy",
-    "All Damage Done",
-    "Self Healing",
-    "Healing Accuracy",
-    "Healing Amplified",
-    "Amplification Matrix Efficiency",
-    "Ultimates Earned - Fractional",
-    "Damage - Weapon Primary",
-    "Damage Prevented",
-    "Healing - Regenerative Burst",
-    "Quick Melee Accuracy",
-    "Eliminations",
-    "Turrets Destroyed",
-    "Critical Hit Kills",
-    "Multikills",
-    "Environmental Deaths",
-    "Solo Kills",
-    "Melee Final Blows",
-    "Time Hacked",
-    "Teleporter Pads Destroyed"
+    {
+      "Time Alive": false
+    },
+    {
+      "Damage Prevented": true
+    },
+    {
+      "Assists": true
+    },
+    {
+      "Defensive Assists": true
+    },
+    {
+      "Healing Done": true
+    },
+    {
+      "Offensive Assists": true
+    },
+    {
+      "Critical Hits": true
+    },
+    {
+      "Shots Hit": true
+    },
+    {
+      "Amplification Matrix Casts": true
+    },
+    {
+      "Self Healing Percent of Damage Taken": true
+    },
+    {
+      "Quick Melee Accuracy": false
+    },
+    {
+      "Time Played": false
+    },
+    {
+      "Immortality Field Deaths Prevented": true
+    },
+    {
+      "Damage - Weapon Primary": true
+    },
+    {
+      "Healing Accuracy": false
+    },
+    {
+      "Damage Taken": true
+    },
+    {
+      "Weapon Accuracy": false
+    },
+    {
+      "Quick Melee Ticks": true
+    },
+    {
+      "Ultimates Earned - Fractional": true
+    },
+    {
+      "Deaths": true
+    },
+    {
+      "Barrier Damage Done": true
+    },
+    {
+      "Biotic Launcher Healing Shots": true
+    },
+    {
+      "Healing - Regenerative Burst": true
+    },
+    {
+      "Quick Melee Hits": true
+    },
+    {
+      "Average Time Alive": false
+    },
+    {
+      "Healing - Immortality Field": true
+    },
+    {
+      "Objective Kills": true
+    },
+    {
+      "Biotic Launcher Healing Explosions": true
+    },
+    {
+      "Time Holding Ultimate": false
+    },
+    {
+      "Healing Received": true
+    },
+    {
+      "Healing - Biotic Launcher": true
+    },
+    {
+      "Amplification Matrix Efficiency": false
+    },
+    {
+      "Amplification Matrix Assists": true
+    },
+    {
+      "Shots Missed": true
+    },
+    {
+      "Self Healing": true
+    },
+    {
+      "All Damage Done": true
+    },
+    {
+      "Objective Time": false
+    },
+    {
+      "Final Blows": true
+    },
+    {
+      "Critical Hit Accuracy": false
+    },
+    {
+      "Eliminations": true
+    },
+    {
+      "Time Building Ultimate": false
+    },
+    {
+      "Healing Amplified": true
+    },
+    {
+      "Time Elapsed per Ultimate Earned": false
+    },
+    {
+      "Shots Fired": true
+    },
+    {
+      "Damage Amplified": true
+    },
+    {
+      "Ultimates Used": true
+    },
+    {
+      "Eliminations per Life": true
+    },
+    {
+      "Damage - Quick Melee": true
+    },
+    {
+      "Hero Damage Done": true
+    },
+    {
+      "Turrets Destroyed": true
+    },
+    {
+      "Critical Hit Kills": true
+    },
+    {
+      "Multikills": true
+    },
+    {
+      "Environmental Deaths": true
+    },
+    {
+      "Solo Kills": true
+    },
+    {
+      "Melee Final Blows": true
+    },
+    {
+      "Time Hacked": false
+    },
+    {
+      "Teleporter Pads Destroyed": true
+    },
+    {
+      "Time Discorded": false
+    }
   ],
   "Wrecking Ball": [
-    "Ultimates Earned - Fractional",
-    "Shots Missed",
-    "Roll Uptime Percentage",
-    "Air Uptime Percentage",
-    "Grappling Claw Kills",
-    "Hero Damage Done",
-    "Damage Taken - Adaptive Shield",
-    "Shots Fired",
-    "Time Played",
-    "Shots Hit",
-    "Roll Uses",
-    "Objective Kills",
-    "Adaptive Shield Uses",
-    "Damage Taken - Ball",
-    "Players Knocked Back",
-    "Damage Taken - Tank",
-    "Damage - Grappling Claw",
-    "Objective Time",
-    "Healing Received",
-    "All Damage Done",
-    "Shielding - Adaptive Shield",
-    "Roll Uptime",
-    "Time Elapsed per Ultimate Earned",
-    "Damage - Weapon",
-    "Knockback Kills",
-    "Assists",
-    "Air Uptime",
-    "Grappling Claw Uses",
-    "Damage Taken",
-    "Time Alive",
-    "Eliminations",
-    "Damage - Piledriver",
-    "Grappling Claw Impacts",
-    "Piledriver Uses",
-    "Weapon Accuracy",
-    "Time Building Ultimate",
-    "Barrier Damage Done",
-    "Time Discorded",
-    "Average Time Alive",
-    "Eliminations per Life",
-    "Deaths",
-    "Piledriver Kills",
-    "Time Hacked",
-    "Quick Melee Hits",
-    "Final Blows",
-    "Quick Melee Ticks",
-    "Melee Final Blows",
-    "Quick Melee Accuracy",
-    "Damage - Quick Melee",
-    "Time Holding Ultimate",
-    "Damage - Minefield",
-    "Ultimates Used",
-    "Minefield Kills",
-    "Critical Hit Kills",
-    "Solo Kills",
-    "Environmental Kills",
-    "Environmental Deaths",
-    "Turrets Destroyed"
+    {
+      "Time Played": false
+    },
+    {
+      "Knockback Kills": true
+    },
+    {
+      "Shots Missed": true
+    },
+    {
+      "Damage Taken": true
+    },
+    {
+      "Shots Fired": true
+    },
+    {
+      "Damage - Grappling Claw": true
+    },
+    {
+      "Time Building Ultimate": false
+    },
+    {
+      "Hero Damage Done": true
+    },
+    {
+      "Grappling Claw Uses": true
+    },
+    {
+      "Damage Taken - Ball": true
+    },
+    {
+      "Eliminations": true
+    },
+    {
+      "Players Knocked Back": true
+    },
+    {
+      "Damage Taken - Tank": true
+    },
+    {
+      "Air Uptime Percentage": false
+    },
+    {
+      "Objective Time": false
+    },
+    {
+      "Roll Uptime": true
+    },
+    {
+      "Shots Hit": true
+    },
+    {
+      "Damage Taken - Adaptive Shield": true
+    },
+    {
+      "Time Alive": false
+    },
+    {
+      "Objective Kills": true
+    },
+    {
+      "Ultimates Earned - Fractional": true
+    },
+    {
+      "Assists": true
+    },
+    {
+      "Damage - Piledriver": true
+    },
+    {
+      "Grappling Claw Impacts": true
+    },
+    {
+      "Damage - Weapon": true
+    },
+    {
+      "Adaptive Shield Uses": true
+    },
+    {
+      "Roll Uptime Percentage": false
+    },
+    {
+      "Air Uptime": true
+    },
+    {
+      "Roll Uses": true
+    },
+    {
+      "All Damage Done": true
+    },
+    {
+      "Weapon Accuracy": false
+    },
+    {
+      "Grappling Claw Kills": true
+    },
+    {
+      "Healing Received": true
+    },
+    {
+      "Time Elapsed per Ultimate Earned": false
+    },
+    {
+      "Shielding - Adaptive Shield": true
+    },
+    {
+      "Piledriver Uses": true
+    },
+    {
+      "Time Discorded": false
+    },
+    {
+      "Barrier Damage Done": true
+    },
+    {
+      "Average Time Alive": false
+    },
+    {
+      "Eliminations per Life": true
+    },
+    {
+      "Deaths": true
+    },
+    {
+      "Piledriver Kills": true
+    },
+    {
+      "Time Hacked": false
+    },
+    {
+      "Damage - Quick Melee": true
+    },
+    {
+      "Final Blows": true
+    },
+    {
+      "Quick Melee Hits": true
+    },
+    {
+      "Quick Melee Accuracy": false
+    },
+    {
+      "Melee Final Blows": true
+    },
+    {
+      "Quick Melee Ticks": true
+    },
+    {
+      "Time Holding Ultimate": false
+    },
+    {
+      "Damage - Minefield": true
+    },
+    {
+      "Minefield Kills": true
+    },
+    {
+      "Ultimates Used": true
+    },
+    {
+      "Critical Hit Kills": true
+    },
+    {
+      "Solo Kills": true
+    },
+    {
+      "Environmental Kills": true
+    },
+    {
+      "Environmental Deaths": true
+    },
+    {
+      "Turrets Destroyed": true
+    }
   ],
   "Widowmaker": [
-    "Time Played",
-    "Scoped Shots",
-    "Hero Damage Done",
-    "Shots Missed",
-    "Critical Hit Accuracy",
-    "Barrier Damage Done",
-    "Weapon Accuracy",
-    "Shots Fired",
-    "Scoped Accuracy",
-    "Healing Received",
-    "Shots Hit",
-    "Time Alive",
-    "All Damage Done",
-    "Quick Melee Ticks",
-    "Time Elapsed per Ultimate Earned",
-    "Damage - Weapon",
-    "Ultimates Earned - Fractional",
-    "Scoped Critical Hit Accuracy",
-    "Damage - Weapon Scoped",
-    "Critical Hits",
-    "Scoped Hits",
-    "Deaths",
-    "Time Building Ultimate",
-    "Damage Taken",
-    "Scoped Critical Hits",
-    "Average Time Alive",
-    "Damage - Venom Mine",
-    "Scoped Critical Hit Kills",
-    "Ultimates Used",
-    "Objective Time",
-    "Damage - Quick Melee",
-    "Melee Final Blows",
-    "Infra-sight Uptime",
-    "Objective Kills",
-    "Assists",
-    "Quick Melee Accuracy",
-    "Solo Kills",
-    "Quick Melee Hits",
-    "Eliminations per Life",
-    "Time Holding Ultimate",
-    "Final Blows",
-    "Eliminations",
-    "Infra-Sight Efficiency",
-    "Critical Hit Kills",
-    "Recon Assists",
-    "Venom Mine Kills",
-    "Multikills",
-    "Environmental Deaths",
-    "Time Hacked"
+    {
+      "Hero Damage Done": true
+    },
+    {
+      "Damage - Weapon Scoped": true
+    },
+    {
+      "Shots Fired": true
+    },
+    {
+      "Weapon Accuracy": false
+    },
+    {
+      "Scoped Critical Hits": true
+    },
+    {
+      "Time Alive": false
+    },
+    {
+      "Shots Hit": true
+    },
+    {
+      "Ultimates Earned - Fractional": true
+    },
+    {
+      "Quick Melee Ticks": true
+    },
+    {
+      "Deaths": true
+    },
+    {
+      "Damage Taken": true
+    },
+    {
+      "Time Elapsed per Ultimate Earned": false
+    },
+    {
+      "Damage - Weapon": true
+    },
+    {
+      "Time Played": false
+    },
+    {
+      "Time Building Ultimate": false
+    },
+    {
+      "Scoped Critical Hit Accuracy": false
+    },
+    {
+      "Healing Received": true
+    },
+    {
+      "Scoped Hits": true
+    },
+    {
+      "Scoped Accuracy": false
+    },
+    {
+      "Critical Hits": true
+    },
+    {
+      "Shots Missed": true
+    },
+    {
+      "Scoped Shots": true
+    },
+    {
+      "Critical Hit Accuracy": false
+    },
+    {
+      "Barrier Damage Done": true
+    },
+    {
+      "All Damage Done": true
+    },
+    {
+      "Quick Melee Hits": true
+    },
+    {
+      "Objective Kills": true
+    },
+    {
+      "Ultimates Used": true
+    },
+    {
+      "Solo Kills": true
+    },
+    {
+      "Scoped Critical Hit Kills": true
+    },
+    {
+      "Damage - Quick Melee": true
+    },
+    {
+      "Infra-sight Uptime": true
+    },
+    {
+      "Infra-Sight Efficiency": false
+    },
+    {
+      "Time Holding Ultimate": false
+    },
+    {
+      "Critical Hit Kills": true
+    },
+    {
+      "Final Blows": true
+    },
+    {
+      "Average Time Alive": false
+    },
+    {
+      "Damage - Venom Mine": true
+    },
+    {
+      "Eliminations per Life": true
+    },
+    {
+      "Eliminations": true
+    },
+    {
+      "Quick Melee Accuracy": false
+    },
+    {
+      "Melee Final Blows": true
+    },
+    {
+      "Assists": true
+    },
+    {
+      "Recon Assists": true
+    },
+    {
+      "Objective Time": false
+    },
+    {
+      "Venom Mine Kills": true
+    },
+    {
+      "Multikills": true
+    },
+    {
+      "Environmental Deaths": true
+    },
+    {
+      "Time Hacked": false
+    }
   ],
   "Tracer": [
-    "Quick Melee Accuracy",
-    "Recalls Used",
-    "Shots Missed",
-    "Critical Hits",
-    "Ultimates Earned - Fractional",
-    "Time Discorded",
-    "Shots Fired",
-    "Health Recovered",
-    "Match Blinks Used",
-    "Hero Damage Done",
-    "Time Alive",
-    "Time Elapsed per Ultimate Earned",
-    "Quick Melee Ticks",
-    "Healing Received",
-    "Damage - Quick Melee",
-    "Shots Hit",
-    "Time Building Ultimate",
-    "Self Healing Percent of Damage Taken",
-    "Weapon Accuracy",
-    "Deaths",
-    "Critical Hit Accuracy",
-    "Self Healing",
-    "Barrier Damage Done",
-    "Damage - Weapon",
-    "All Damage Done",
-    "Time Played",
-    "Damage Taken",
-    "Quick Melee Hits",
-    "Eliminations per Life",
-    "Objective Time",
-    "Time Holding Ultimate",
-    "Solo Kills",
-    "Eliminations",
-    "Pulse Bomb Efficiency",
-    "Ultimates Used",
-    "Pulse Bomb Kills",
-    "Assists",
-    "Damage - Pulse Bomb",
-    "Objective Kills",
-    "Average Time Alive",
-    "Final Blows",
-    "Critical Hit Kills",
-    "Melee Final Blows",
-    "Pulse Bomb Attach Rate",
-    "Pulse Bombs Attached",
-    "Teleporter Pads Destroyed",
-    "Environmental Deaths",
-    "Multikills",
-    "Time Hacked"
+    {
+      "Time Played": false
+    },
+    {
+      "Shots Hit": true
+    },
+    {
+      "Healing Received": true
+    },
+    {
+      "Deaths": true
+    },
+    {
+      "Quick Melee Ticks": true
+    },
+    {
+      "Quick Melee Accuracy": false
+    },
+    {
+      "Damage Taken": true
+    },
+    {
+      "Time Discorded": false
+    },
+    {
+      "Ultimates Earned - Fractional": true
+    },
+    {
+      "Weapon Accuracy": false
+    },
+    {
+      "Self Healing": true
+    },
+    {
+      "Recalls Used": true
+    },
+    {
+      "Time Alive": false
+    },
+    {
+      "Critical Hits": true
+    },
+    {
+      "Match Blinks Used": true
+    },
+    {
+      "All Damage Done": true
+    },
+    {
+      "Shots Missed": true
+    },
+    {
+      "Damage - Weapon": true
+    },
+    {
+      "Shots Fired": true
+    },
+    {
+      "Time Elapsed per Ultimate Earned": false
+    },
+    {
+      "Self Healing Percent of Damage Taken": true
+    },
+    {
+      "Health Recovered": true
+    },
+    {
+      "Hero Damage Done": true
+    },
+    {
+      "Critical Hit Accuracy": false
+    },
+    {
+      "Time Building Ultimate": false
+    },
+    {
+      "Quick Melee Hits": true
+    },
+    {
+      "Barrier Damage Done": true
+    },
+    {
+      "Damage - Quick Melee": true
+    },
+    {
+      "Ultimates Used": true
+    },
+    {
+      "Time Holding Ultimate": false
+    },
+    {
+      "Eliminations": true
+    },
+    {
+      "Damage - Pulse Bomb": true
+    },
+    {
+      "Eliminations per Life": true
+    },
+    {
+      "Pulse Bomb Kills": true
+    },
+    {
+      "Pulse Bomb Efficiency": false
+    },
+    {
+      "Assists": true
+    },
+    {
+      "Average Time Alive": false
+    },
+    {
+      "Objective Time": false
+    },
+    {
+      "Final Blows": true
+    },
+    {
+      "Solo Kills": true
+    },
+    {
+      "Objective Kills": true
+    },
+    {
+      "Critical Hit Kills": true
+    },
+    {
+      "Melee Final Blows": true
+    },
+    {
+      "Pulse Bomb Attach Rate": true
+    },
+    {
+      "Pulse Bombs Attached": true
+    },
+    {
+      "Teleporter Pads Destroyed": true
+    },
+    {
+      "Environmental Deaths": true
+    },
+    {
+      "Multikills": true
+    },
+    {
+      "Time Hacked": false
+    },
+    {
+      "Environmental Kills": true
+    }
   ],
   "Winston": [
-    "Time Elapsed per Ultimate Earned",
-    "Time Holding Ultimate",
-    "Damage - Jump Pack",
-    "Assists",
-    "Damage - Primal Rage Melee",
-    "Damage - Quick Melee",
-    "Tesla Cannon Efficiency",
-    "Eliminations per Life",
-    "Melee Final Blows",
-    "Tesla Cannon Hits",
-    "Weapon Kills",
-    "Ultimates Used",
-    "Primal Rage Kills",
-    "Average Time Alive",
-    "Barrier Damage Done",
-    "Damage Taken",
-    "Ultimates Earned - Fractional",
-    "Tesla Cannon Accuracy",
-    "Damage Blocked",
-    "Healing Received",
-    "Quick Melee Hits",
-    "Deaths",
-    "Jump Pack Kills",
-    "Time Played",
-    "Final Blows",
-    "Damage - Primal Rage Leap",
-    "Time Alive",
-    "Primal Rage Melee Efficiency",
-    "Eliminations",
-    "Damage - Weapon",
-    "Melee Kills",
-    "Hero Damage Done",
-    "Time Building Ultimate",
-    "Primal Rage Melee Hits",
-    "Objective Time",
-    "Knockback Kills",
-    "Quick Melee Ticks",
-    "All Damage Done",
-    "Primal Rage Melee Ticks",
-    "Primal Rage Melee Accuracy",
-    "Objective Kills",
-    "Quick Melee Accuracy",
-    "Tesla Cannon Ticks",
-    "Tesla Cannon Hits - Multiple",
-    "Players Knocked Back",
-    "Primal Rage Melee Hits - Multiple",
-    "Primal Rage Efficiency",
-    "Damage - Primal Rage Total",
-    "Solo Kills",
-    "Time Hacked",
-    "Multikills",
-    "Environmental Kills",
-    "Environmental Deaths"
+    {
+      "All Damage Done": true
+    },
+    {
+      "Knockback Kills": true
+    },
+    {
+      "Tesla Cannon Accuracy": false
+    },
+    {
+      "Objective Time": false
+    },
+    {
+      "Primal Rage Melee Accuracy": false
+    },
+    {
+      "Deaths": true
+    },
+    {
+      "Jump Pack Kills": true
+    },
+    {
+      "Quick Melee Accuracy": false
+    },
+    {
+      "Damage - Primal Rage Melee": true
+    },
+    {
+      "Final Blows": true
+    },
+    {
+      "Damage - Quick Melee": true
+    },
+    {
+      "Time Elapsed per Ultimate Earned": false
+    },
+    {
+      "Damage Blocked": true
+    },
+    {
+      "Ultimates Used": true
+    },
+    {
+      "Eliminations": true
+    },
+    {
+      "Melee Kills": true
+    },
+    {
+      "Tesla Cannon Efficiency": false
+    },
+    {
+      "Primal Rage Melee Ticks": true
+    },
+    {
+      "Barrier Damage Done": true
+    },
+    {
+      "Tesla Cannon Hits": true
+    },
+    {
+      "Time Building Ultimate": false
+    },
+    {
+      "Damage Taken": true
+    },
+    {
+      "Primal Rage Melee Efficiency": false
+    },
+    {
+      "Weapon Kills": true
+    },
+    {
+      "Time Played": false
+    },
+    {
+      "Primal Rage Efficiency": false
+    },
+    {
+      "Eliminations per Life": true
+    },
+    {
+      "Average Time Alive": false
+    },
+    {
+      "Tesla Cannon Hits - Multiple": true
+    },
+    {
+      "Melee Final Blows": true
+    },
+    {
+      "Time Holding Ultimate": false
+    },
+    {
+      "Damage - Weapon": true
+    },
+    {
+      "Healing Received": true
+    },
+    {
+      "Primal Rage Kills": true
+    },
+    {
+      "Primal Rage Melee Hits - Multiple": true
+    },
+    {
+      "Time Alive": false
+    },
+    {
+      "Ultimates Earned - Fractional": true
+    },
+    {
+      "Objective Kills": true
+    },
+    {
+      "Primal Rage Melee Hits": true
+    },
+    {
+      "Quick Melee Ticks": true
+    },
+    {
+      "Assists": true
+    },
+    {
+      "Quick Melee Hits": true
+    },
+    {
+      "Players Knocked Back": true
+    },
+    {
+      "Damage - Primal Rage Leap": true
+    },
+    {
+      "Hero Damage Done": true
+    },
+    {
+      "Damage - Primal Rage Total": true
+    },
+    {
+      "Damage - Jump Pack": true
+    },
+    {
+      "Tesla Cannon Ticks": true
+    },
+    {
+      "Solo Kills": true
+    },
+    {
+      "Multikills": true
+    },
+    {
+      "Time Hacked": false
+    },
+    {
+      "Environmental Kills": true
+    },
+    {
+      "Environmental Deaths": true
+    },
+    {
+      "Time Discorded": false
+    }
   ],
   "Zenyatta": [
-    "Transcendence Healing",
-    "Defensive Assists",
-    "Weapon Accuracy",
-    "Healing - Transcendence",
-    "Healing Received",
-    "Shots Missed",
-    "Healing - Harmony Orb",
-    "Damage - Discord Orb",
-    "Eliminations",
-    "Hero Damage Done",
-    "Barrier Damage Done",
-    "Transcendence Efficiency",
-    "Deaths",
-    "Time Holding Ultimate",
-    "Ultimates Earned - Fractional",
-    "Time Building Ultimate",
-    "Healing Done",
-    "Shots Fired",
-    "Self Healing",
-    "Damage - Weapon Charged",
-    "Critical Hit Accuracy",
-    "Damage Taken",
-    "Ultimates Used",
-    "Critical Hits",
-    "Average Time Alive",
-    "Transcendence Percent of Healing",
-    "Time Played",
-    "Damage - Weapon Primary",
-    "Eliminations per Life",
-    "Self Healing Percent of Damage Taken",
-    "Shots Hit",
-    "Final Blows",
-    "Offensive Assists",
-    "Objective Kills",
-    "All Damage Done",
-    "Objective Time",
-    "Assists",
-    "Harmony Orb Time",
-    "Time Elapsed per Ultimate Earned",
-    "Time Alive",
-    "Discord Orb Time",
-    "Quick Melee Ticks"
+    {
+      "Ultimates Earned - Fractional": true
+    },
+    {
+      "Transcendence Healing": true
+    },
+    {
+      "Ultimates Used": true
+    },
+    {
+      "Self Healing Percent of Damage Taken": true
+    },
+    {
+      "Discord Orb Time": false
+    },
+    {
+      "Shots Hit": true
+    },
+    {
+      "Average Time Alive": false
+    },
+    {
+      "Transcendence Percent of Healing": true
+    },
+    {
+      "Self Healing": true
+    },
+    {
+      "Time Played": false
+    },
+    {
+      "Damage - Weapon Charged": true
+    },
+    {
+      "Deaths": true
+    },
+    {
+      "Harmony Orb Time": false
+    },
+    {
+      "Defensive Assists": true
+    },
+    {
+      "Critical Hit Accuracy": false
+    },
+    {
+      "Time Elapsed per Ultimate Earned": false
+    },
+    {
+      "Time Holding Ultimate": false
+    },
+    {
+      "Eliminations": true
+    },
+    {
+      "Weapon Accuracy": false
+    },
+    {
+      "Objective Kills": true
+    },
+    {
+      "Objective Time": false
+    },
+    {
+      "Healing - Transcendence": true
+    },
+    {
+      "Shots Missed": true
+    },
+    {
+      "Healing - Harmony Orb": true
+    },
+    {
+      "Time Building Ultimate": false
+    },
+    {
+      "Healing Done": true
+    },
+    {
+      "Quick Melee Ticks": true
+    },
+    {
+      "Critical Hits": true
+    },
+    {
+      "Damage Taken": true
+    },
+    {
+      "Final Blows": true
+    },
+    {
+      "Shots Fired": true
+    },
+    {
+      "Transcendence Efficiency": false
+    },
+    {
+      "All Damage Done": true
+    },
+    {
+      "Barrier Damage Done": true
+    },
+    {
+      "Time Alive": false
+    },
+    {
+      "Assists": true
+    },
+    {
+      "Hero Damage Done": true
+    },
+    {
+      "Eliminations per Life": true
+    },
+    {
+      "Damage - Weapon Primary": true
+    },
+    {
+      "Healing Received": true
+    },
+    {
+      "Damage - Discord Orb": true
+    },
+    {
+      "Offensive Assists": true
+    },
+    {
+      "Quick Melee Hits": true
+    },
+    {
+      "Critical Hit Kills": true
+    },
+    {
+      "Damage - Quick Melee": true
+    },
+    {
+      "Time Hacked": false
+    },
+    {
+      "Quick Melee Accuracy": false
+    },
+    {
+      "Melee Final Blows": true
+    },
+    {
+      "Time Discorded": false
+    },
+    {
+      "Environmental Deaths": true
+    },
+    {
+      "Solo Kills": true
+    },
+    {
+      "Turrets Destroyed": true
+    }
   ],
   "Sombra": [
-    "Time Holding Ultimate",
-    "EMP Efficiency",
-    "Time Building Ultimate",
-    "Shots Fired",
-    "Weapon Accuracy",
-    "Eliminations per Life",
-    "Time Played",
-    "Deaths",
-    "Barrier Damage Done",
-    "Ultimates Earned - Fractional",
-    "Damage - Weapon",
-    "Final Blows",
-    "Teleporter Pads Destroyed",
-    "Enemies Hacked",
-    "Objective Kills",
-    "Hero Damage Done",
-    "Critical Hit Accuracy",
-    "Objective Time",
-    "Damage Taken",
-    "Average Time Alive",
-    "Eliminations",
-    "Ultimates Used",
-    "Enemies EMP'd",
-    "Healing Received",
-    "Shots Hit",
-    "Shots Missed",
-    "Time Elapsed per Ultimate Earned",
-    "Offensive Assists",
-    "Assists",
-    "Critical Hits",
-    "All Damage Done",
-    "Time Alive",
-    "Damage - EMP",
-    "Damage - Quick Melee",
-    "Quick Melee Ticks",
-    "Quick Melee Accuracy",
-    "Quick Melee Hits",
-    "Solo Kills",
-    "Melee Final Blows",
-    "Environmental Kills",
-    "Critical Hit Kills",
-    "Time Hacked",
-    "Multikills"
+    {
+      "Damage - Weapon": true
+    },
+    {
+      "Hero Damage Done": true
+    },
+    {
+      "Time Elapsed per Ultimate Earned": false
+    },
+    {
+      "Final Blows": true
+    },
+    {
+      "Critical Hit Accuracy": false
+    },
+    {
+      "Enemies EMP'd": true
+    },
+    {
+      "Objective Kills": true
+    },
+    {
+      "Assists": true
+    },
+    {
+      "Barrier Damage Done": true
+    },
+    {
+      "Eliminations per Life": true
+    },
+    {
+      "Ultimates Earned - Fractional": true
+    },
+    {
+      "Time Holding Ultimate": false
+    },
+    {
+      "EMP Efficiency": false
+    },
+    {
+      "Enemies Hacked": true
+    },
+    {
+      "Time Alive": false
+    },
+    {
+      "Eliminations": true
+    },
+    {
+      "Healing Received": true
+    },
+    {
+      "Ultimates Used": true
+    },
+    {
+      "Shots Hit": true
+    },
+    {
+      "Time Building Ultimate": false
+    },
+    {
+      "Shots Fired": true
+    },
+    {
+      "All Damage Done": true
+    },
+    {
+      "Critical Hits": true
+    },
+    {
+      "Shots Missed": true
+    },
+    {
+      "Average Time Alive": false
+    },
+    {
+      "Weapon Accuracy": false
+    },
+    {
+      "Teleporter Pads Destroyed": true
+    },
+    {
+      "Damage Taken": true
+    },
+    {
+      "Objective Time": false
+    },
+    {
+      "Deaths": true
+    },
+    {
+      "Time Played": false
+    },
+    {
+      "Offensive Assists": true
+    },
+    {
+      "Damage - EMP": true
+    },
+    {
+      "Quick Melee Hits": true
+    },
+    {
+      "Quick Melee Ticks": true
+    },
+    {
+      "Damage - Quick Melee": true
+    },
+    {
+      "Quick Melee Accuracy": false
+    },
+    {
+      "Solo Kills": true
+    },
+    {
+      "Melee Final Blows": true
+    },
+    {
+      "Critical Hit Kills": true
+    },
+    {
+      "Environmental Kills": true
+    },
+    {
+      "Time Hacked": false
+    },
+    {
+      "Multikills": true
+    },
+    {
+      "Time Discorded": false
+    },
+    {
+      "Turrets Destroyed": true
+    }
   ],
   "Hanzo": [
-    "Damage Taken",
-    "Time Holding Ultimate",
-    "Critical Hit Accuracy",
-    "Critical Hits",
-    "Damage - Storm Arrows",
-    "Eliminations per Life",
-    "Damage - Sonic",
-    "Eliminations",
-    "Time Elapsed per Ultimate Earned",
-    "Average Time Alive",
-    "Damage - Weapon",
-    "Barrier Damage Done",
-    "Ultimates Used",
-    "Dragonstrike Efficiency",
-    "All Damage Done",
-    "Deaths",
-    "Quick Melee Ticks",
-    "Shots Missed",
-    "Final Blows",
-    "Damage - Dragonstrike",
-    "Hero Damage Done",
-    "Time Building Ultimate",
-    "Time Played",
-    "Dragonstrike Kills",
-    "Ultimates Earned - Fractional",
-    "Time Alive",
-    "Shots Hit",
-    "Healing Received",
-    "Weapon Accuracy",
-    "Shots Fired",
-    "Solo Kills",
-    "Assists",
-    "Storm Arrow Kills",
-    "Objective Kills",
-    "Objective Time",
-    "Recon Assists",
-    "Infra-Sight Efficiency",
-    "Critical Hit Kills",
-    "Quick Melee Accuracy",
-    "Damage - Quick Melee",
-    "Melee Final Blows",
-    "Quick Melee Hits",
-    "Multikills",
-    "Time Hacked"
+    {
+      "Ultimates Earned - Fractional": true
+    },
+    {
+      "Eliminations": true
+    },
+    {
+      "Ultimates Used": true
+    },
+    {
+      "Damage Taken": true
+    },
+    {
+      "Damage - Storm Arrows": true
+    },
+    {
+      "Time Building Ultimate": false
+    },
+    {
+      "Critical Hit Accuracy": false
+    },
+    {
+      "Dragonstrike Efficiency": false
+    },
+    {
+      "Damage - Sonic": true
+    },
+    {
+      "Critical Hits": true
+    },
+    {
+      "Healing Received": true
+    },
+    {
+      "Time Alive": false
+    },
+    {
+      "Shots Fired": true
+    },
+    {
+      "Average Time Alive": false
+    },
+    {
+      "Quick Melee Ticks": true
+    },
+    {
+      "Deaths": true
+    },
+    {
+      "Time Played": false
+    },
+    {
+      "Time Elapsed per Ultimate Earned": false
+    },
+    {
+      "Final Blows": true
+    },
+    {
+      "Weapon Accuracy": false
+    },
+    {
+      "Dragonstrike Kills": true
+    },
+    {
+      "Barrier Damage Done": true
+    },
+    {
+      "Damage - Weapon": true
+    },
+    {
+      "All Damage Done": true
+    },
+    {
+      "Shots Hit": true
+    },
+    {
+      "Eliminations per Life": true
+    },
+    {
+      "Time Holding Ultimate": false
+    },
+    {
+      "Shots Missed": true
+    },
+    {
+      "Damage - Dragonstrike": true
+    },
+    {
+      "Hero Damage Done": true
+    },
+    {
+      "Solo Kills": true
+    },
+    {
+      "Critical Hit Kills": true
+    },
+    {
+      "Objective Time": false
+    },
+    {
+      "Recon Assists": true
+    },
+    {
+      "Infra-Sight Efficiency": false
+    },
+    {
+      "Objective Kills": true
+    },
+    {
+      "Assists": true
+    },
+    {
+      "Storm Arrow Kills": true
+    },
+    {
+      "Quick Melee Accuracy": false
+    },
+    {
+      "Damage - Quick Melee": true
+    },
+    {
+      "Melee Final Blows": true
+    },
+    {
+      "Quick Melee Hits": true
+    },
+    {
+      "Multikills": true
+    },
+    {
+      "Time Hacked": false
+    },
+    {
+      "Time Discorded": false
+    },
+    {
+      "Turrets Destroyed": true
+    }
   ],
   "Zarya": [
-    "Graviton Surge Efficiency",
-    "Time Alive",
-    "Multikills",
-    "Damage Taken",
-    "Final Blows",
-    "Time Played",
-    "Ultimates Used",
-    "Primary Fire Accuracy",
-    "Projected Barriers Applied",
-    "Barrier Damage Done",
-    "Ultimates Earned - Fractional",
-    "Offensive Assists",
-    "Healing Received",
-    "All Damage Done",
-    "Quick Melee Hits",
-    "Quick Melee Ticks",
-    "Objective Kills",
-    "Shots Missed",
-    "Assists",
-    "Damage - Quick Melee",
-    "Damage - Weapon Secondary",
-    "Objective Time",
-    "Primary Fire Hits",
-    "Time Building Ultimate",
-    "Energy Maximum",
-    "Defensive Assists",
-    "Damage Blocked",
-    "High Energy Kills",
-    "Time Holding Ultimate",
-    "Damage - Graviton Surge",
-    "Eliminations",
-    "Deaths",
-    "Quick Melee Accuracy",
-    "Lifetime Energy Accumulation",
-    "Shots Fired",
-    "Damage - Weapon Primary",
-    "Shots Hit",
-    "Graviton Surge Kills",
-    "Projected Barrier Damage Blocked",
-    "Primary Fire Ticks",
-    "Eliminations per Life",
-    "Average Time Alive",
-    "Weapon Accuracy",
-    "Average Energy",
-    "Time Elapsed per Ultimate Earned",
-    "Hero Damage Done",
-    "Environmental Deaths",
-    "Solo Kills"
+    {
+      "Primary Fire Ticks": true
+    },
+    {
+      "Healing Received": true
+    },
+    {
+      "Defensive Assists": true
+    },
+    {
+      "Time Building Ultimate": false
+    },
+    {
+      "Ultimates Earned - Fractional": true
+    },
+    {
+      "Weapon Accuracy": false
+    },
+    {
+      "All Damage Done": true
+    },
+    {
+      "Quick Melee Hits": true
+    },
+    {
+      "Primary Fire Hits": true
+    },
+    {
+      "Hero Damage Done": true
+    },
+    {
+      "Damage - Quick Melee": true
+    },
+    {
+      "Ultimates Used": true
+    },
+    {
+      "Primary Fire Accuracy": false
+    },
+    {
+      "Barrier Damage Done": true
+    },
+    {
+      "Final Blows": true
+    },
+    {
+      "Assists": true
+    },
+    {
+      "Offensive Assists": true
+    },
+    {
+      "Quick Melee Ticks": true
+    },
+    {
+      "Graviton Surge Kills": true
+    },
+    {
+      "Eliminations per Life": true
+    },
+    {
+      "Damage - Graviton Surge": true
+    },
+    {
+      "Shots Fired": true
+    },
+    {
+      "Time Alive": false
+    },
+    {
+      "Average Energy": false
+    },
+    {
+      "Graviton Surge Efficiency": false
+    },
+    {
+      "Projected Barrier Damage Blocked": true
+    },
+    {
+      "Shots Hit": true
+    },
+    {
+      "Damage - Weapon Primary": true
+    },
+    {
+      "Time Played": false
+    },
+    {
+      "Damage Taken": true
+    },
+    {
+      "Lifetime Energy Accumulation": true
+    },
+    {
+      "Deaths": true
+    },
+    {
+      "High Energy Kills": true
+    },
+    {
+      "Eliminations": true
+    },
+    {
+      "Quick Melee Accuracy": false
+    },
+    {
+      "Shots Missed": true
+    },
+    {
+      "Energy Maximum": true
+    },
+    {
+      "Time Elapsed per Ultimate Earned": false
+    },
+    {
+      "Objective Time": false
+    },
+    {
+      "Multikills": true
+    },
+    {
+      "Objective Kills": true
+    },
+    {
+      "Damage - Weapon Secondary": true
+    },
+    {
+      "Projected Barriers Applied": true
+    },
+    {
+      "Damage Blocked": true
+    },
+    {
+      "Time Holding Ultimate": false
+    },
+    {
+      "Average Time Alive": false
+    },
+    {
+      "Environmental Deaths": true
+    },
+    {
+      "Solo Kills": true
+    }
   ],
   "Roadhog": [
-    "Time Building Ultimate",
-    "Shots Missed",
-    "Time Elapsed per Ultimate Earned",
-    "Shots Fired",
-    "Ultimates Earned - Fractional",
-    "Time Alive",
-    "Time Played"
+    {
+      "Time Alive": false
+    },
+    {
+      "Time Building Ultimate": false
+    },
+    {
+      "Shots Missed": true
+    },
+    {
+      "Time Played": false
+    },
+    {
+      "Shots Fired": true
+    },
+    {
+      "Ultimates Earned - Fractional": true
+    },
+    {
+      "Time Elapsed per Ultimate Earned": false
+    },
+    {
+      "Damage - Chain Hook": true
+    },
+    {
+      "All Damage Done": true
+    },
+    {
+      "Damage - Weapon Primary": true
+    },
+    {
+      "Enemies Hooked": true
+    },
+    {
+      "Average Time Alive": false
+    },
+    {
+      "Assists": true
+    },
+    {
+      "Offensive Assists": true
+    },
+    {
+      "Quick Melee Hits": true
+    },
+    {
+      "Quick Melee Ticks": true
+    },
+    {
+      "Eliminations": true
+    },
+    {
+      "Hook Accuracy": false
+    },
+    {
+      "Hooks Attempted": true
+    },
+    {
+      "Shots Hit": true
+    },
+    {
+      "Hero Damage Done": true
+    },
+    {
+      "Damage - Quick Melee": true
+    },
+    {
+      "Damage Taken": true
+    },
+    {
+      "Quick Melee Accuracy": false
+    },
+    {
+      "Weapon Accuracy": false
+    },
+    {
+      "Healing Received": true
+    }
   ],
   "Mercy": [
-    "Time Alive",
-    "Healing - Weapon",
-    "Defensive Assists",
-    "Healing Done",
-    "Time Elapsed per Ultimate Earned",
-    "Objective Time",
-    "Deaths",
-    "Time Building Ultimate",
-    "Damage Taken",
-    "Ultimates Earned - Fractional",
-    "Offensive Assists",
-    "Damage Amplified",
-    "Time Played",
-    "Players Resurrected",
-    "Self Healing Percent of Damage Taken",
-    "Healing Received",
-    "Self Healing",
-    "Average Time Alive",
-    "Healing - Weapon Valkyrie",
-    "Valkyrie Healing Efficiency",
-    "Quick Melee Accuracy",
-    "Damage - Quick Melee",
-    "Objective Kills",
-    "Hero Damage Done",
-    "All Damage Done",
-    "Assists",
-    "Time Holding Ultimate",
-    "Quick Melee Ticks",
-    "Quick Melee Hits",
-    "Eliminations",
-    "Ultimates Used",
-    "Players Saved",
-    "Eliminations per Life",
-    "Critical Hit Accuracy",
-    "Shots Missed",
-    "Damage - Weapon Pistol",
-    "Critical Hits",
-    "Shots Fired",
-    "Weapon Accuracy",
-    "Shots Hit",
-    "Barrier Damage Done",
-    "Blaster Kills",
-    "Time Hacked"
+    {
+      "Healing Done": true
+    },
+    {
+      "Time Alive": false
+    },
+    {
+      "Time Elapsed per Ultimate Earned": false
+    },
+    {
+      "Ultimates Earned - Fractional": true
+    },
+    {
+      "Damage Taken": true
+    },
+    {
+      "Offensive Assists": true
+    },
+    {
+      "Damage Amplified": true
+    },
+    {
+      "Time Played": false
+    },
+    {
+      "Time Building Ultimate": false
+    },
+    {
+      "Defensive Assists": true
+    },
+    {
+      "Objective Time": false
+    },
+    {
+      "Deaths": true
+    },
+    {
+      "Healing - Weapon": true
+    },
+    {
+      "Players Resurrected": true
+    },
+    {
+      "Self Healing": true
+    },
+    {
+      "Average Time Alive": false
+    },
+    {
+      "Healing Received": true
+    },
+    {
+      "Self Healing Percent of Damage Taken": true
+    },
+    {
+      "Eliminations per Life": true
+    },
+    {
+      "Objective Kills": true
+    },
+    {
+      "Players Saved": true
+    },
+    {
+      "Healing - Weapon Valkyrie": true
+    },
+    {
+      "Quick Melee Accuracy": false
+    },
+    {
+      "Quick Melee Ticks": true
+    },
+    {
+      "Time Holding Ultimate": false
+    },
+    {
+      "Ultimates Used": true
+    },
+    {
+      "All Damage Done": true
+    },
+    {
+      "Eliminations": true
+    },
+    {
+      "Hero Damage Done": true
+    },
+    {
+      "Quick Melee Hits": true
+    },
+    {
+      "Assists": true
+    },
+    {
+      "Valkyrie Healing Efficiency": false
+    },
+    {
+      "Damage - Quick Melee": true
+    },
+    {
+      "Shots Hit": true
+    },
+    {
+      "Shots Fired": true
+    },
+    {
+      "Damage - Weapon Pistol": true
+    },
+    {
+      "Critical Hit Accuracy": false
+    },
+    {
+      "Shots Missed": true
+    },
+    {
+      "Weapon Accuracy": false
+    },
+    {
+      "Critical Hits": true
+    },
+    {
+      "Barrier Damage Done": true
+    },
+    {
+      "Blaster Kills": true
+    },
+    {
+      "Time Hacked": false
+    },
+    {
+      "Time Discorded": false
+    },
+    {
+      "Environmental Deaths": true
+    }
   ],
   "Genji": [
-    "Ultimates Earned - Fractional",
-    "Shots Fired",
-    "Quick Melee Hits",
-    "Time Played",
-    "Melee Final Blows",
-    "Damage - Swift Strike Dragonblade",
-    "Average Time Alive",
-    "Damage - Weapon Primary",
-    "Eliminations",
-    "Quick Melee Ticks",
-    "Critical Hit Accuracy",
-    "Damage - Dragonblade",
-    "Barrier Damage Done",
-    "Shots Hit",
-    "Time Alive",
-    "Ultimates Used",
-    "Weapon Accuracy",
-    "Final Blows",
-    "Time Holding Ultimate",
-    "Dragonblades",
-    "Hero Damage Done",
-    "All Damage Done",
-    "Damage - Weapon Secondary",
-    "Time Building Ultimate",
-    "Healing Received",
-    "Assists",
-    "Objective Kills",
-    "Time Elapsed per Ultimate Earned",
-    "Shots Missed",
-    "Damage Reflected",
-    "Damage - Quick Melee",
-    "Damage - Swift Strike",
-    "Quick Melee Accuracy",
-    "Critical Hits",
-    "Dragonblade Efficiency",
-    "Damage - Dragonblade Total",
-    "Damage Taken",
-    "Multikills",
-    "Damage - Deflect",
-    "Objective Time",
-    "Dragonblade Kills",
-    "Deflection Kills",
-    "Deaths",
-    "Eliminations per Life",
-    "Critical Hit Kills",
-    "Solo Kills",
-    "Turrets Destroyed"
+    {
+      "Quick Melee Accuracy": false
+    },
+    {
+      "Time Played": false
+    },
+    {
+      "Eliminations": true
+    },
+    {
+      "Ultimates Earned - Fractional": true
+    },
+    {
+      "Damage - Dragonblade": true
+    },
+    {
+      "Damage - Quick Melee": true
+    },
+    {
+      "Objective Kills": true
+    },
+    {
+      "Quick Melee Ticks": true
+    },
+    {
+      "Barrier Damage Done": true
+    },
+    {
+      "Damage - Swift Strike Dragonblade": true
+    },
+    {
+      "Objective Time": false
+    },
+    {
+      "Final Blows": true
+    },
+    {
+      "Dragonblades": true
+    },
+    {
+      "Assists": true
+    },
+    {
+      "Damage - Swift Strike": true
+    },
+    {
+      "Dragonblade Efficiency": false
+    },
+    {
+      "Healing Received": true
+    },
+    {
+      "Multikills": true
+    },
+    {
+      "Time Alive": false
+    },
+    {
+      "Critical Hits": true
+    },
+    {
+      "Shots Hit": true
+    },
+    {
+      "Weapon Accuracy": false
+    },
+    {
+      "Damage - Weapon Secondary": true
+    },
+    {
+      "Ultimates Used": true
+    },
+    {
+      "Time Elapsed per Ultimate Earned": false
+    },
+    {
+      "Dragonblade Kills": true
+    },
+    {
+      "Critical Hit Accuracy": false
+    },
+    {
+      "Damage Reflected": true
+    },
+    {
+      "Damage Taken": true
+    },
+    {
+      "Damage - Deflect": true
+    },
+    {
+      "Average Time Alive": false
+    },
+    {
+      "Melee Final Blows": true
+    },
+    {
+      "Shots Fired": true
+    },
+    {
+      "Time Holding Ultimate": false
+    },
+    {
+      "Hero Damage Done": true
+    },
+    {
+      "Shots Missed": true
+    },
+    {
+      "All Damage Done": true
+    },
+    {
+      "Damage - Dragonblade Total": true
+    },
+    {
+      "Damage - Weapon Primary": true
+    },
+    {
+      "Quick Melee Hits": true
+    },
+    {
+      "Time Building Ultimate": false
+    },
+    {
+      "Deflection Kills": true
+    },
+    {
+      "Deaths": true
+    },
+    {
+      "Eliminations per Life": true
+    },
+    {
+      "Critical Hit Kills": true
+    },
+    {
+      "Solo Kills": true
+    },
+    {
+      "Turrets Destroyed": true
+    }
   ],
   "Bastion": [
-    "Time Alive",
-    "Shots Fired",
-    "Time Played",
-    "Ultimates Earned - Fractional",
-    "Time Building Ultimate",
-    "All Damage Done",
-    "Time Elapsed per Ultimate Earned",
-    "Barrier Damage Done",
-    "Shots Missed",
-    "Hero Damage Done",
-    "Damage - Weapon Recon",
-    "Healing Received",
-    "Shots Hit",
-    "Damage Taken",
-    "Quick Melee Ticks",
-    "Damage - Weapon Sentry",
-    "Weapon Accuracy"
+    {
+      "Shots Fired": true
+    },
+    {
+      "Time Played": false
+    },
+    {
+      "Shots Missed": true
+    },
+    {
+      "Time Elapsed per Ultimate Earned": false
+    },
+    {
+      "Barrier Damage Done": true
+    },
+    {
+      "Time Alive": false
+    },
+    {
+      "Ultimates Earned - Fractional": true
+    },
+    {
+      "All Damage Done": true
+    },
+    {
+      "Time Building Ultimate": false
+    },
+    {
+      "Weapon Accuracy": false
+    },
+    {
+      "Damage Taken": true
+    },
+    {
+      "Quick Melee Ticks": true
+    },
+    {
+      "Hero Damage Done": true
+    },
+    {
+      "Healing Received": true
+    },
+    {
+      "Damage - Weapon Recon": true
+    },
+    {
+      "Damage - Weapon Sentry": true
+    },
+    {
+      "Shots Hit": true
+    }
   ],
   "Brigitte": [
-    "Offensive Assists",
-    "Damage - Weapon",
-    "Rally Armor Efficiency",
-    "Armor - Repair Pack",
-    "Time Holding Ultimate",
-    "Damage - Shield Bash",
-    "Ultimates Earned - Fractional",
-    "Barrier Damage Done",
-    "Healing - Repair Pack",
-    "Damage Taken",
-    "Assists",
-    "Objective Kills",
-    "Self Healing Percent of Damage Taken",
-    "Objective Time",
-    "Deaths",
-    "Damage Blocked",
-    "Inspire Uptime Percentage",
-    "Time Alive",
-    "Self Healing",
-    "Healing Received",
-    "Time Elapsed per Ultimate Earned",
-    "Average Time Alive",
-    "Armor - Rally",
-    "Environmental Deaths",
-    "All Damage Done",
-    "Inspire Uptime",
-    "Hero Damage Done",
-    "Eliminations",
-    "Ultimates Used",
-    "Healing - Inspire",
-    "Time Building Ultimate",
-    "Knockback Kills",
-    "Eliminations per Life",
-    "Defensive Assists",
-    "Armor Provided",
-    "Time Played",
-    "Healing Done",
-    "Final Blows",
-    "Solo Kills",
-    "Time Hacked",
-    "Teleporter Pads Destroyed",
-    "Turrets Destroyed",
-    "Environmental Kills",
-    "Multikills"
+    {
+      "Healing - Inspire": true
+    },
+    {
+      "Knockback Kills": true
+    },
+    {
+      "Healing - Repair Pack": true
+    },
+    {
+      "Eliminations per Life": true
+    },
+    {
+      "Eliminations": true
+    },
+    {
+      "Rally Armor Efficiency": false
+    },
+    {
+      "Time Building Ultimate": false
+    },
+    {
+      "All Damage Done": true
+    },
+    {
+      "Hero Damage Done": true
+    },
+    {
+      "Damage Blocked": true
+    },
+    {
+      "Damage Taken": true
+    },
+    {
+      "Self Healing Percent of Damage Taken": true
+    },
+    {
+      "Ultimates Used": true
+    },
+    {
+      "Armor Provided": true
+    },
+    {
+      "Armor - Repair Pack": true
+    },
+    {
+      "Damage - Weapon": true
+    },
+    {
+      "Ultimates Earned - Fractional": true
+    },
+    {
+      "Time Elapsed per Ultimate Earned": false
+    },
+    {
+      "Objective Kills": true
+    },
+    {
+      "Time Alive": false
+    },
+    {
+      "Inspire Uptime": true
+    },
+    {
+      "Healing Received": true
+    },
+    {
+      "Objective Time": false
+    },
+    {
+      "Self Healing": true
+    },
+    {
+      "Armor - Rally": true
+    },
+    {
+      "Barrier Damage Done": true
+    },
+    {
+      "Average Time Alive": false
+    },
+    {
+      "Damage - Shield Bash": true
+    },
+    {
+      "Defensive Assists": true
+    },
+    {
+      "Healing Done": true
+    },
+    {
+      "Deaths": true
+    },
+    {
+      "Environmental Deaths": true
+    },
+    {
+      "Time Holding Ultimate": false
+    },
+    {
+      "Inspire Uptime Percentage": false
+    },
+    {
+      "Assists": true
+    },
+    {
+      "Time Played": false
+    },
+    {
+      "Offensive Assists": true
+    },
+    {
+      "Final Blows": true
+    },
+    {
+      "Solo Kills": true
+    },
+    {
+      "Time Hacked": false
+    },
+    {
+      "Environmental Kills": true
+    },
+    {
+      "Teleporter Pads Destroyed": true
+    },
+    {
+      "Turrets Destroyed": true
+    },
+    {
+      "Multikills": true
+    },
+    {
+      "Time Discorded": false
+    }
   ],
   "Pharah": [
-    "Time Building Ultimate",
-    "Average Time Alive",
-    "All Damage Done",
-    "Damage Taken",
-    "Time Alive",
-    "Time Played",
-    "Weapon Accuracy",
-    "Shots Hit",
-    "Ultimates Earned - Fractional",
-    "Shots Fired",
-    "Hero Damage Done",
-    "Quick Melee Ticks",
-    "Rocket Direct Hits",
-    "of Rockets Fired",
-    "Healing Received",
-    "Shots Missed",
-    "Damage - Weapon",
-    "Deaths",
-    "Direct Hit Accuracy",
-    "Time Elapsed per Ultimate Earned",
-    "Objective Time",
-    "Time Holding Ultimate",
-    "Objective Kills",
-    "Damage - Barrage",
-    "Eliminations per Life",
-    "Eliminations",
-    "Final Blows",
-    "Ultimates Used",
-    "Barrier Damage Done",
-    "Rocket Barrages",
-    "Melee Final Blows",
-    "Barrage Efficiency",
-    "Quick Melee Accuracy",
-    "Assists",
-    "Knockback Kills",
-    "Barrage Kills",
-    "Quick Melee Hits",
-    "Time Hacked",
-    "Damage - Quick Melee",
-    "Multikills",
-    "Solo Kills",
-    "Environmental Kills"
+    {
+      "Weapon Accuracy": false
+    },
+    {
+      "Hero Damage Done": true
+    },
+    {
+      "Damage Taken": true
+    },
+    {
+      "Time Elapsed per Ultimate Earned": false
+    },
+    {
+      "Time Alive": false
+    },
+    {
+      "Deaths": true
+    },
+    {
+      "Average Time Alive": false
+    },
+    {
+      "Ultimates Earned - Fractional": true
+    },
+    {
+      "Healing Received": true
+    },
+    {
+      "Direct Hit Accuracy": false
+    },
+    {
+      "Shots Fired": true
+    },
+    {
+      "Time Played": false
+    },
+    {
+      "Rocket Direct Hits": true
+    },
+    {
+      "Shots Missed": true
+    },
+    {
+      "Damage - Weapon": true
+    },
+    {
+      "Time Building Ultimate": false
+    },
+    {
+      "of Rockets Fired": true
+    },
+    {
+      "Quick Melee Ticks": true
+    },
+    {
+      "All Damage Done": true
+    },
+    {
+      "Shots Hit": true
+    },
+    {
+      "Time Holding Ultimate": false
+    },
+    {
+      "Ultimates Used": true
+    },
+    {
+      "Eliminations per Life": true
+    },
+    {
+      "Final Blows": true
+    },
+    {
+      "Damage - Barrage": true
+    },
+    {
+      "Barrier Damage Done": true
+    },
+    {
+      "Eliminations": true
+    },
+    {
+      "Rocket Barrages": true
+    },
+    {
+      "Objective Time": false
+    },
+    {
+      "Objective Kills": true
+    },
+    {
+      "Damage - Quick Melee": true
+    },
+    {
+      "Assists": true
+    },
+    {
+      "Barrage Kills": true
+    },
+    {
+      "Knockback Kills": true
+    },
+    {
+      "Quick Melee Hits": true
+    },
+    {
+      "Barrage Efficiency": false
+    },
+    {
+      "Melee Final Blows": true
+    },
+    {
+      "Time Hacked": false
+    },
+    {
+      "Quick Melee Accuracy": false
+    },
+    {
+      "Solo Kills": true
+    },
+    {
+      "Multikills": true
+    },
+    {
+      "Environmental Kills": true
+    },
+    {
+      "Turrets Destroyed": true
+    },
+    {
+      "Time Discorded": false
+    }
   ],
   "Sigma": [
-    "All Damage Done",
-    "Hyperspheres Direct Hits",
-    "Gravitic Flux Damage Done",
-    "Damage Absorbed",
-    "Deaths",
-    "Quick Melee Ticks",
-    "Gravitic Flux Kills",
-    "Ultimates Used",
-    "Damage Taken",
-    "Time Holding Ultimate",
-    "Eliminations per Life",
-    "Objective Time",
-    "Average Time Alive",
-    "Damage - Accretion",
-    "Quick Melee Accuracy",
-    "Ultimates Earned - Fractional",
-    "Eliminations",
-    "Accretion Stuns",
-    "Damage Blocked",
-    "Healing Received",
-    "Assists",
-    "Final Blows",
-    "Time Elapsed per Ultimate Earned",
-    "Quick Melee Hits",
-    "Barrier Damage Done",
-    "Multikills",
-    "Objective Kills",
-    "Time Building Ultimate",
-    "Environmental Deaths",
-    "Hero Damage Done",
-    "Accretion Kills",
-    "Damage - Hyperspheres",
-    "Time Played",
-    "Time Alive",
-    "Damage - Quick Melee",
-    "Melee Final Blows"
+    {
+      "Environmental Deaths": true
+    },
+    {
+      "Objective Time": false
+    },
+    {
+      "Gravitic Flux Kills": true
+    },
+    {
+      "Eliminations per Life": true
+    },
+    {
+      "Time Holding Ultimate": false
+    },
+    {
+      "Eliminations": true
+    },
+    {
+      "Hero Damage Done": true
+    },
+    {
+      "Time Building Ultimate": false
+    },
+    {
+      "Quick Melee Accuracy": false
+    },
+    {
+      "Assists": true
+    },
+    {
+      "Ultimates Earned - Fractional": true
+    },
+    {
+      "Damage - Hyperspheres": true
+    },
+    {
+      "Accretion Kills": true
+    },
+    {
+      "Time Elapsed per Ultimate Earned": false
+    },
+    {
+      "Damage - Accretion": true
+    },
+    {
+      "Final Blows": true
+    },
+    {
+      "Time Alive": false
+    },
+    {
+      "Healing Received": true
+    },
+    {
+      "Quick Melee Ticks": true
+    },
+    {
+      "Damage Taken": true
+    },
+    {
+      "Ultimates Used": true
+    },
+    {
+      "Quick Melee Hits": true
+    },
+    {
+      "All Damage Done": true
+    },
+    {
+      "Multikills": true
+    },
+    {
+      "Barrier Damage Done": true
+    },
+    {
+      "Gravitic Flux Damage Done": true
+    },
+    {
+      "Time Played": false
+    },
+    {
+      "Hyperspheres Direct Hits": true
+    },
+    {
+      "Objective Kills": true
+    },
+    {
+      "Average Time Alive": false
+    },
+    {
+      "Accretion Stuns": true
+    },
+    {
+      "Deaths": true
+    },
+    {
+      "Damage Blocked": true
+    },
+    {
+      "Damage Absorbed": true
+    },
+    {
+      "Damage - Quick Melee": true
+    },
+    {
+      "Melee Final Blows": true
+    },
+    {
+      "Time Discorded": false
+    },
+    {
+      "Time Hacked": false
+    },
+    {
+      "Solo Kills": true
+    }
   ],
   "Soldier: 76": [
-    "Critical Hit Accuracy",
-    "Damage Taken",
-    "Biotic Field Healing Done",
-    "Time Elapsed per Ultimate Earned",
-    "Self Healing Percent of Damage Taken",
-    "Shots Missed",
-    "Shots Fired",
-    "Barrier Damage Done",
-    "Weapon Accuracy",
-    "Hero Damage Done",
-    "Time Played",
-    "Time Alive",
-    "Critical Hits",
-    "Healing Received",
-    "Damage - Weapon",
-    "Biotic Fields Deployed",
-    "Healing Done",
-    "Average Time Alive",
-    "All Damage Done",
-    "Shots Hit",
-    "Time Building Ultimate",
-    "Damage - Helix Rockets",
-    "Ultimates Earned - Fractional",
-    "Self Healing",
-    "Objective Time",
-    "Deaths",
-    "Assists",
-    "Eliminations",
-    "Eliminations per Life",
-    "Quick Melee Accuracy",
-    "Final Blows",
-    "Quick Melee Ticks",
-    "Helix Rocket Kills",
-    "Damage - Quick Melee",
-    "Quick Melee Hits"
+    {
+      "Damage - Weapon": true
+    },
+    {
+      "Healing Received": true
+    },
+    {
+      "Time Alive": false
+    },
+    {
+      "Shots Missed": true
+    },
+    {
+      "Self Healing": true
+    },
+    {
+      "Damage Taken": true
+    },
+    {
+      "Ultimates Earned - Fractional": true
+    },
+    {
+      "Biotic Fields Deployed": true
+    },
+    {
+      "Shots Fired": true
+    },
+    {
+      "Critical Hit Accuracy": false
+    },
+    {
+      "Healing Done": true
+    },
+    {
+      "Hero Damage Done": true
+    },
+    {
+      "Barrier Damage Done": true
+    },
+    {
+      "Critical Hits": true
+    },
+    {
+      "Weapon Accuracy": false
+    },
+    {
+      "Time Played": false
+    },
+    {
+      "Biotic Field Healing Done": true
+    },
+    {
+      "All Damage Done": true
+    },
+    {
+      "Self Healing Percent of Damage Taken": true
+    },
+    {
+      "Time Building Ultimate": false
+    },
+    {
+      "Shots Hit": true
+    },
+    {
+      "Average Time Alive": false
+    },
+    {
+      "Damage - Helix Rockets": true
+    },
+    {
+      "Time Elapsed per Ultimate Earned": false
+    },
+    {
+      "Deaths": true
+    },
+    {
+      "Objective Time": false
+    },
+    {
+      "Eliminations": true
+    },
+    {
+      "Eliminations per Life": true
+    },
+    {
+      "Assists": true
+    },
+    {
+      "Final Blows": true
+    },
+    {
+      "Quick Melee Accuracy": false
+    },
+    {
+      "Damage - Quick Melee": true
+    },
+    {
+      "Helix Rocket Kills": true
+    },
+    {
+      "Quick Melee Hits": true
+    },
+    {
+      "Quick Melee Ticks": true
+    },
+    {
+      "Melee Final Blows": true
+    },
+    {
+      "Ultimates Used": true
+    },
+    {
+      "Objective Kills": true
+    },
+    {
+      "Tactical Visor Kills": true
+    },
+    {
+      "Damage - Tactical Visor": true
+    },
+    {
+      "Defensive Assists": true
+    },
+    {
+      "Tactical Visors": true
+    },
+    {
+      "Time Holding Ultimate": false
+    },
+    {
+      "Time Discorded": false
+    },
+    {
+      "Tactical Visor Efficiency": false
+    },
+    {
+      "Critical Hit Kills": true
+    },
+    {
+      "Multikills": true
+    },
+    {
+      "Time Hacked": false
+    },
+    {
+      "Solo Kills": true
+    },
+    {
+      "Environmental Deaths": true
+    },
+    {
+      "Turrets Destroyed": true
+    }
   ],
   "Junkrat": [
-    "Time Holding Ultimate",
-    "Damage - Concussion Mine",
-    "Time Hacked",
-    "Time Building Ultimate",
-    "Damage Taken",
-    "Damage - Steel Trap",
-    "Time Elapsed per Ultimate Earned",
-    "Ultimates Used",
-    "Shots Fired",
-    "Solo Kills",
-    "Objective Kills",
-    "Weapon Accuracy",
-    "Eliminations",
-    "Deaths",
-    "Knockback Kills",
-    "Healing Received",
-    "Concussion Mine Kills",
-    "Ultimates Earned - Fractional",
-    "Final Blows",
-    "RIP-Tire Efficiency",
-    "Shots Missed",
-    "Quick Melee Ticks",
-    "Time Alive",
-    "Enemies Trapped",
-    "Hero Damage Done",
-    "Eliminations per Life",
-    "Frag Launcher Direct Hits",
-    "Average Time Alive",
-    "Barrier Damage Done",
-    "Objective Time",
-    "Offensive Assists",
-    "Time Played",
-    "RIP-Tire Kills",
-    "Damage - Weapon",
-    "Shots Hit",
-    "All Damage Done",
-    "Turrets Destroyed",
-    "Assists",
-    "Damage - RIP-Tire"
+    {
+      "Shots Missed": true
+    },
+    {
+      "Time Played": false
+    },
+    {
+      "Knockback Kills": true
+    },
+    {
+      "Solo Kills": true
+    },
+    {
+      "Damage - RIP-Tire": true
+    },
+    {
+      "Eliminations": true
+    },
+    {
+      "Barrier Damage Done": true
+    },
+    {
+      "RIP-Tire Efficiency": false
+    },
+    {
+      "Final Blows": true
+    },
+    {
+      "Healing Received": true
+    },
+    {
+      "All Damage Done": true
+    },
+    {
+      "Turrets Destroyed": true
+    },
+    {
+      "Frag Launcher Direct Hits": true
+    },
+    {
+      "Damage - Weapon": true
+    },
+    {
+      "Damage - Steel Trap": true
+    },
+    {
+      "Shots Hit": true
+    },
+    {
+      "RIP-Tire Kills": true
+    },
+    {
+      "Objective Kills": true
+    },
+    {
+      "Time Hacked": false
+    },
+    {
+      "Ultimates Used": true
+    },
+    {
+      "Offensive Assists": true
+    },
+    {
+      "Assists": true
+    },
+    {
+      "Time Building Ultimate": false
+    },
+    {
+      "Objective Time": false
+    },
+    {
+      "Enemies Trapped": true
+    },
+    {
+      "Ultimates Earned - Fractional": true
+    },
+    {
+      "Time Holding Ultimate": false
+    },
+    {
+      "Eliminations per Life": true
+    },
+    {
+      "Deaths": true
+    },
+    {
+      "Damage Taken": true
+    },
+    {
+      "Average Time Alive": false
+    },
+    {
+      "Time Elapsed per Ultimate Earned": false
+    },
+    {
+      "Hero Damage Done": true
+    },
+    {
+      "Concussion Mine Kills": true
+    },
+    {
+      "Quick Melee Ticks": true
+    },
+    {
+      "Weapon Accuracy": false
+    },
+    {
+      "Time Alive": false
+    },
+    {
+      "Damage - Concussion Mine": true
+    },
+    {
+      "Shots Fired": true
+    },
+    {
+      "Damage - Quick Melee": true
+    },
+    {
+      "Quick Melee Accuracy": false
+    },
+    {
+      "Quick Melee Hits": true
+    },
+    {
+      "Time Discorded": false
+    }
   ],
   "Torbj\u00f6rn": [
-    "Assists",
-    "Damage Taken",
-    "Healing Received",
-    "Final Blows",
-    "Time Building Ultimate",
-    "Barrier Damage Done",
-    "Torbj\u00f6rn Kills",
-    "Eliminations",
-    "Average Time Alive",
-    "Shots Fired",
-    "Damage - Weapon Hammer",
-    "Shots Missed",
-    "Shots Hit",
-    "Hero Damage Done",
-    "Turret Damage",
-    "Time Played",
-    "Turret Kills",
-    "Damage - Weapon Secondary",
-    "Damage - Weapon Primary",
-    "All Damage Done",
-    "Weapon Accuracy",
-    "Time Alive",
-    "Time Elapsed per Ultimate Earned",
-    "Ultimates Earned - Fractional",
-    "Overload Kills",
-    "Time Holding Ultimate",
-    "Objective Time",
-    "Critical Hit Accuracy",
-    "Quick Melee Hits",
-    "Ultimates Used",
-    "Quick Melee Ticks",
-    "Critical Hits",
-    "Damage - Molten Core",
-    "Damage - Quick Melee",
-    "Eliminations per Life",
-    "Deaths",
-    "Quick Melee Accuracy",
-    "Objective Kills",
-    "Molten Core Kills",
-    "Molten Core Efficiency",
-    "Hammer Kills",
-    "Teleporter Pads Destroyed",
-    "Turrets Destroyed"
+    {
+      "Shots Fired": true
+    },
+    {
+      "Time Played": false
+    },
+    {
+      "Time Alive": false
+    },
+    {
+      "Ultimates Earned - Fractional": true
+    },
+    {
+      "Final Blows": true
+    },
+    {
+      "All Damage Done": true
+    },
+    {
+      "Shots Hit": true
+    },
+    {
+      "Damage - Weapon Hammer": true
+    },
+    {
+      "Shots Missed": true
+    },
+    {
+      "Barrier Damage Done": true
+    },
+    {
+      "Time Elapsed per Ultimate Earned": false
+    },
+    {
+      "Eliminations": true
+    },
+    {
+      "Healing Received": true
+    },
+    {
+      "Weapon Accuracy": false
+    },
+    {
+      "Time Building Ultimate": false
+    },
+    {
+      "Average Time Alive": false
+    },
+    {
+      "Assists": true
+    },
+    {
+      "Turret Damage": true
+    },
+    {
+      "Torbj\u00f6rn Kills": true
+    },
+    {
+      "Damage - Weapon Secondary": true
+    },
+    {
+      "Turret Kills": true
+    },
+    {
+      "Overload Kills": true
+    },
+    {
+      "Damage Taken": true
+    },
+    {
+      "Hero Damage Done": true
+    },
+    {
+      "Damage - Weapon Primary": true
+    },
+    {
+      "Quick Melee Hits": true
+    },
+    {
+      "Eliminations per Life": true
+    },
+    {
+      "Quick Melee Accuracy": false
+    },
+    {
+      "Time Holding Ultimate": false
+    },
+    {
+      "Quick Melee Ticks": true
+    },
+    {
+      "Critical Hits": true
+    },
+    {
+      "Damage - Quick Melee": true
+    },
+    {
+      "Damage - Molten Core": true
+    },
+    {
+      "Deaths": true
+    },
+    {
+      "Critical Hit Accuracy": false
+    },
+    {
+      "Ultimates Used": true
+    },
+    {
+      "Objective Time": false
+    },
+    {
+      "Molten Core Efficiency": false
+    },
+    {
+      "Molten Core Kills": true
+    },
+    {
+      "Objective Kills": true
+    },
+    {
+      "Hammer Kills": true
+    },
+    {
+      "Turrets Destroyed": true
+    },
+    {
+      "Teleporter Pads Destroyed": true
+    },
+    {
+      "Time Hacked": false
+    },
+    {
+      "Time Discorded": false
+    }
+  ],
+  "Ashe": [
+    {
+      "Healing Received": true
+    },
+    {
+      "Time Building Ultimate": false
+    },
+    {
+      "Coach Gun Kills": true
+    },
+    {
+      "Barrier Damage Done": true
+    },
+    {
+      "Time Played": false
+    },
+    {
+      "Dynamite Kills": true
+    },
+    {
+      "Ultimates Earned - Fractional": true
+    },
+    {
+      "All Damage Done": true
+    },
+    {
+      "Damage - Weapon": true
+    },
+    {
+      "Damage - Dynamite": true
+    },
+    {
+      "Critical Hits": true
+    },
+    {
+      "Knockback Kills": true
+    },
+    {
+      "Time Holding Ultimate": false
+    },
+    {
+      "Damage - Weapon Scoped": true
+    },
+    {
+      "Solo Kills": true
+    },
+    {
+      "Time Alive": false
+    },
+    {
+      "Scoped Shots": true
+    },
+    {
+      "Players Knocked Back": true
+    },
+    {
+      "Quick Melee Ticks": true
+    },
+    {
+      "Deaths": true
+    },
+    {
+      "Objective Kills": true
+    },
+    {
+      "Eliminations": true
+    },
+    {
+      "Damage - Bob": true
+    },
+    {
+      "Assists": true
+    },
+    {
+      "Bob Gun Damage": true
+    },
+    {
+      "Critical Hit Accuracy": false
+    },
+    {
+      "Shots Hit": true
+    },
+    {
+      "Scoped Critical Hits": true
+    },
+    {
+      "Scoped Hits": true
+    },
+    {
+      "Damage Taken": true
+    },
+    {
+      "Final Blows": true
+    },
+    {
+      "Damage - Coach Gun": true
+    },
+    {
+      "Shots Fired": true
+    },
+    {
+      "Weapon Accuracy": false
+    },
+    {
+      "Scoped Accuracy": false
+    },
+    {
+      "Time Elapsed per Ultimate Earned": false
+    },
+    {
+      "Shots Missed": true
+    },
+    {
+      "Hero Damage Done": true
+    },
+    {
+      "Ultimates Used": true
+    },
+    {
+      "Average Time Alive": false
+    },
+    {
+      "Eliminations per Life": true
+    },
+    {
+      "Objective Time": false
+    },
+    {
+      "Scoped Critical Hit Accuracy": false
+    }
   ]
 }

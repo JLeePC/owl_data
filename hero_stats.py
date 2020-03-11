@@ -23,6 +23,7 @@ for i in range(len(data)):
     stat_name = data['stat_name'][i]
     builder = {}
     builder['player_name'] = data['player_name'][i]
+    builder['team_name'] = data['team_name'][i]
     builder['stat_amount'] = data['stat_amount'][i]
 
     try:

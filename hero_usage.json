@@ -858,7 +858,496 @@
         ]
       }
     },
-    "maps_played": 15
+    "31037": {
+      "Oasis": {
+        "map_time": 799.2093528,
+        "heroes": [
+          {
+            "hero_name": "Orisa",
+            "time_played": 101.2012577,
+            "percentage": 0.12662671845048507
+          },
+          {
+            "hero_name": "Winston",
+            "time_played": 570.4351740000001,
+            "percentage": 0.7137493724285155
+          },
+          {
+            "hero_name": "Wrecking Ball",
+            "time_played": 127.57292109999999,
+            "percentage": 0.15962390912099944
+          },
+          {
+            "hero_name": "Brigitte",
+            "time_played": 470.1321803,
+            "percentage": 0.5882465947788392
+          },
+          {
+            "hero_name": "L\u00facio",
+            "time_played": 329.0771725,
+            "percentage": 0.4117534052211607
+          },
+          {
+            "hero_name": "D.Va",
+            "time_played": 690.223168,
+            "percentage": 0.8636324957682602
+          },
+          {
+            "hero_name": "Zarya",
+            "time_played": 108.9861848,
+            "percentage": 0.13636750423173977
+          },
+          {
+            "hero_name": "Ana",
+            "time_played": 222.0289199,
+            "percentage": 0.27781071270266045
+          },
+          {
+            "hero_name": "Baptiste",
+            "time_played": 103.1488166,
+            "percentage": 0.12906357544318267
+          },
+          {
+            "hero_name": "Zenyatta",
+            "time_played": 474.0316163,
+            "percentage": 0.5931257118541569
+          },
+          {
+            "hero_name": "Mei",
+            "time_played": 196.6250545,
+            "percentage": 0.24602446631928354
+          },
+          {
+            "hero_name": "Sombra",
+            "time_played": 602.5842982999999,
+            "percentage": 0.7539755336807162
+          },
+          {
+            "hero_name": "Reaper",
+            "time_played": 108.98326589999999,
+            "percentage": 0.1363638519972035
+          },
+          {
+            "hero_name": "Symmetra",
+            "time_played": 2.9178833369999997,
+            "percentage": 0.0036509624502982915
+          },
+          {
+            "hero_name": "Tracer",
+            "time_played": 687.3082036000001,
+            "percentage": 0.859985185598794
+          }
+        ]
+      },
+      "Havana": {
+        "map_time": 349.37026139999995,
+        "heroes": [
+          {
+            "hero_name": "Orisa",
+            "time_played": 298.79150580000004,
+            "percentage": 0.8552287896590848
+          },
+          {
+            "hero_name": "Winston",
+            "time_played": 47.66142225,
+            "percentage": 0.13642094796222975
+          },
+          {
+            "hero_name": "Wrecking Ball",
+            "time_played": 2.9173334239999997,
+            "percentage": 0.008350262590495346
+          },
+          {
+            "hero_name": "L\u00facio",
+            "time_played": 349.37026139999995,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "D.Va",
+            "time_played": 98.28449523,
+            "percentage": 0.28131900762289674
+          },
+          {
+            "hero_name": "Sigma",
+            "time_played": 249.14326890000004,
+            "percentage": 0.7131209963367536
+          },
+          {
+            "hero_name": "Wrecking Ball",
+            "time_played": 1.9424972530000002,
+            "percentage": 0.005559995991690896
+          },
+          {
+            "hero_name": "Ana",
+            "time_played": 349.37026139999995,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Mei",
+            "time_played": 284.19282450000003,
+            "percentage": 0.813443088605137
+          },
+          {
+            "hero_name": "Sombra",
+            "time_played": 48.63653398,
+            "percentage": 0.13921200329158873
+          },
+          {
+            "hero_name": "Tracer",
+            "time_played": 16.54090291,
+            "percentage": 0.04734490807465161
+          },
+          {
+            "hero_name": "Reaper",
+            "time_played": 188.79306069999998,
+            "percentage": 0.5403810271185263
+          },
+          {
+            "hero_name": "Sombra",
+            "time_played": 49.635040100000005,
+            "percentage": 0.1420700202160939
+          },
+          {
+            "hero_name": "Tracer",
+            "time_played": 110.9421606,
+            "percentage": 0.3175489526653799
+          }
+        ]
+      },
+      "Eichenwalde": {
+        "map_time": 685.1938058,
+        "heroes": [
+          {
+            "hero_name": "Winston",
+            "time_played": 685.1938058,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Brigitte",
+            "time_played": 271.5241188,
+            "percentage": 0.3962734579641759
+          },
+          {
+            "hero_name": "L\u00facio",
+            "time_played": 413.6696869,
+            "percentage": 0.6037265418898801
+          },
+          {
+            "hero_name": "D.Va",
+            "time_played": 685.1938058,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Ana",
+            "time_played": 408.79538110000004,
+            "percentage": 0.596612779683129
+          },
+          {
+            "hero_name": "Zenyatta",
+            "time_played": 276.3984247,
+            "percentage": 0.4033872203168712
+          },
+          {
+            "hero_name": "Sombra",
+            "time_played": 685.1938058,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Tracer",
+            "time_played": 685.1938058,
+            "percentage": 1.0
+          }
+        ]
+      }
+    },
+    "31042": {
+      "Ilios": {
+        "map_time": 515.7889679,
+        "heroes": [
+          {
+            "hero_name": "Brigitte",
+            "time_played": 512.8700278,
+            "percentage": 0.9943408248689687
+          },
+          {
+            "hero_name": "L\u00facio",
+            "time_played": 2.918940127,
+            "percentage": 0.005659175183378326
+          },
+          {
+            "hero_name": "D.Va",
+            "time_played": 515.7889679,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Zenyatta",
+            "time_played": 515.7889679,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Winston",
+            "time_played": 515.7889679,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Tracer",
+            "time_played": 515.7889679,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Soldier: 76",
+            "time_played": 515.7889679,
+            "percentage": 1.0
+          }
+        ]
+      },
+      "Junkertown": {
+        "map_time": 796.1027765,
+        "heroes": [
+          {
+            "hero_name": "Baptiste",
+            "time_played": 1.9465621709999998,
+            "percentage": 0.0024451141592017798
+          },
+          {
+            "hero_name": "Brigitte",
+            "time_played": 444.8472636,
+            "percentage": 0.5587811985228015
+          },
+          {
+            "hero_name": "Mercy",
+            "time_played": 349.30895069999997,
+            "percentage": 0.4387736872815692
+          },
+          {
+            "hero_name": "D.Va",
+            "time_played": 796.1027765,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "L\u00facio",
+            "time_played": 16.5485329,
+            "percentage": 0.02078693026640889
+          },
+          {
+            "hero_name": "Zenyatta",
+            "time_played": 779.5542436000001,
+            "percentage": 0.9792130697335912
+          },
+          {
+            "hero_name": "Orisa",
+            "time_played": 518.723862,
+            "percentage": 0.651579013805889
+          },
+          {
+            "hero_name": "Winston",
+            "time_played": 277.3789145,
+            "percentage": 0.3484209861941111
+          },
+          {
+            "hero_name": "Tracer",
+            "time_played": 796.1027765,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Hanzo",
+            "time_played": 678.3196325,
+            "percentage": 0.8520503288308781
+          },
+          {
+            "hero_name": "Sombra",
+            "time_played": 117.7831439,
+            "percentage": 0.14794967104351003
+          }
+        ]
+      },
+      "Blizzard World": {
+        "map_time": 469.1319881,
+        "heroes": [
+          {
+            "hero_name": "Baptiste",
+            "time_played": 0.9736925959999999,
+            "percentage": 0.002075519514121147
+          },
+          {
+            "hero_name": "Brigitte",
+            "time_played": 409.7514165,
+            "percentage": 0.8734245945570813
+          },
+          {
+            "hero_name": "L\u00facio",
+            "time_played": 4.864793837,
+            "percentage": 0.010369776439041335
+          },
+          {
+            "hero_name": "Mercy",
+            "time_played": 53.54208517,
+            "percentage": 0.11413010949615099
+          },
+          {
+            "hero_name": "D.Va",
+            "time_played": 469.1319881,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Ana",
+            "time_played": 208.2864538,
+            "percentage": 0.44398262980012726
+          },
+          {
+            "hero_name": "Zenyatta",
+            "time_played": 260.84553430000005,
+            "percentage": 0.5560173701998729
+          },
+          {
+            "hero_name": "Orisa",
+            "time_played": 433.1131521000001,
+            "percentage": 0.9232223832233709
+          },
+          {
+            "hero_name": "Winston",
+            "time_played": 36.01883602,
+            "percentage": 0.0767776168192612
+          },
+          {
+            "hero_name": "Symmetra",
+            "time_played": 8.764951825,
+            "percentage": 0.018683338692162828
+          },
+          {
+            "hero_name": "Tracer",
+            "time_played": 460.3670363,
+            "percentage": 0.981316661361127
+          },
+          {
+            "hero_name": "Bastion",
+            "time_played": 0.973671436,
+            "percentage": 0.0020754744095438926
+          },
+          {
+            "hero_name": "Doomfist",
+            "time_played": 27.25005955,
+            "percentage": 0.05808612552804945
+          },
+          {
+            "hero_name": "Hanzo",
+            "time_played": 306.5995744,
+            "percentage": 0.6535465118073452
+          },
+          {
+            "hero_name": "Soldier: 76",
+            "time_played": 121.64522209999998,
+            "percentage": 0.2592985027362281
+          },
+          {
+            "hero_name": "Sombra",
+            "time_played": 12.66346067,
+            "percentage": 0.026993385638202656
+          }
+        ]
+      },
+      "Hanamura": {
+        "map_time": 826.3005212999999,
+        "heroes": [
+          {
+            "hero_name": "Brigitte",
+            "time_played": 813.6442726,
+            "percentage": 0.9846832376674675
+          },
+          {
+            "hero_name": "L\u00facio",
+            "time_played": 12.65624863,
+            "percentage": 0.015316762247817793
+          },
+          {
+            "hero_name": "D.Va",
+            "time_played": 826.3005212999999,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Zenyatta",
+            "time_played": 826.3005212999999,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Winston",
+            "time_played": 826.3005212999999,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Symmetra",
+            "time_played": 10.71015686,
+            "percentage": 0.012961575823708731
+          },
+          {
+            "hero_name": "Tracer",
+            "time_played": 815.5903643999999,
+            "percentage": 0.9870384241278827
+          },
+          {
+            "hero_name": "Hanzo",
+            "time_played": 148.9218149,
+            "percentage": 0.18022718255787212
+          },
+          {
+            "hero_name": "Soldier: 76",
+            "time_played": 664.7224577000001,
+            "percentage": 0.8044560551095953
+          },
+          {
+            "hero_name": "Sombra",
+            "time_played": 12.65624863,
+            "percentage": 0.015316762247817793
+          }
+        ]
+      },
+      "Oasis": {
+        "map_time": 781.6216377000001,
+        "heroes": [
+          {
+            "hero_name": "Brigitte",
+            "time_played": 695.971671,
+            "percentage": 0.8904201693391784
+          },
+          {
+            "hero_name": "L\u00facio",
+            "time_played": 85.64996672,
+            "percentage": 0.10957983068640935
+          },
+          {
+            "hero_name": "D.Va",
+            "time_played": 781.6216377000001,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Zenyatta",
+            "time_played": 781.6216377000001,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Winston",
+            "time_played": 723.2256587,
+            "percentage": 0.9252886867719834
+          },
+          {
+            "hero_name": "Wrecking Ball",
+            "time_played": 58.39597899,
+            "percentage": 0.07471131321522267
+          },
+          {
+            "hero_name": "Tracer",
+            "time_played": 781.6216377000001,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Soldier: 76",
+            "time_played": 781.6216377000001,
+            "percentage": 1.0
+          }
+        ]
+      }
+    },
+    "maps_played": 23
   },
   "Toronto Defiant": {
     "30991": {
@@ -1799,7 +2288,249 @@
         ]
       }
     },
-    "maps_played": 16
+    "31036": {
+      "Busan": {
+        "map_time": 873.1419242000001,
+        "heroes": [
+          {
+            "hero_name": "Winston",
+            "time_played": 870.2215441,
+            "percentage": 0.9966553202645998
+          },
+          {
+            "hero_name": "Wrecking Ball",
+            "time_played": 2.9203800560000004,
+            "percentage": 0.0033446796850073873
+          },
+          {
+            "hero_name": "Zenyatta",
+            "time_played": 873.1419242000001,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Brigitte",
+            "time_played": 861.4590448999999,
+            "percentage": 0.9866197247249301
+          },
+          {
+            "hero_name": "L\u00facio",
+            "time_played": 11.68287933,
+            "percentage": 0.013380275309428327
+          },
+          {
+            "hero_name": "Tracer",
+            "time_played": 873.1419242000001,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "D.Va",
+            "time_played": 873.1419242000001,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Soldier: 76",
+            "time_played": 844.9231013,
+            "percentage": 0.9676812874082813
+          },
+          {
+            "hero_name": "Sombra",
+            "time_played": 28.2188229,
+            "percentage": 0.03231871259171866
+          }
+        ]
+      },
+      "Junkertown": {
+        "map_time": 364.05031349999996,
+        "heroes": [
+          {
+            "hero_name": "Winston",
+            "time_played": 228.7632923,
+            "percentage": 0.6283837255918199
+          },
+          {
+            "hero_name": "Wrecking Ball",
+            "time_played": 135.28702119999997,
+            "percentage": 0.37161627440818007
+          },
+          {
+            "hero_name": "Brigitte",
+            "time_played": 5.842686892000001,
+            "percentage": 0.016049119243513578
+          },
+          {
+            "hero_name": "Zenyatta",
+            "time_played": 358.2076266,
+            "percentage": 0.9839508807345116
+          },
+          {
+            "hero_name": "Brigitte",
+            "time_played": 348.4731838,
+            "percentage": 0.9572116020166538
+          },
+          {
+            "hero_name": "L\u00facio",
+            "time_played": 15.57712978,
+            "percentage": 0.042788398203096184
+          },
+          {
+            "hero_name": "Tracer",
+            "time_played": 364.05031349999996,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "D.Va",
+            "time_played": 364.05031349999996,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Hanzo",
+            "time_played": 5.839124203,
+            "percentage": 0.016039332989064986
+          },
+          {
+            "hero_name": "Soldier: 76",
+            "time_played": 119.74057379999999,
+            "percentage": 0.32891215680823743
+          },
+          {
+            "hero_name": "Sombra",
+            "time_played": 238.4706156,
+            "percentage": 0.6550485104856256
+          }
+        ]
+      },
+      "Blizzard World": {
+        "map_time": 767.0583017000001,
+        "heroes": [
+          {
+            "hero_name": "Doomfist",
+            "time_played": 75.8957271,
+            "percentage": 0.09894388331603399
+          },
+          {
+            "hero_name": "Pharah",
+            "time_played": 229.72747830000003,
+            "percentage": 0.2994915481533338
+          },
+          {
+            "hero_name": "Soldier: 76",
+            "time_played": 444.88786380000005,
+            "percentage": 0.5799922415467158
+          },
+          {
+            "hero_name": "Symmetra",
+            "time_played": 16.54723257,
+            "percentage": 0.02157232707517413
+          },
+          {
+            "hero_name": "Winston",
+            "time_played": 754.4060191000001,
+            "percentage": 0.9835054485793853
+          },
+          {
+            "hero_name": "Wrecking Ball",
+            "time_played": 12.65228266,
+            "percentage": 0.016494551498835563
+          },
+          {
+            "hero_name": "Ana",
+            "time_played": 375.71678189999994,
+            "percentage": 0.489815156249941
+          },
+          {
+            "hero_name": "Zenyatta",
+            "time_played": 391.3415198,
+            "percentage": 0.5101848437500588
+          },
+          {
+            "hero_name": "Brigitte",
+            "time_played": 443.9167556,
+            "percentage": 0.5787262253940351
+          },
+          {
+            "hero_name": "Mercy",
+            "time_played": 323.1415461,
+            "percentage": 0.4212737746059648
+          },
+          {
+            "hero_name": "D.Va",
+            "time_played": 762.1883961,
+            "percentage": 0.9936511923680283
+          },
+          {
+            "hero_name": "Wrecking Ball",
+            "time_played": 4.869905651,
+            "percentage": 0.006348807698459199
+          },
+          {
+            "hero_name": "Hanzo",
+            "time_played": 305.6388418,
+            "percentage": 0.3984558163605362
+          },
+          {
+            "hero_name": "Tracer",
+            "time_played": 461.41945989999994,
+            "percentage": 0.6015441836394636
+          }
+        ]
+      },
+      "Hanamura": {
+        "map_time": 298.7912927,
+        "heroes": [
+          {
+            "hero_name": "Doomfist",
+            "time_played": 95.38029432,
+            "percentage": 0.3192204614067055
+          },
+          {
+            "hero_name": "Pharah",
+            "time_played": 203.4109983,
+            "percentage": 0.680779538325549
+          },
+          {
+            "hero_name": "Winston",
+            "time_played": 286.13529289999997,
+            "percentage": 0.9576426753081214
+          },
+          {
+            "hero_name": "Wrecking Ball",
+            "time_played": 12.65599972,
+            "percentage": 0.042357324424133064
+          },
+          {
+            "hero_name": "Ana",
+            "time_played": 298.7912927,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Brigitte",
+            "time_played": 44.77171415,
+            "percentage": 0.14984276732238255
+          },
+          {
+            "hero_name": "Mercy",
+            "time_played": 254.01957850000002,
+            "percentage": 0.8501572325102766
+          },
+          {
+            "hero_name": "D.Va",
+            "time_played": 298.7912927,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Hanzo",
+            "time_played": 48.64278412,
+            "percentage": 0.16279853298415747
+          },
+          {
+            "hero_name": "Sombra",
+            "time_played": 250.1485085,
+            "percentage": 0.8372014667480971
+          }
+        ]
+      }
+    },
+    "maps_played": 20
   },
   "London Spitfire": {
     "30992": {
@@ -4095,7 +4826,209 @@
         ]
       }
     },
-    "maps_played": 17
+    "31044": {
+      "Nepal": {
+        "map_time": 608.4167225,
+        "heroes": [
+          {
+            "hero_name": "Brigitte",
+            "time_played": 608.4167225,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "D.Va",
+            "time_played": 606.46952,
+            "percentage": 0.996799557888549
+          },
+          {
+            "hero_name": "Wrecking Ball",
+            "time_played": 1.947202504,
+            "percentage": 0.003200442118025446
+          },
+          {
+            "hero_name": "Zenyatta",
+            "time_played": 608.4167225,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Soldier: 76",
+            "time_played": 305.71084049999996,
+            "percentage": 0.5024694903911028
+          },
+          {
+            "hero_name": "Sombra",
+            "time_played": 302.705882,
+            "percentage": 0.49753050960889716
+          },
+          {
+            "hero_name": "Winston",
+            "time_played": 608.4167225,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Symmetra",
+            "time_played": 5.834360837999999,
+            "percentage": 0.009589415645951447
+          },
+          {
+            "hero_name": "Tracer",
+            "time_played": 602.5823617000001,
+            "percentage": 0.9904105844165059
+          }
+        ]
+      },
+      "Dorado": {
+        "map_time": 854.6623060000001,
+        "heroes": [
+          {
+            "hero_name": "Brigitte",
+            "time_played": 854.6623060000001,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "D.Va",
+            "time_played": 854.6623060000001,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Zenyatta",
+            "time_played": 854.6623060000001,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Sombra",
+            "time_played": 854.6623060000001,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Winston",
+            "time_played": 854.6623060000001,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Tracer",
+            "time_played": 854.6623060000001,
+            "percentage": 1.0
+          }
+        ]
+      },
+      "King's Row": {
+        "map_time": 839.9886802000001,
+        "heroes": [
+          {
+            "hero_name": "Brigitte",
+            "time_played": 839.9886802000001,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "D.Va",
+            "time_played": 839.9886802000001,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Zenyatta",
+            "time_played": 839.9886802000001,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Sombra",
+            "time_played": 839.9886802000001,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Winston",
+            "time_played": 839.9886802000001,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Hanzo",
+            "time_played": 2.919437945,
+            "percentage": 0.003475568199686793
+          },
+          {
+            "hero_name": "Soldier: 76",
+            "time_played": 299.8060503,
+            "percentage": 0.35691677443631337
+          },
+          {
+            "hero_name": "Tracer",
+            "time_played": 537.263192,
+            "percentage": 0.6396076574175719
+          }
+        ]
+      },
+      "Horizon Lunar Colony": {
+        "map_time": 695.9242767999999,
+        "heroes": [
+          {
+            "hero_name": "Brigitte",
+            "time_played": 253.04328999999998,
+            "percentage": 0.3636075050629704
+          },
+          {
+            "hero_name": "L\u00facio",
+            "time_played": 442.88098679999996,
+            "percentage": 0.6363924949370297
+          },
+          {
+            "hero_name": "D.Va",
+            "time_played": 695.9242767999999,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Ana",
+            "time_played": 425.36027980000006,
+            "percentage": 0.6112163262300495
+          },
+          {
+            "hero_name": "Brigitte",
+            "time_played": 17.52070701,
+            "percentage": 0.0251761687213496
+          },
+          {
+            "hero_name": "Zenyatta",
+            "time_played": 253.04328999999998,
+            "percentage": 0.3636075050629704
+          },
+          {
+            "hero_name": "Mei",
+            "time_played": 335.8159122,
+            "percentage": 0.48254662668781906
+          },
+          {
+            "hero_name": "Soldier: 76",
+            "time_played": 253.04328999999998,
+            "percentage": 0.3636075050629704
+          },
+          {
+            "hero_name": "Sombra",
+            "time_played": 107.0650746,
+            "percentage": 0.15384586824921068
+          },
+          {
+            "hero_name": "Orisa",
+            "time_played": 267.6903903,
+            "percentage": 0.38465447926446017
+          },
+          {
+            "hero_name": "Winston",
+            "time_played": 428.23388650000004,
+            "percentage": 0.61534552073554
+          },
+          {
+            "hero_name": "Reaper",
+            "time_played": 228.7620913,
+            "percentage": 0.3287169293071571
+          },
+          {
+            "hero_name": "Tracer",
+            "time_played": 467.1621855,
+            "percentage": 0.6712830706928431
+          }
+        ]
+      }
+    },
+    "maps_played": 21
   },
   "Los Angeles Gladiators": {
     "30993": {
@@ -4323,9 +5256,24 @@
             "percentage": 0.4111767248630038
           },
           {
+            "hero_name": "Brigitte",
+            "time_played": 328.9482428,
+            "percentage": 0.4111767248630038
+          },
+          {
             "hero_name": "L\u00facio",
             "time_played": 392.22991,
             "percentage": 0.49027715854121817
+          },
+          {
+            "hero_name": "L\u00facio",
+            "time_played": 392.22991,
+            "percentage": 0.49027715854121817
+          },
+          {
+            "hero_name": "Mercy",
+            "time_played": 78.83853799,
+            "percentage": 0.09854611645828103
           },
           {
             "hero_name": "Mercy",
@@ -4338,9 +5286,24 @@
             "percentage": 0.49757126248476874
           },
           {
+            "hero_name": "Reaper",
+            "time_played": 398.0653149,
+            "percentage": 0.49757126248476874
+          },
+          {
             "hero_name": "Tracer",
             "time_played": 340.6289582,
             "percentage": 0.42577731449177697
+          },
+          {
+            "hero_name": "Tracer",
+            "time_played": 340.6289582,
+            "percentage": 0.42577731449177697
+          },
+          {
+            "hero_name": "Widowmaker",
+            "time_played": 61.32241774,
+            "percentage": 0.0766514229484559
           },
           {
             "hero_name": "Widowmaker",
@@ -4373,9 +5336,24 @@
             "percentage": 0.45013466080923736
           },
           {
+            "hero_name": "Reinhardt",
+            "time_played": 360.1152418,
+            "percentage": 0.45013466080923736
+          },
+          {
             "hero_name": "Winston",
             "time_played": 406.8093778,
             "percentage": 0.5085011130734648
+          },
+          {
+            "hero_name": "Winston",
+            "time_played": 406.8093778,
+            "percentage": 0.5085011130734648
+          },
+          {
+            "hero_name": "Wrecking Ball",
+            "time_played": 33.09207129,
+            "percentage": 0.04136422610479814
           },
           {
             "hero_name": "Wrecking Ball",
@@ -4388,9 +5366,24 @@
             "percentage": 1.0
           },
           {
+            "hero_name": "D.Va",
+            "time_played": 800.0166909,
+            "percentage": 1.0
+          },
+          {
             "hero_name": "Ana",
             "time_played": 766.9451604,
             "percentage": 0.9586614493470189
+          },
+          {
+            "hero_name": "Ana",
+            "time_played": 766.9451604,
+            "percentage": 0.9586614493470189
+          },
+          {
+            "hero_name": "Moira",
+            "time_played": 33.07153046,
+            "percentage": 0.04133855060298217
           },
           {
             "hero_name": "Moira",
@@ -4643,9 +5636,24 @@
             "percentage": 0.00486658135297162
           },
           {
+            "hero_name": "Orisa",
+            "time_played": 3.89334631,
+            "percentage": 0.00486658135297162
+          },
+          {
             "hero_name": "Reinhardt",
             "time_played": 539.1890646,
             "percentage": 0.6739722692453142
+          },
+          {
+            "hero_name": "Reinhardt",
+            "time_played": 539.1890646,
+            "percentage": 0.6739722692453142
+          },
+          {
+            "hero_name": "Winston",
+            "time_played": 93.42494917,
+            "percentage": 0.11677875003445133
           },
           {
             "hero_name": "Winston",
@@ -4658,9 +5666,24 @@
             "percentage": 0.20438239921726614
           },
           {
+            "hero_name": "Wrecking Ball",
+            "time_played": 163.5093307,
+            "percentage": 0.20438239921726614
+          },
+          {
             "hero_name": "Doomfist",
             "time_played": 222.8756738,
             "percentage": 0.27858877987816744
+          },
+          {
+            "hero_name": "Doomfist",
+            "time_played": 222.8756738,
+            "percentage": 0.27858877987816744
+          },
+          {
+            "hero_name": "Genji",
+            "time_played": 347.44260510000004,
+            "percentage": 0.43429419542376707
           },
           {
             "hero_name": "Genji",
@@ -4673,9 +5696,24 @@
             "percentage": 0.007303600891659848
           },
           {
+            "hero_name": "Hanzo",
+            "time_played": 5.843002617000001,
+            "percentage": 0.007303600891659848
+          },
+          {
             "hero_name": "Mei",
             "time_played": 223.85540930000005,
             "percentage": 0.279813423702658
+          },
+          {
+            "hero_name": "Mei",
+            "time_played": 223.85540930000005,
+            "percentage": 0.279813423702658
+          },
+          {
+            "hero_name": "D.Va",
+            "time_played": 800.0166909,
+            "percentage": 1.0
           },
           {
             "hero_name": "D.Va",
@@ -4688,9 +5726,24 @@
             "percentage": 0.006083383671064356
           },
           {
+            "hero_name": "Baptiste",
+            "time_played": 4.866808474,
+            "percentage": 0.006083383671064356
+          },
+          {
             "hero_name": "L\u00facio",
             "time_played": 795.1498824,
             "percentage": 0.9939166162964364
+          },
+          {
+            "hero_name": "L\u00facio",
+            "time_played": 795.1498824,
+            "percentage": 0.9939166162964364
+          },
+          {
+            "hero_name": "Reaper",
+            "time_played": 723.1158677999999,
+            "percentage": 0.9038759766205773
           },
           {
             "hero_name": "Reaper",
@@ -4703,6 +5756,16 @@
             "percentage": 0.06814936670716903
           },
           {
+            "hero_name": "Sombra",
+            "time_played": 54.52063084,
+            "percentage": 0.06814936670716903
+          },
+          {
+            "hero_name": "Widowmaker",
+            "time_played": 22.38019222,
+            "percentage": 0.027974656622254734
+          },
+          {
             "hero_name": "Widowmaker",
             "time_played": 22.38019222,
             "percentage": 0.027974656622254734
@@ -4711,6 +5774,16 @@
             "hero_name": "Ana",
             "time_played": 393.1944916,
             "percentage": 0.491482860385907
+          },
+          {
+            "hero_name": "Ana",
+            "time_played": 393.1944916,
+            "percentage": 0.491482860385907
+          },
+          {
+            "hero_name": "Moira",
+            "time_played": 406.8221992,
+            "percentage": 0.5085171394890956
           },
           {
             "hero_name": "Moira",
@@ -6690,7 +7763,526 @@
         ]
       }
     },
-    "maps_played": 13
+    "31038": {
+      "Busan": {
+        "map_time": 443.87278160000005,
+        "heroes": [
+          {
+            "hero_name": "Mei",
+            "time_played": 179.1021509,
+            "percentage": 0.4034988364332722
+          },
+          {
+            "hero_name": "Sombra",
+            "time_played": 264.7706308,
+            "percentage": 0.5965011637920173
+          },
+          {
+            "hero_name": "Orisa",
+            "time_played": 179.1021509,
+            "percentage": 0.4034988364332722
+          },
+          {
+            "hero_name": "Winston",
+            "time_played": 264.7706308,
+            "percentage": 0.5965011637920173
+          },
+          {
+            "hero_name": "Brigitte",
+            "time_played": 264.7706308,
+            "percentage": 0.5965011637920173
+          },
+          {
+            "hero_name": "L\u00facio",
+            "time_played": 179.1021509,
+            "percentage": 0.4034988364332722
+          },
+          {
+            "hero_name": "Symmetra",
+            "time_played": 3.895654678,
+            "percentage": 0.008776511738245316
+          },
+          {
+            "hero_name": "Torbj\u00f6rn",
+            "time_played": 179.1021509,
+            "percentage": 0.4034988364332722
+          },
+          {
+            "hero_name": "Tracer",
+            "time_played": 260.87497609999997,
+            "percentage": 0.5877246520042083
+          },
+          {
+            "hero_name": "D.Va",
+            "time_played": 264.7706308,
+            "percentage": 0.5965011637920173
+          },
+          {
+            "hero_name": "Sigma",
+            "time_played": 179.1021509,
+            "percentage": 0.4034988364332722
+          },
+          {
+            "hero_name": "Baptiste",
+            "time_played": 179.1021509,
+            "percentage": 0.4034988364332722
+          },
+          {
+            "hero_name": "Zenyatta",
+            "time_played": 264.7706308,
+            "percentage": 0.5965011637920173
+          }
+        ]
+      },
+      "Havana": {
+        "map_time": 745.5466701,
+        "heroes": [
+          {
+            "hero_name": "Mei",
+            "time_played": 739.7004155000001,
+            "percentage": 0.9921584324168253
+          },
+          {
+            "hero_name": "Tracer",
+            "time_played": 5.846254587000001,
+            "percentage": 0.007841567565737827
+          },
+          {
+            "hero_name": "Orisa",
+            "time_played": 716.3571172000001,
+            "percentage": 0.9608481211564063
+          },
+          {
+            "hero_name": "Wrecking Ball",
+            "time_played": 29.18955284,
+            "percentage": 0.039151878763115947
+          },
+          {
+            "hero_name": "Baptiste",
+            "time_played": 325.1074395,
+            "percentage": 0.4360658460943745
+          },
+          {
+            "hero_name": "Brigitte",
+            "time_played": 382.4867793,
+            "percentage": 0.5130286199906132
+          },
+          {
+            "hero_name": "L\u00facio",
+            "time_played": 37.95245135,
+            "percentage": 0.05090553398207713
+          },
+          {
+            "hero_name": "Sombra",
+            "time_played": 745.5466701,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "D.Va",
+            "time_played": 580.096726,
+            "percentage": 0.7780823780249622
+          },
+          {
+            "hero_name": "Sigma",
+            "time_played": 165.44994409999998,
+            "percentage": 0.22191762197503775
+          },
+          {
+            "hero_name": "Ana",
+            "time_played": 376.6497149,
+            "percentage": 0.5051993792011438
+          },
+          {
+            "hero_name": "Zenyatta",
+            "time_played": 368.8969552,
+            "percentage": 0.4948006207988561
+          }
+        ]
+      },
+      "Eichenwalde": {
+        "map_time": 850.7409202,
+        "heroes": [
+          {
+            "hero_name": "Mei",
+            "time_played": 744.6137241,
+            "percentage": 0.8752532133107567
+          },
+          {
+            "hero_name": "Pharah",
+            "time_played": 106.12719609999999,
+            "percentage": 0.12474678668924334
+          },
+          {
+            "hero_name": "Orisa",
+            "time_played": 850.7409202,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Brigitte",
+            "time_played": 245.32167819999998,
+            "percentage": 0.28836238198384473
+          },
+          {
+            "hero_name": "L\u00facio",
+            "time_played": 494.42876449999994,
+            "percentage": 0.5811743067252073
+          },
+          {
+            "hero_name": "Mercy",
+            "time_played": 110.99047759999998,
+            "percentage": 0.1304633114084924
+          },
+          {
+            "hero_name": "Hanzo",
+            "time_played": 0.9737939240000001,
+            "percentage": 0.001144642159414492
+          },
+          {
+            "hero_name": "Reaper",
+            "time_played": 597.6300177,
+            "percentage": 0.7024818055766069
+          },
+          {
+            "hero_name": "Sombra",
+            "time_played": 250.1916051,
+            "percentage": 0.294086718011851
+          },
+          {
+            "hero_name": "Tracer",
+            "time_played": 1.945503473,
+            "percentage": 0.002286834248601364
+          },
+          {
+            "hero_name": "D.Va",
+            "time_played": 841.0061507000001,
+            "percentage": 0.9885573042640158
+          },
+          {
+            "hero_name": "Sigma",
+            "time_played": 9.734769464,
+            "percentage": 0.011442695693668362
+          },
+          {
+            "hero_name": "Ana",
+            "time_played": 345.6064538,
+            "percentage": 0.4062417189462941
+          },
+          {
+            "hero_name": "Brigitte",
+            "time_played": 505.1344664,
+            "percentage": 0.5937582810537059
+          }
+        ]
+      },
+      "Horizon Lunar Colony": {
+        "map_time": 620.014093,
+        "heroes": [
+          {
+            "hero_name": "Mei",
+            "time_played": 579.1431279,
+            "percentage": 0.9340805869391746
+          },
+          {
+            "hero_name": "Reaper",
+            "time_played": 0.9740017059999999,
+            "percentage": 0.0015709347851872134
+          },
+          {
+            "hero_name": "Soldier: 76",
+            "time_played": 2.917014301,
+            "percentage": 0.004704754833693756
+          },
+          {
+            "hero_name": "Tracer",
+            "time_played": 36.97994906,
+            "percentage": 0.059643723388719816
+          },
+          {
+            "hero_name": "Orisa",
+            "time_played": 570.3828662000001,
+            "percentage": 0.9199514537486491
+          },
+          {
+            "hero_name": "Winston",
+            "time_played": 2.917152047,
+            "percentage": 0.004704976999611523
+          },
+          {
+            "hero_name": "Wrecking Ball",
+            "time_played": 46.71407473,
+            "percentage": 0.07534356921464364
+          },
+          {
+            "hero_name": "Baptiste",
+            "time_played": 350.38789239999994,
+            "percentage": 0.5651289161906194
+          },
+          {
+            "hero_name": "L\u00facio",
+            "time_played": 269.6262006,
+            "percentage": 0.43487108380938044
+          },
+          {
+            "hero_name": "Hanzo",
+            "time_played": 182.9393442,
+            "percentage": 0.2950567515567747
+          },
+          {
+            "hero_name": "Reaper",
+            "time_played": 221.93431380000004,
+            "percentage": 0.3579504342008562
+          },
+          {
+            "hero_name": "Sombra",
+            "time_played": 122.66648300000001,
+            "percentage": 0.19784466899206438
+          },
+          {
+            "hero_name": "Torbj\u00f6rn",
+            "time_played": 92.47395194,
+            "percentage": 0.14914814515353284
+          },
+          {
+            "hero_name": "D.Va",
+            "time_played": 521.6893266,
+            "percentage": 0.8414152718299581
+          },
+          {
+            "hero_name": "Sigma",
+            "time_played": 98.32476640000002,
+            "percentage": 0.1585847281700418
+          },
+          {
+            "hero_name": "Ana",
+            "time_played": 199.5581217,
+            "percentage": 0.32186062212621347
+          },
+          {
+            "hero_name": "Baptiste",
+            "time_played": 184.9498464,
+            "percentage": 0.29829942333262416
+          },
+          {
+            "hero_name": "Brigitte",
+            "time_played": 46.73249578,
+            "percentage": 0.0753732799102681
+          },
+          {
+            "hero_name": "Zenyatta",
+            "time_played": 188.773629,
+            "percentage": 0.30446667443735026
+          }
+        ]
+      }
+    },
+    "31043": {
+      "Oasis": {
+        "map_time": 427.2599282,
+        "heroes": [
+          {
+            "hero_name": "Mei",
+            "time_played": 176.15580680000002,
+            "percentage": 0.4122918981476345
+          },
+          {
+            "hero_name": "Pharah",
+            "time_played": 227.7442951,
+            "percentage": 0.5330345301967871
+          },
+          {
+            "hero_name": "Tracer",
+            "time_played": 23.35982621,
+            "percentage": 0.05467357144493384
+          },
+          {
+            "hero_name": "Orisa",
+            "time_played": 176.15580680000002,
+            "percentage": 0.4122918981476345
+          },
+          {
+            "hero_name": "Winston",
+            "time_played": 251.1041213,
+            "percentage": 0.587708101618316
+          },
+          {
+            "hero_name": "L\u00facio",
+            "time_played": 176.15580680000002,
+            "percentage": 0.4122918981476345
+          },
+          {
+            "hero_name": "Mercy",
+            "time_played": 251.1041213,
+            "percentage": 0.587708101618316
+          },
+          {
+            "hero_name": "Reaper",
+            "time_played": 173.23874009999997,
+            "percentage": 0.40546451624854246
+          },
+          {
+            "hero_name": "Sombra",
+            "time_played": 251.1041213,
+            "percentage": 0.587708101618316
+          },
+          {
+            "hero_name": "Symmetra",
+            "time_played": 2.917066693,
+            "percentage": 0.006827381882708467
+          },
+          {
+            "hero_name": "D.Va",
+            "time_played": 286.1468805,
+            "percentage": 0.6697255268133989
+          },
+          {
+            "hero_name": "Sigma",
+            "time_played": 141.11304769999998,
+            "percentage": 0.330274473186601
+          },
+          {
+            "hero_name": "Ana",
+            "time_played": 251.1041213,
+            "percentage": 0.587708101618316
+          },
+          {
+            "hero_name": "Baptiste",
+            "time_played": 176.15580680000002,
+            "percentage": 0.4122918981476345
+          }
+        ]
+      },
+      "Havana": {
+        "map_time": 591.7768097999999,
+        "heroes": [
+          {
+            "hero_name": "Mei",
+            "time_played": 589.8264124,
+            "percentage": 0.9967041672338274
+          },
+          {
+            "hero_name": "Tracer",
+            "time_played": 1.9503973719999999,
+            "percentage": 0.003295832718857582
+          },
+          {
+            "hero_name": "Orisa",
+            "time_played": 591.7768097999999,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Baptiste",
+            "time_played": 583.9900065,
+            "percentage": 0.9868416552135061
+          },
+          {
+            "hero_name": "L\u00facio",
+            "time_played": 7.786803305,
+            "percentage": 0.013158344794943334
+          },
+          {
+            "hero_name": "Hanzo",
+            "time_played": 591.7768097999999,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Sigma",
+            "time_played": 551.8679107,
+            "percentage": 0.9325608938385272
+          },
+          {
+            "hero_name": "Wrecking Ball",
+            "time_played": 39.90889913,
+            "percentage": 0.06743910621216777
+          },
+          {
+            "hero_name": "Zenyatta",
+            "time_played": 591.7768097999999,
+            "percentage": 1.0
+          }
+        ]
+      },
+      "Eichenwalde": {
+        "map_time": 774.7983805,
+        "heroes": [
+          {
+            "hero_name": "Mei",
+            "time_played": 111.0008436,
+            "percentage": 0.14326416574124473
+          },
+          {
+            "hero_name": "Pharah",
+            "time_played": 318.242327,
+            "percentage": 0.41074211692934737
+          },
+          {
+            "hero_name": "Tracer",
+            "time_played": 345.5552098,
+            "percentage": 0.44599371720034203
+          },
+          {
+            "hero_name": "Orisa",
+            "time_played": 736.8467397999999,
+            "percentage": 0.9510173980029375
+          },
+          {
+            "hero_name": "Winston",
+            "time_played": 37.95164073,
+            "percentage": 0.048982602035782134
+          },
+          {
+            "hero_name": "Baptiste",
+            "time_played": 85.66648895,
+            "percentage": 0.11056616934939502
+          },
+          {
+            "hero_name": "Brigitte",
+            "time_played": 347.5230942,
+            "percentage": 0.44853358363466533
+          },
+          {
+            "hero_name": "L\u00facio",
+            "time_played": 1.9453036190000002,
+            "percentage": 0.0025107223607574386
+          },
+          {
+            "hero_name": "Mercy",
+            "time_played": 339.6634938,
+            "percentage": 0.43838952474423765
+          },
+          {
+            "hero_name": "Hanzo",
+            "time_played": 765.0623757999999,
+            "percentage": 0.9874341442302484
+          },
+          {
+            "hero_name": "Sombra",
+            "time_played": 9.736004651,
+            "percentage": 0.012565855706509185
+          },
+          {
+            "hero_name": "D.Va",
+            "time_played": 140.1243756,
+            "percentage": 0.18085269552263863
+          },
+          {
+            "hero_name": "Sigma",
+            "time_played": 634.6740049,
+            "percentage": 0.8191473044773614
+          },
+          {
+            "hero_name": "Ana",
+            "time_played": 692.0492065000001,
+            "percentage": 0.8931990875528167
+          },
+          {
+            "hero_name": "Zenyatta",
+            "time_played": 82.749174,
+            "percentage": 0.10680091244718341
+          }
+        ]
+      }
+    },
+    "maps_played": 20
   },
   "San Francisco Shock": {
     "30998": {
@@ -7751,7 +9343,264 @@
         ]
       }
     },
-    "maps_played": 14
+    "31036": {
+      "Busan": {
+        "map_time": 873.1419242000001,
+        "heroes": [
+          {
+            "hero_name": "Orisa",
+            "time_played": 781.6379579,
+            "percentage": 0.8952014973008667
+          },
+          {
+            "hero_name": "Winston",
+            "time_played": 68.1532439,
+            "percentage": 0.07805517294618987
+          },
+          {
+            "hero_name": "Wrecking Ball",
+            "time_played": 23.35072243,
+            "percentage": 0.02674332978730195
+          },
+          {
+            "hero_name": "D.Va",
+            "time_played": 851.7131274000001,
+            "percentage": 0.9754578308450442
+          },
+          {
+            "hero_name": "Wrecking Ball",
+            "time_played": 21.42879683,
+            "percentage": 0.02454216918931448
+          },
+          {
+            "hero_name": "Ana",
+            "time_played": 873.1419242000001,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Brigitte",
+            "time_played": 851.7449798,
+            "percentage": 0.9754943110541798
+          },
+          {
+            "hero_name": "L\u00facio",
+            "time_played": 21.3969444,
+            "percentage": 0.024505688945820062
+          },
+          {
+            "hero_name": "Doomfist",
+            "time_played": 68.14849812,
+            "percentage": 0.07804973765569645
+          },
+          {
+            "hero_name": "Mei",
+            "time_played": 804.9934261,
+            "percentage": 0.9219502623672092
+          },
+          {
+            "hero_name": "Soldier: 76",
+            "time_played": 800.1280272999999,
+            "percentage": 0.9163779737562163
+          },
+          {
+            "hero_name": "Sombra",
+            "time_played": 64.26265669,
+            "percentage": 0.07359932550355941
+          },
+          {
+            "hero_name": "Tracer",
+            "time_played": 8.751240252999999,
+            "percentage": 0.010022700789471492
+          }
+        ]
+      },
+      "Junkertown": {
+        "map_time": 364.05031349999996,
+        "heroes": [
+          {
+            "hero_name": "Orisa",
+            "time_played": 364.05031349999996,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "D.Va",
+            "time_played": 108.05668870000001,
+            "percentage": 0.2968180075471904
+          },
+          {
+            "hero_name": "Sigma",
+            "time_played": 255.99362480000002,
+            "percentage": 0.7031819924528098
+          },
+          {
+            "hero_name": "Ana",
+            "time_played": 108.05668870000001,
+            "percentage": 0.2968180075471904
+          },
+          {
+            "hero_name": "L\u00facio",
+            "time_played": 19.46903163,
+            "percentage": 0.053478958561589046
+          },
+          {
+            "hero_name": "Zenyatta",
+            "time_played": 236.5245932,
+            "percentage": 0.6497030339736269
+          },
+          {
+            "hero_name": "Baptiste",
+            "time_played": 255.99362480000002,
+            "percentage": 0.7031819924528098
+          },
+          {
+            "hero_name": "Brigitte",
+            "time_played": 108.05668870000001,
+            "percentage": 0.2968180075471904
+          },
+          {
+            "hero_name": "Mei",
+            "time_played": 364.05031349999996,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Hanzo",
+            "time_played": 255.99362480000002,
+            "percentage": 0.7031819924528098
+          },
+          {
+            "hero_name": "Soldier: 76",
+            "time_played": 108.05668870000001,
+            "percentage": 0.2968180075471904
+          }
+        ]
+      },
+      "Blizzard World": {
+        "map_time": 767.0583017000001,
+        "heroes": [
+          {
+            "hero_name": "Orisa",
+            "time_played": 767.0583017000001,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "D.Va",
+            "time_played": 767.0583017000001,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Ana",
+            "time_played": 767.0583017000001,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Baptiste",
+            "time_played": 117.77851399999999,
+            "percentage": 0.15354571319933863
+          },
+          {
+            "hero_name": "Brigitte",
+            "time_played": 640.5127907000001,
+            "percentage": 0.8350249117706667
+          },
+          {
+            "hero_name": "L\u00facio",
+            "time_played": 8.766997039,
+            "percentage": 0.011429375080838133
+          },
+          {
+            "hero_name": "Hanzo",
+            "time_played": 11.68523383,
+            "percentage": 0.015233827473221384
+          },
+          {
+            "hero_name": "Mei",
+            "time_played": 669.6869360000001,
+            "percentage": 0.8730587160269306
+          },
+          {
+            "hero_name": "Tracer",
+            "time_played": 85.68613189,
+            "percentage": 0.11170745652592157
+          },
+          {
+            "hero_name": "Ashe",
+            "time_played": 186.88707040000003,
+            "percentage": 0.24364128513544514
+          },
+          {
+            "hero_name": "Doomfist",
+            "time_played": 18.49852318,
+            "percentage": 0.02411618926358332
+          },
+          {
+            "hero_name": "Hanzo",
+            "time_played": 97.34830737,
+            "percentage": 0.1269112232463307
+          },
+          {
+            "hero_name": "Soldier: 76",
+            "time_played": 324.16963730000003,
+            "percentage": 0.4226140784625576
+          },
+          {
+            "hero_name": "Sombra",
+            "time_played": 13.63093424,
+            "percentage": 0.01777040181924935
+          },
+          {
+            "hero_name": "Torbj\u00f6rn",
+            "time_played": 126.5238293,
+            "percentage": 0.16494682219016518
+          }
+        ]
+      },
+      "Hanamura": {
+        "map_time": 298.7912927,
+        "heroes": [
+          {
+            "hero_name": "Orisa",
+            "time_played": 298.7912927,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "D.Va",
+            "time_played": 298.7912927,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Ana",
+            "time_played": 298.7912927,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Brigitte",
+            "time_played": 298.7912927,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Mei",
+            "time_played": 298.7912927,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Soldier: 76",
+            "time_played": 51.58200258,
+            "percentage": 0.1726355614779935
+          },
+          {
+            "hero_name": "Symmetra",
+            "time_played": 44.77171415,
+            "percentage": 0.14984276732238255
+          },
+          {
+            "hero_name": "Torbj\u00f6rn",
+            "time_played": 202.4375759,
+            "percentage": 0.6775216709653468
+          }
+        ]
+      }
+    },
+    "maps_played": 18
   },
   "Houston Outlaws": {
     "31001": {
@@ -9251,7 +11100,174 @@
         ]
       }
     },
-    "maps_played": 25
+    "31037": {
+      "Oasis": {
+        "map_time": 799.2093528,
+        "heroes": [
+          {
+            "hero_name": "Symmetra",
+            "time_played": 5.841152191,
+            "percentage": 0.007308663456622151
+          },
+          {
+            "hero_name": "Tracer",
+            "time_played": 793.3682006,
+            "percentage": 0.9926913365321167
+          },
+          {
+            "hero_name": "Brigitte",
+            "time_played": 798.2361324,
+            "percentage": 0.9987822710074771
+          },
+          {
+            "hero_name": "L\u00facio",
+            "time_played": 0.973220348,
+            "percentage": 0.0012177289274585676
+          },
+          {
+            "hero_name": "D.Va",
+            "time_played": 799.2093528,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Winston",
+            "time_played": 764.1461642,
+            "percentage": 0.9561276548164039
+          },
+          {
+            "hero_name": "Wrecking Ball",
+            "time_played": 35.06318855,
+            "percentage": 0.043872345121034224
+          },
+          {
+            "hero_name": "Ana",
+            "time_played": 411.783003,
+            "percentage": 0.5152379680709862
+          },
+          {
+            "hero_name": "Zenyatta",
+            "time_played": 387.4263498,
+            "percentage": 0.48476203192901374
+          },
+          {
+            "hero_name": "Doomfist",
+            "time_played": 261.8683091,
+            "percentage": 0.3276592149260443
+          },
+          {
+            "hero_name": "Soldier: 76",
+            "time_played": 474.0316163,
+            "percentage": 0.5931257118541569
+          },
+          {
+            "hero_name": "Sombra",
+            "time_played": 63.30942744,
+            "percentage": 0.07921507326984825
+          }
+        ]
+      },
+      "Havana": {
+        "map_time": 349.37026139999995,
+        "heroes": [
+          {
+            "hero_name": "Tracer",
+            "time_played": 349.37026139999995,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Brigitte",
+            "time_played": 347.42103149999997,
+            "percentage": 0.9944207332009628
+          },
+          {
+            "hero_name": "L\u00facio",
+            "time_played": 1.9492298959999999,
+            "percentage": 0.005579266787588121
+          },
+          {
+            "hero_name": "D.Va",
+            "time_played": 349.37026139999995,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Winston",
+            "time_played": 349.37026139999995,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Ana",
+            "time_played": 83.70219141,
+            "percentage": 0.2395801837127973
+          },
+          {
+            "hero_name": "Zenyatta",
+            "time_played": 265.66807,
+            "percentage": 0.7604198163158258
+          },
+          {
+            "hero_name": "Doomfist",
+            "time_played": 83.70219141,
+            "percentage": 0.2395801837127973
+          },
+          {
+            "hero_name": "Soldier: 76",
+            "time_played": 265.66807,
+            "percentage": 0.7604198163158258
+          }
+        ]
+      },
+      "Eichenwalde": {
+        "map_time": 685.1938058,
+        "heroes": [
+          {
+            "hero_name": "Tracer",
+            "time_played": 685.1938058,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Brigitte",
+            "time_played": 685.1938058,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "D.Va",
+            "time_played": 685.1938058,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Winston",
+            "time_played": 685.1938058,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Ana",
+            "time_played": 414.6015778,
+            "percentage": 0.605086581767812
+          },
+          {
+            "hero_name": "Zenyatta",
+            "time_played": 270.592228,
+            "percentage": 0.394913418232188
+          },
+          {
+            "hero_name": "Doomfist",
+            "time_played": 56.43027586,
+            "percentage": 0.08235666373853844
+          },
+          {
+            "hero_name": "Soldier: 76",
+            "time_played": 496.40652810000006,
+            "percentage": 0.7244760882221042
+          },
+          {
+            "hero_name": "Sombra",
+            "time_played": 132.3570018,
+            "percentage": 0.19316724798097995
+          }
+        ]
+      }
+    },
+    "maps_played": 28
   },
   "Philadelphia Fusion": {
     "31002": {
@@ -10264,7 +12280,244 @@
         ]
       }
     },
-    "maps_played": 19
+    "31042": {
+      "Ilios": {
+        "map_time": 515.7889679,
+        "heroes": [
+          {
+            "hero_name": "Zenyatta",
+            "time_played": 515.7889679,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "D.Va",
+            "time_played": 515.7889679,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Winston",
+            "time_played": 515.7889679,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Tracer",
+            "time_played": 515.7889679,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Brigitte",
+            "time_played": 515.7889679,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Soldier: 76",
+            "time_played": 515.7889679,
+            "percentage": 1.0
+          }
+        ]
+      },
+      "Junkertown": {
+        "map_time": 796.1027765,
+        "heroes": [
+          {
+            "hero_name": "Ana",
+            "time_played": 223.87090099999998,
+            "percentage": 0.28120854192247624
+          },
+          {
+            "hero_name": "Zenyatta",
+            "time_played": 572.2318753999999,
+            "percentage": 0.7187914579519117
+          },
+          {
+            "hero_name": "Baptiste",
+            "time_played": 559.5762066000001,
+            "percentage": 0.7028944291089281
+          },
+          {
+            "hero_name": "Brigitte",
+            "time_played": 210.2342855,
+            "percentage": 0.26407932707417203
+          },
+          {
+            "hero_name": "L\u00facio",
+            "time_played": 26.29228437,
+            "percentage": 0.03302624377921636
+          },
+          {
+            "hero_name": "D.Va",
+            "time_played": 711.4210952999999,
+            "percentage": 0.8936297125199135
+          },
+          {
+            "hero_name": "Sigma",
+            "time_played": 84.68168122,
+            "percentage": 0.10637028750520883
+          },
+          {
+            "hero_name": "Orisa",
+            "time_played": 600.4503121,
+            "percentage": 0.7542371786967383
+          },
+          {
+            "hero_name": "Winston",
+            "time_played": 195.6524644,
+            "percentage": 0.24576282130326174
+          },
+          {
+            "hero_name": "Doomfist",
+            "time_played": 36.02707136,
+            "percentage": 0.04525429683638341
+          },
+          {
+            "hero_name": "Hanzo",
+            "time_played": 615.02439,
+            "percentage": 0.7725439580852913
+          },
+          {
+            "hero_name": "Tracer",
+            "time_played": 145.05131509999998,
+            "percentage": 0.18220174502808054
+          },
+          {
+            "hero_name": "Mei",
+            "time_played": 716.2848228999999,
+            "percentage": 0.8997391342473228
+          },
+          {
+            "hero_name": "Soldier: 76",
+            "time_played": 71.06166732,
+            "percentage": 0.08926192624577538
+          },
+          {
+            "hero_name": "Tracer",
+            "time_played": 8.756286263,
+            "percentage": 0.010998939485547693
+          }
+        ]
+      },
+      "Blizzard World": {
+        "map_time": 469.1319881,
+        "heroes": [
+          {
+            "hero_name": "Zenyatta",
+            "time_played": 469.1319881,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Brigitte",
+            "time_played": 469.1319881,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "D.Va",
+            "time_played": 469.1319881,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Winston",
+            "time_played": 469.1319881,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Tracer",
+            "time_played": 469.1319881,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Soldier: 76",
+            "time_played": 469.1319881,
+            "percentage": 1.0
+          }
+        ]
+      },
+      "Hanamura": {
+        "map_time": 826.3005212999999,
+        "heroes": [
+          {
+            "hero_name": "Zenyatta",
+            "time_played": 826.3005212999999,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Brigitte",
+            "time_played": 826.3005212999999,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "D.Va",
+            "time_played": 826.3005212999999,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Winston",
+            "time_played": 826.3005212999999,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Tracer",
+            "time_played": 826.3005212999999,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Soldier: 76",
+            "time_played": 826.3005212999999,
+            "percentage": 1.0
+          }
+        ]
+      },
+      "Oasis": {
+        "map_time": 781.6216377000001,
+        "heroes": [
+          {
+            "hero_name": "Zenyatta",
+            "time_played": 781.6216377000001,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Brigitte",
+            "time_played": 698.8957256,
+            "percentage": 0.8941611796425833
+          },
+          {
+            "hero_name": "L\u00facio",
+            "time_played": 82.72591209,
+            "percentage": 0.1058388203446226
+          },
+          {
+            "hero_name": "D.Va",
+            "time_played": 781.6216377000001,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Winston",
+            "time_played": 705.7034292000001,
+            "percentage": 0.9028708970706122
+          },
+          {
+            "hero_name": "Wrecking Ball",
+            "time_played": 75.91820848,
+            "percentage": 0.09712910290380002
+          },
+          {
+            "hero_name": "Symmetra",
+            "time_played": 1.94735682,
+            "percentage": 0.002491431564932481
+          },
+          {
+            "hero_name": "Tracer",
+            "time_played": 779.6742809,
+            "percentage": 0.9975085684606553
+          },
+          {
+            "hero_name": "Soldier: 76",
+            "time_played": 781.6216377000001,
+            "percentage": 1.0
+          }
+        ]
+      }
+    },
+    "maps_played": 24
   },
   "Washington Justice": {
     "31002": {
@@ -11210,7 +13463,476 @@
         ]
       }
     },
-    "maps_played": 16
+    "31038": {
+      "Busan": {
+        "map_time": 443.87278160000005,
+        "heroes": [
+          {
+            "hero_name": "Ana",
+            "time_played": 267.68763909999996,
+            "percentage": 0.6030728852872738
+          },
+          {
+            "hero_name": "Zenyatta",
+            "time_played": 176.1851426,
+            "percentage": 0.3969271149380158
+          },
+          {
+            "hero_name": "Baptiste",
+            "time_played": 123.6392912,
+            "percentage": 0.27854668347611966
+          },
+          {
+            "hero_name": "Brigitte",
+            "time_played": 318.2809781,
+            "percentage": 0.7170545059165664
+          },
+          {
+            "hero_name": "L\u00facio",
+            "time_played": 1.952512324,
+            "percentage": 0.004398810661383432
+          },
+          {
+            "hero_name": "Soldier: 76",
+            "time_played": 122.65726940000002,
+            "percentage": 0.27633428875243293
+          },
+          {
+            "hero_name": "Tracer",
+            "time_played": 321.2155122,
+            "percentage": 0.723665711247567
+          },
+          {
+            "hero_name": "D.Va",
+            "time_played": 443.87278160000005,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Hanzo",
+            "time_played": 129.476851,
+            "percentage": 0.2916981089340126
+          },
+          {
+            "hero_name": "Sombra",
+            "time_played": 314.39593060000004,
+            "percentage": 0.7083018910659874
+          },
+          {
+            "hero_name": "Orisa",
+            "time_played": 125.5834096,
+            "percentage": 0.28292658348483873
+          },
+          {
+            "hero_name": "Winston",
+            "time_played": 318.289372,
+            "percentage": 0.7170734165151612
+          }
+        ]
+      },
+      "Havana": {
+        "map_time": 745.5466701,
+        "heroes": [
+          {
+            "hero_name": "Ana",
+            "time_played": 338.7302147,
+            "percentage": 0.45433804251927806
+          },
+          {
+            "hero_name": "Zenyatta",
+            "time_played": 406.81645539999994,
+            "percentage": 0.5456619574807218
+          },
+          {
+            "hero_name": "Brigitte",
+            "time_played": 618.0569115000001,
+            "percentage": 0.8289982858042947
+          },
+          {
+            "hero_name": "Mercy",
+            "time_played": 127.48975859999999,
+            "percentage": 0.17100171419570528
+          },
+          {
+            "hero_name": "Soldier: 76",
+            "time_played": 125.54279220000001,
+            "percentage": 0.16839025272980024
+          },
+          {
+            "hero_name": "Tracer",
+            "time_played": 620.0038779,
+            "percentage": 0.8316097472701998
+          },
+          {
+            "hero_name": "D.Va",
+            "time_played": 745.5466701,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Hanzo",
+            "time_played": 49.64483189999999,
+            "percentage": 0.06658849659048326
+          },
+          {
+            "hero_name": "Pharah",
+            "time_played": 70.05169922,
+            "percentage": 0.09396017986453348
+          },
+          {
+            "hero_name": "Sombra",
+            "time_played": 625.850139,
+            "percentage": 0.8394513235718092
+          },
+          {
+            "hero_name": "Orisa",
+            "time_played": 128.4631186,
+            "percentage": 0.1723072796807868
+          },
+          {
+            "hero_name": "Winston",
+            "time_played": 617.0835515,
+            "percentage": 0.8276927203192131
+          }
+        ]
+      },
+      "Eichenwalde": {
+        "map_time": 850.7409202,
+        "heroes": [
+          {
+            "hero_name": "Zenyatta",
+            "time_played": 850.7409202,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Brigitte",
+            "time_played": 850.7409202,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Tracer",
+            "time_played": 850.7409202,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "D.Va",
+            "time_played": 850.7409202,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Sombra",
+            "time_played": 850.7409202,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Winston",
+            "time_played": 850.7409202,
+            "percentage": 1.0
+          }
+        ]
+      },
+      "Horizon Lunar Colony": {
+        "map_time": 620.014093,
+        "heroes": [
+          {
+            "hero_name": "Ana",
+            "time_played": 121.67532800000001,
+            "percentage": 0.19624606823251678
+          },
+          {
+            "hero_name": "Zenyatta",
+            "time_played": 498.338765,
+            "percentage": 0.8037539317674832
+          },
+          {
+            "hero_name": "Brigitte",
+            "time_played": 420.4559712,
+            "percentage": 0.6781393777124999
+          },
+          {
+            "hero_name": "L\u00facio",
+            "time_played": 14.59359962,
+            "percentage": 0.023537528880008863
+          },
+          {
+            "hero_name": "Mercy",
+            "time_played": 184.96452209999998,
+            "percentage": 0.29832309327846196
+          },
+          {
+            "hero_name": "Soldier: 76",
+            "time_played": 185.9389333,
+            "percentage": 0.2998946885228301
+          },
+          {
+            "hero_name": "Tracer",
+            "time_played": 434.07515970000003,
+            "percentage": 0.7001053114771699
+          },
+          {
+            "hero_name": "D.Va",
+            "time_played": 618.0684095,
+            "percentage": 0.9968618721381226
+          },
+          {
+            "hero_name": "Roadhog",
+            "time_played": 1.9456834790000002,
+            "percentage": 0.0031381278280072904
+          },
+          {
+            "hero_name": "Pharah",
+            "time_played": 150.8970423,
+            "percentage": 0.24337679417877361
+          },
+          {
+            "hero_name": "Sombra",
+            "time_played": 428.2433097,
+            "percentage": 0.6906993156041051
+          },
+          {
+            "hero_name": "Tracer",
+            "time_played": 40.87374103,
+            "percentage": 0.06592389026550724
+          },
+          {
+            "hero_name": "Orisa",
+            "time_played": 164.5303946,
+            "percentage": 0.26536557226288726
+          },
+          {
+            "hero_name": "Winston",
+            "time_played": 420.4559712,
+            "percentage": 0.6781393777124999
+          },
+          {
+            "hero_name": "Wrecking Ball",
+            "time_played": 35.02772719,
+            "percentage": 0.056495050008484246
+          }
+        ]
+      }
+    },
+    "31044": {
+      "Nepal": {
+        "map_time": 608.4167225,
+        "heroes": [
+          {
+            "hero_name": "Ana",
+            "time_played": 2.9225015639999996,
+            "percentage": 0.004803453711777292
+          },
+          {
+            "hero_name": "Baptiste",
+            "time_played": 170.358723,
+            "percentage": 0.28000335411556676
+          },
+          {
+            "hero_name": "Zenyatta",
+            "time_played": 435.13549789999996,
+            "percentage": 0.715193192113486
+          },
+          {
+            "hero_name": "Brigitte",
+            "time_played": 433.189662,
+            "percentage": 0.7119949961598894
+          },
+          {
+            "hero_name": "L\u00facio",
+            "time_played": 175.2270605,
+            "percentage": 0.2880050038401106
+          },
+          {
+            "hero_name": "Soldier: 76",
+            "time_played": 133.4003898,
+            "percentage": 0.21925825649869446
+          },
+          {
+            "hero_name": "Torbj\u00f6rn",
+            "time_played": 172.3104507,
+            "percentage": 0.2832112338924083
+          },
+          {
+            "hero_name": "Tracer",
+            "time_played": 302.705882,
+            "percentage": 0.49753050960889716
+          },
+          {
+            "hero_name": "D.Va",
+            "time_played": 608.4167225,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Mei",
+            "time_played": 229.7658273,
+            "percentage": 0.3776454834375464
+          },
+          {
+            "hero_name": "Sombra",
+            "time_played": 302.705882,
+            "percentage": 0.49753050960889716
+          },
+          {
+            "hero_name": "Tracer",
+            "time_played": 75.94501323,
+            "percentage": 0.12482400700286472
+          },
+          {
+            "hero_name": "Orisa",
+            "time_played": 223.9265797,
+            "percentage": 0.3680480358591722
+          },
+          {
+            "hero_name": "Winston",
+            "time_played": 384.49014280000006,
+            "percentage": 0.631951964140828
+          }
+        ]
+      },
+      "Dorado": {
+        "map_time": 854.6623060000001,
+        "heroes": [
+          {
+            "hero_name": "Ana",
+            "time_played": 120.7246779,
+            "percentage": 0.1412542439890873
+          },
+          {
+            "hero_name": "Zenyatta",
+            "time_played": 733.9376281000001,
+            "percentage": 0.8587457560109127
+          },
+          {
+            "hero_name": "Brigitte",
+            "time_played": 844.9254854000001,
+            "percentage": 0.9886074060694564
+          },
+          {
+            "hero_name": "Zenyatta",
+            "time_played": 9.736820638,
+            "percentage": 0.011392593975005607
+          },
+          {
+            "hero_name": "Tracer",
+            "time_played": 854.6623060000001,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "D.Va",
+            "time_played": 842.9816112,
+            "percentage": 0.9863329706739166
+          },
+          {
+            "hero_name": "Roadhog",
+            "time_played": 11.68069482,
+            "percentage": 0.013667029349484378
+          },
+          {
+            "hero_name": "Sombra",
+            "time_played": 854.6623060000001,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Orisa",
+            "time_played": 10.70810986,
+            "percentage": 0.012529053621325848
+          },
+          {
+            "hero_name": "Winston",
+            "time_played": 843.9541962000001,
+            "percentage": 0.9874709464488773
+          }
+        ]
+      },
+      "King's Row": {
+        "map_time": 839.9886802000001,
+        "heroes": [
+          {
+            "hero_name": "Ana",
+            "time_played": 229.7353346,
+            "percentage": 0.2734981316001786
+          },
+          {
+            "hero_name": "Zenyatta",
+            "time_played": 610.2533456,
+            "percentage": 0.7265018683998212
+          },
+          {
+            "hero_name": "Brigitte",
+            "time_played": 839.9886802000001,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Tracer",
+            "time_played": 839.9886802000001,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "D.Va",
+            "time_played": 839.9886802000001,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Sombra",
+            "time_played": 839.9886802000001,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Winston",
+            "time_played": 839.9886802000001,
+            "percentage": 1.0
+          }
+        ]
+      },
+      "Horizon Lunar Colony": {
+        "map_time": 695.9242767999999,
+        "heroes": [
+          {
+            "hero_name": "Ana",
+            "time_played": 242.3299015,
+            "percentage": 0.34821303061057407
+          },
+          {
+            "hero_name": "Zenyatta",
+            "time_played": 453.5943754,
+            "percentage": 0.6517869695331199
+          },
+          {
+            "hero_name": "Brigitte",
+            "time_played": 691.0626884999999,
+            "percentage": 0.9930141993000237
+          },
+          {
+            "hero_name": "L\u00facio",
+            "time_played": 4.861588359,
+            "percentage": 0.006985800784755725
+          },
+          {
+            "hero_name": "Soldier: 76",
+            "time_played": 98.31754398,
+            "percentage": 0.1412762095785534
+          },
+          {
+            "hero_name": "Tracer",
+            "time_played": 597.6067327999999,
+            "percentage": 0.8587237903927079
+          },
+          {
+            "hero_name": "D.Va",
+            "time_played": 695.9242767999999,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Sombra",
+            "time_played": 695.9242767999999,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Winston",
+            "time_played": 695.9242767999999,
+            "percentage": 1.0
+          }
+        ]
+      }
+    },
+    "maps_played": 24
   },
   "Atlanta Reign": {
     "31024": {
@@ -11672,6 +14394,168 @@
         ]
       }
     },
-    "maps_played": 7
+    "31043": {
+      "Oasis": {
+        "map_time": 427.2599282,
+        "heroes": [
+          {
+            "hero_name": "Ana",
+            "time_played": 427.2599282,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Reaper",
+            "time_played": 422.397644,
+            "percentage": 0.9886198450192035
+          },
+          {
+            "hero_name": "Symmetra",
+            "time_played": 4.862284123999999,
+            "percentage": 0.011380154802918865
+          },
+          {
+            "hero_name": "Mei",
+            "time_played": 425.31138380000004,
+            "percentage": 0.9954394403233437
+          },
+          {
+            "hero_name": "Tracer",
+            "time_played": 1.9485443830000002,
+            "percentage": 0.004560559636867908
+          },
+          {
+            "hero_name": "Orisa",
+            "time_played": 427.2599282,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "D.Va",
+            "time_played": 427.2599282,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Brigitte",
+            "time_played": 427.2599282,
+            "percentage": 1.0
+          }
+        ]
+      },
+      "Havana": {
+        "map_time": 591.7768097999999,
+        "heroes": [
+          {
+            "hero_name": "Baptiste",
+            "time_played": 188.7962787,
+            "percentage": 0.3190329116881187
+          },
+          {
+            "hero_name": "Zenyatta",
+            "time_played": 402.9805312,
+            "percentage": 0.6809670884808641
+          },
+          {
+            "hero_name": "Hanzo",
+            "time_played": 475.9200996999999,
+            "percentage": 0.804222287556088
+          },
+          {
+            "hero_name": "Tracer",
+            "time_played": 115.8567101,
+            "percentage": 0.195777712443912
+          },
+          {
+            "hero_name": "Mei",
+            "time_played": 583.9892518999999,
+            "percentage": 0.9868403800706014
+          },
+          {
+            "hero_name": "Tracer",
+            "time_played": 7.7875578999999995,
+            "percentage": 0.013159619929398594
+          },
+          {
+            "hero_name": "Orisa",
+            "time_played": 591.7768097999999,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "D.Va",
+            "time_played": 591.7768097999999,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Baptiste",
+            "time_played": 402.9805312,
+            "percentage": 0.6809670884808641
+          },
+          {
+            "hero_name": "Zenyatta",
+            "time_played": 188.7962787,
+            "percentage": 0.3190329116881187
+          }
+        ]
+      },
+      "Eichenwalde": {
+        "map_time": 774.7983805,
+        "heroes": [
+          {
+            "hero_name": "Ana",
+            "time_played": 742.6553528,
+            "percentage": 0.958514332878113
+          },
+          {
+            "hero_name": "Baptiste",
+            "time_played": 32.14302772,
+            "percentage": 0.04148566714769998
+          },
+          {
+            "hero_name": "Hanzo",
+            "time_played": 315.3266963,
+            "percentage": 0.4069790338184631
+          },
+          {
+            "hero_name": "Reaper",
+            "time_played": 73.02020597,
+            "percentage": 0.0942441386143295
+          },
+          {
+            "hero_name": "Tracer",
+            "time_played": 386.45147819999994,
+            "percentage": 0.4987768275284875
+          },
+          {
+            "hero_name": "Junkrat",
+            "time_played": 174.28104219999997,
+            "percentage": 0.22493728250636164
+          },
+          {
+            "hero_name": "Mei",
+            "time_played": 386.3919568,
+            "percentage": 0.4987000057365246
+          },
+          {
+            "hero_name": "Sombra",
+            "time_played": 214.1253815,
+            "percentage": 0.2763627117571137
+          },
+          {
+            "hero_name": "Orisa",
+            "time_played": 774.7983805,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "D.Va",
+            "time_played": 774.7983805,
+            "percentage": 1.0
+          },
+          {
+            "hero_name": "Brigitte",
+            "time_played": 774.7983805,
+            "percentage": 1.0
+          }
+        ]
+      }
+    },
+    "maps_played": 10
   }
 }
