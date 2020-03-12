@@ -1,4578 +1,6082 @@
 {
   "All Heroes": [
     {
-      "Assists": true
+      "stat_name": "Assists",
+      "stat_state": true
     },
     {
-      "Time Holding Ultimate": false
+      "stat_name": "Time Holding Ultimate",
+      "stat_state": false
     },
     {
-      "All Damage Done": true
+      "stat_name": "All Damage Done",
+      "stat_state": true
     },
     {
-      "Average Time Alive": false
+      "stat_name": "Average Time Alive",
+      "stat_state": false
     },
     {
-      "Final Blows": true
+      "stat_name": "Final Blows",
+      "stat_state": true
     },
     {
-      "Time Played": false
+      "stat_name": "Time Played",
+      "stat_state": false
     },
     {
-      "Objective Time": false
+      "stat_name": "Objective Time",
+      "stat_state": false
     },
     {
-      "Time Alive": false
+      "stat_name": "Time Alive",
+      "stat_state": false
     },
     {
-      "Ultimates Used": true
+      "stat_name": "Ultimates Used",
+      "stat_state": true
     },
     {
-      "Objective Kills": true
+      "stat_name": "Objective Kills",
+      "stat_state": true
     },
     {
-      "Damage Taken": true
+      "stat_name": "Damage Taken",
+      "stat_state": true
     },
     {
-      "Hero Damage Done": true
+      "stat_name": "Hero Damage Done",
+      "stat_state": true
     },
     {
-      "Time Building Ultimate": false
+      "stat_name": "Time Building Ultimate",
+      "stat_state": false
     },
     {
-      "Eliminations": true
+      "stat_name": "Eliminations",
+      "stat_state": true
     },
     {
-      "Ultimates Earned - Fractional": true
+      "stat_name": "Ultimates Earned - Fractional",
+      "stat_state": true
     },
     {
-      "Deaths": true
+      "stat_name": "Deaths",
+      "stat_state": true
     },
     {
-      "Damage Blocked": true
+      "stat_name": "Damage Blocked",
+      "stat_state": true
     },
     {
-      "Barrier Damage Done": true
+      "stat_name": "Barrier Damage Done",
+      "stat_state": true
     },
     {
-      "Time Elapsed per Ultimate Earned": false
+      "stat_name": "Time Elapsed per Ultimate Earned",
+      "stat_state": false
     },
     {
-      "Multikills": true
+      "stat_name": "Multikills",
+      "stat_state": true
     },
     {
-      "Offensive Assists": true
+      "stat_name": "Offensive Assists",
+      "stat_state": true
     },
     {
-      "Damage Done": true
+      "stat_name": "Damage Done",
+      "stat_state": true
     },
     {
-      "Melee Final Blows": true
+      "stat_name": "Melee Final Blows",
+      "stat_state": true
     },
     {
-      "Weapon Accuracy": false
+      "stat_name": "Weapon Accuracy",
+      "stat_state": false
     },
     {
-      "Knockback Kills": true
+      "stat_name": "Knockback Kills",
+      "stat_state": true
     },
     {
-      "Environmental Kills": true
+      "stat_name": "Environmental Kills",
+      "stat_state": true
     },
     {
-      "Healing Done": true
+      "stat_name": "Healing Done",
+      "stat_state": true
     },
     {
-      "Melee Percentage of Final Blows": false
+      "stat_name": "Melee Percentage of Final Blows",
+      "stat_state": false
     },
     {
-      "Shots Fired": true
+      "stat_name": "Shots Fired",
+      "stat_state": true
     },
     {
-      "Damage - Quick Melee": true
+      "stat_name": "Damage - Quick Melee",
+      "stat_state": true
     },
     {
-      "Defensive Assists": true
+      "stat_name": "Defensive Assists",
+      "stat_state": true
     },
     {
-      "Environmental Deaths": true
+      "stat_name": "Environmental Deaths",
+      "stat_state": true
     },
     {
-      "Solo Kills": true
+      "stat_name": "Solo Kills",
+      "stat_state": true
     },
     {
-      "Turrets Destroyed": true
+      "stat_name": "Turrets Destroyed",
+      "stat_state": true
     },
     {
-      "Teleporter Pads Destroyed": true
+      "stat_name": "Teleporter Pads Destroyed",
+      "stat_state": true
     },
     {
-      "Recon Assists": true
+      "stat_name": "Recon Assists",
+      "stat_state": true
     }
   ],
   "Reinhardt": [
     {
-      "Rocket Hammer Melee Ticks": true
+      "stat_name": "Rocket Hammer Melee Ticks",
+      "stat_state": true
     },
     {
-      "Ultimates Earned - Fractional": true
+      "stat_name": "Ultimates Earned - Fractional",
+      "stat_state": true
     },
     {
-      "Rocket Hammer Melee Hits - Multiple": true
+      "stat_name": "Rocket Hammer Melee Hits - Multiple",
+      "stat_state": true
     },
     {
-      "Time Holding Ultimate": false
+      "stat_name": "Time Holding Ultimate",
+      "stat_state": false
     },
     {
-      "All Damage Done": true
+      "stat_name": "All Damage Done",
+      "stat_state": true
     },
     {
-      "Assists": true
+      "stat_name": "Assists",
+      "stat_state": true
     },
     {
-      "Offensive Assists": true
+      "stat_name": "Offensive Assists",
+      "stat_state": true
     },
     {
-      "Multikills": true
+      "stat_name": "Multikills",
+      "stat_state": true
     },
     {
-      "Ultimates Used": true
+      "stat_name": "Ultimates Used",
+      "stat_state": true
     },
     {
-      "Objective Kills": true
+      "stat_name": "Objective Kills",
+      "stat_state": true
     },
     {
-      "Earthshatter Kills": true
+      "stat_name": "Earthshatter Kills",
+      "stat_state": true
     },
     {
-      "Deaths": true
+      "stat_name": "Deaths",
+      "stat_state": true
     },
     {
-      "Damage Taken": true
+      "stat_name": "Damage Taken",
+      "stat_state": true
     },
     {
-      "Barrier Damage Done": true
+      "stat_name": "Barrier Damage Done",
+      "stat_state": true
     },
     {
-      "Fire Strike Kills": true
+      "stat_name": "Fire Strike Kills",
+      "stat_state": true
     },
     {
-      "Damage - Fire Strike": true
+      "stat_name": "Damage - Fire Strike",
+      "stat_state": true
     },
     {
-      "Hero Damage Done": true
+      "stat_name": "Hero Damage Done",
+      "stat_state": true
     },
     {
-      "Average Time Alive": false
+      "stat_name": "Average Time Alive",
+      "stat_state": false
     },
     {
-      "Time Alive": false
+      "stat_name": "Time Alive",
+      "stat_state": false
     },
     {
-      "Time Played": false
+      "stat_name": "Time Played",
+      "stat_state": false
     },
     {
-      "Rocket Hammer Melee Hits": true
+      "stat_name": "Rocket Hammer Melee Hits",
+      "stat_state": true
     },
     {
-      "Earthshatter Efficiency": false
+      "stat_name": "Earthshatter Efficiency",
+      "stat_state": false
     },
     {
-      "Healing Received": true
+      "stat_name": "Healing Received",
+      "stat_state": true
     },
     {
-      "Damage - Weapon": true
+      "stat_name": "Damage - Weapon",
+      "stat_state": true
     },
     {
-      "Final Blows": true
+      "stat_name": "Final Blows",
+      "stat_state": true
     },
     {
-      "Damage - Earthshatter": true
+      "stat_name": "Damage - Earthshatter",
+      "stat_state": true
     },
     {
-      "Rocket Hammer Melee Average Targets": false
+      "stat_name": "Rocket Hammer Melee Average Targets",
+      "stat_state": false
     },
     {
-      "Damage Blocked": true
+      "stat_name": "Damage Blocked",
+      "stat_state": true
     },
     {
-      "Eliminations": true
+      "stat_name": "Eliminations",
+      "stat_state": true
     },
     {
-      "Earthshatter Stuns": true
+      "stat_name": "Earthshatter Stuns",
+      "stat_state": true
     },
     {
-      "Charge Kills": true
+      "stat_name": "Charge Kills",
+      "stat_state": true
     },
     {
-      "Rocket Hammer Melee Accuracy": false
+      "stat_name": "Rocket Hammer Melee Accuracy",
+      "stat_state": false
     },
     {
-      "Time Building Ultimate": false
+      "stat_name": "Time Building Ultimate",
+      "stat_state": false
     },
     {
-      "Eliminations per Life": true
+      "stat_name": "Eliminations per Life",
+      "stat_state": true
     },
     {
-      "Objective Time": false
+      "stat_name": "Objective Time",
+      "stat_state": false
     },
     {
-      "Damage - Charge": true
+      "stat_name": "Damage - Charge",
+      "stat_state": true
     },
     {
-      "Time Elapsed per Ultimate Earned": false
+      "stat_name": "Time Elapsed per Ultimate Earned",
+      "stat_state": false
     },
     {
-      "Turrets Destroyed": true
+      "stat_name": "Turrets Destroyed",
+      "stat_state": true
     },
     {
-      "Environmental Deaths": true
+      "stat_name": "Environmental Deaths",
+      "stat_state": true
     },
     {
-      "Solo Kills": true
+      "stat_name": "Solo Kills",
+      "stat_state": true
     },
     {
-      "Time Discorded": false
+      "stat_name": "Time Discorded",
+      "stat_state": false
     },
     {
-      "Time Hacked": false
+      "stat_name": "Time Hacked",
+      "stat_state": false
     },
     {
-      "Environmental Kills": true
+      "stat_name": "Environmental Kills",
+      "stat_state": true
     },
     {
-      "Teleporter Pads Destroyed": true
+      "stat_name": "Teleporter Pads Destroyed",
+      "stat_state": true
     }
   ],
   "L\u00facio": [
     {
-      "Critical Hit Accuracy": false
+      "stat_name": "Critical Hit Accuracy",
+      "stat_state": false
     },
     {
-      "Damage - Quick Melee": true
+      "stat_name": "Damage - Quick Melee",
+      "stat_state": true
     },
     {
-      "Offensive Assists": true
+      "stat_name": "Offensive Assists",
+      "stat_state": true
     },
     {
-      "Healing Done": true
+      "stat_name": "Healing Done",
+      "stat_state": true
     },
     {
-      "Sound Barrier Efficiency": false
+      "stat_name": "Sound Barrier Efficiency",
+      "stat_state": false
     },
     {
-      "Assists": true
+      "stat_name": "Assists",
+      "stat_state": true
     },
     {
-      "Self Healing": true
+      "stat_name": "Self Healing",
+      "stat_state": true
     },
     {
-      "Average Time Alive": false
+      "stat_name": "Average Time Alive",
+      "stat_state": false
     },
     {
-      "Sound Barriers Provided": true
+      "stat_name": "Sound Barriers Provided",
+      "stat_state": true
     },
     {
-      "Speed Song Time Elapsed": false
+      "stat_name": "Speed Song Time Elapsed",
+      "stat_state": false
     },
     {
-      "Shots Fired": true
+      "stat_name": "Shots Fired",
+      "stat_state": true
     },
     {
-      "Amped Heal Activations": true
+      "stat_name": "Amped Heal Activations",
+      "stat_state": true
     },
     {
-      "Weapon Accuracy": false
+      "stat_name": "Weapon Accuracy",
+      "stat_state": false
     },
     {
-      "All Damage Done": true
+      "stat_name": "All Damage Done",
+      "stat_state": true
     },
     {
-      "Self Healing Percent of Damage Taken": true
+      "stat_name": "Self Healing Percent of Damage Taken",
+      "stat_state": true
     },
     {
-      "Healing - Healing Boost": true
+      "stat_name": "Healing - Healing Boost",
+      "stat_state": true
     },
     {
-      "Amped Speed Activations": true
+      "stat_name": "Amped Speed Activations",
+      "stat_state": true
     },
     {
-      "Time Elapsed per Ultimate Earned": false
+      "stat_name": "Time Elapsed per Ultimate Earned",
+      "stat_state": false
     },
     {
-      "Soundwave Kills": true
+      "stat_name": "Soundwave Kills",
+      "stat_state": true
     },
     {
-      "Damage - Weapon Primary": true
+      "stat_name": "Damage - Weapon Primary",
+      "stat_state": true
     },
     {
-      "Ultimates Used": true
+      "stat_name": "Ultimates Used",
+      "stat_state": true
     },
     {
-      "Objective Kills": true
+      "stat_name": "Objective Kills",
+      "stat_state": true
     },
     {
-      "Sound Barrier Casts": true
+      "stat_name": "Sound Barrier Casts",
+      "stat_state": true
     },
     {
-      "Melee Final Blows": true
+      "stat_name": "Melee Final Blows",
+      "stat_state": true
     },
     {
-      "Environmental Kills": true
+      "stat_name": "Environmental Kills",
+      "stat_state": true
     },
     {
-      "Shots Hit": true
+      "stat_name": "Shots Hit",
+      "stat_state": true
     },
     {
-      "Damage - Weapon Secondary": true
+      "stat_name": "Damage - Weapon Secondary",
+      "stat_state": true
     },
     {
-      "Heal Song Time Elapsed": false
+      "stat_name": "Heal Song Time Elapsed",
+      "stat_state": false
     },
     {
-      "Quick Melee Hits": true
+      "stat_name": "Quick Melee Hits",
+      "stat_state": true
     },
     {
-      "Quick Melee Accuracy": false
+      "stat_name": "Quick Melee Accuracy",
+      "stat_state": false
     },
     {
-      "Time Played": false
+      "stat_name": "Time Played",
+      "stat_state": false
     },
     {
-      "Eliminations per Life": true
+      "stat_name": "Eliminations per Life",
+      "stat_state": true
     },
     {
-      "Quick Melee Ticks": true
+      "stat_name": "Quick Melee Ticks",
+      "stat_state": true
     },
     {
-      "Knockback Kills": true
+      "stat_name": "Knockback Kills",
+      "stat_state": true
     },
     {
-      "Damage Taken": true
+      "stat_name": "Damage Taken",
+      "stat_state": true
     },
     {
-      "Shots Missed": true
+      "stat_name": "Shots Missed",
+      "stat_state": true
     },
     {
-      "Healing - Healing Boost Amped": true
+      "stat_name": "Healing - Healing Boost Amped",
+      "stat_state": true
     },
     {
-      "Deaths": true
+      "stat_name": "Deaths",
+      "stat_state": true
     },
     {
-      "Barrier Damage Done": true
+      "stat_name": "Barrier Damage Done",
+      "stat_state": true
     },
     {
-      "Critical Hits": true
+      "stat_name": "Critical Hits",
+      "stat_state": true
     },
     {
-      "Time Building Ultimate": false
+      "stat_name": "Time Building Ultimate",
+      "stat_state": false
     },
     {
-      "Time Alive": false
+      "stat_name": "Time Alive",
+      "stat_state": false
     },
     {
-      "Objective Time": false
+      "stat_name": "Objective Time",
+      "stat_state": false
     },
     {
-      "Final Blows": true
+      "stat_name": "Final Blows",
+      "stat_state": true
     },
     {
-      "Hero Damage Done": true
+      "stat_name": "Hero Damage Done",
+      "stat_state": true
     },
     {
-      "Defensive Assists": true
+      "stat_name": "Defensive Assists",
+      "stat_state": true
     },
     {
-      "Ultimates Earned - Fractional": true
+      "stat_name": "Ultimates Earned - Fractional",
+      "stat_state": true
     },
     {
-      "Players Knocked Back": true
+      "stat_name": "Players Knocked Back",
+      "stat_state": true
     },
     {
-      "Eliminations": true
+      "stat_name": "Eliminations",
+      "stat_state": true
     },
     {
-      "Healing Received": true
+      "stat_name": "Healing Received",
+      "stat_state": true
     },
     {
-      "Time Holding Ultimate": false
+      "stat_name": "Time Holding Ultimate",
+      "stat_state": false
     },
     {
-      "Multikills": true
+      "stat_name": "Multikills",
+      "stat_state": true
     },
     {
-      "Turrets Destroyed": true
+      "stat_name": "Turrets Destroyed",
+      "stat_state": true
     },
     {
-      "Solo Kills": true
+      "stat_name": "Solo Kills",
+      "stat_state": true
     },
     {
-      "Critical Hit Kills": true
+      "stat_name": "Critical Hit Kills",
+      "stat_state": true
     },
     {
-      "Environmental Deaths": true
+      "stat_name": "Environmental Deaths",
+      "stat_state": true
     },
     {
-      "Time Discorded": false
+      "stat_name": "Time Discorded",
+      "stat_state": false
     },
     {
-      "Time Hacked": false
+      "stat_name": "Time Hacked",
+      "stat_state": false
     },
     {
-      "Teleporter Pads Destroyed": true
+      "stat_name": "Teleporter Pads Destroyed",
+      "stat_state": true
     }
   ],
   "Moira": [
     {
-      "Self Healing Percent of Damage Taken": true
+      "stat_name": "Self Healing Percent of Damage Taken",
+      "stat_state": true
     },
     {
-      "Hero Damage Done": true
+      "stat_name": "Hero Damage Done",
+      "stat_state": true
     },
     {
-      "Secondary Fire Ticks": true
+      "stat_name": "Secondary Fire Ticks",
+      "stat_state": true
     },
     {
-      "Healing - Coalescence": true
+      "stat_name": "Healing - Coalescence",
+      "stat_state": true
     },
     {
-      "Objective Time": false
+      "stat_name": "Objective Time",
+      "stat_state": false
     },
     {
-      "Coalescence Healing": true
+      "stat_name": "Coalescence Healing",
+      "stat_state": true
     },
     {
-      "Coalescence Kills": true
+      "stat_name": "Coalescence Kills",
+      "stat_state": true
     },
     {
-      "Healing Received": true
+      "stat_name": "Healing Received",
+      "stat_state": true
     },
     {
-      "Biotic Orb Healing Efficiency": false
+      "stat_name": "Biotic Orb Healing Efficiency",
+      "stat_state": false
     },
     {
-      "Coalesence - Healing per Use": true
+      "stat_name": "Coalesence - Healing per Use",
+      "stat_state": true
     },
     {
-      "Defensive Assists": true
+      "stat_name": "Defensive Assists",
+      "stat_state": true
     },
     {
-      "Secondary Fire Hits": true
+      "stat_name": "Secondary Fire Hits",
+      "stat_state": true
     },
     {
-      "Biotic Orb Maximum Healing": true
+      "stat_name": "Biotic Orb Maximum Healing",
+      "stat_state": true
     },
     {
-      "Assists": true
+      "stat_name": "Assists",
+      "stat_state": true
     },
     {
-      "Time Played": false
+      "stat_name": "Time Played",
+      "stat_state": false
     },
     {
-      "Damage Taken": true
+      "stat_name": "Damage Taken",
+      "stat_state": true
     },
     {
-      "Time Holding Ultimate": false
+      "stat_name": "Time Holding Ultimate",
+      "stat_state": false
     },
     {
-      "Ultimates Earned - Fractional": true
+      "stat_name": "Ultimates Earned - Fractional",
+      "stat_state": true
     },
     {
-      "Healing Done": true
+      "stat_name": "Healing Done",
+      "stat_state": true
     },
     {
-      "Biotic Orb Damage Efficiency": false
+      "stat_name": "Biotic Orb Damage Efficiency",
+      "stat_state": false
     },
     {
-      "Time Alive": false
+      "stat_name": "Time Alive",
+      "stat_state": false
     },
     {
-      "Healing - Secondary Fire": true
+      "stat_name": "Healing - Secondary Fire",
+      "stat_state": true
     },
     {
-      "Quick Melee Ticks": true
+      "stat_name": "Quick Melee Ticks",
+      "stat_state": true
     },
     {
-      "Secondary Fire Accuracy": false
+      "stat_name": "Secondary Fire Accuracy",
+      "stat_state": false
     },
     {
-      "Damage - Biotic Orb": true
+      "stat_name": "Damage - Biotic Orb",
+      "stat_state": true
     },
     {
-      "Coalesence - Damage per Use": true
+      "stat_name": "Coalesence - Damage per Use",
+      "stat_state": true
     },
     {
-      "Environmental Deaths": true
+      "stat_name": "Environmental Deaths",
+      "stat_state": true
     },
     {
-      "Biotic Orb Maximum Damage": true
+      "stat_name": "Biotic Orb Maximum Damage",
+      "stat_state": true
     },
     {
-      "Healing - Biotic Orb": true
+      "stat_name": "Healing - Biotic Orb",
+      "stat_state": true
     },
     {
-      "Barrier Damage Done": true
+      "stat_name": "Barrier Damage Done",
+      "stat_state": true
     },
     {
-      "Damage - Weapon": true
+      "stat_name": "Damage - Weapon",
+      "stat_state": true
     },
     {
-      "Average Time Alive": false
+      "stat_name": "Average Time Alive",
+      "stat_state": false
     },
     {
-      "Eliminations per Life": true
+      "stat_name": "Eliminations per Life",
+      "stat_state": true
     },
     {
-      "Objective Kills": true
+      "stat_name": "Objective Kills",
+      "stat_state": true
     },
     {
-      "Damage - Coalescence": true
+      "stat_name": "Damage - Coalescence",
+      "stat_state": true
     },
     {
-      "Final Blows": true
+      "stat_name": "Final Blows",
+      "stat_state": true
     },
     {
-      "Time Elapsed per Ultimate Earned": false
+      "stat_name": "Time Elapsed per Ultimate Earned",
+      "stat_state": false
     },
     {
-      "Self Healing": true
+      "stat_name": "Self Healing",
+      "stat_state": true
     },
     {
-      "Time Building Ultimate": false
+      "stat_name": "Time Building Ultimate",
+      "stat_state": false
     },
     {
-      "Deaths": true
+      "stat_name": "Deaths",
+      "stat_state": true
     },
     {
-      "Ultimates Used": true
+      "stat_name": "Ultimates Used",
+      "stat_state": true
     },
     {
-      "Eliminations": true
+      "stat_name": "Eliminations",
+      "stat_state": true
     },
     {
-      "All Damage Done": true
+      "stat_name": "All Damage Done",
+      "stat_state": true
     },
     {
-      "Time Hacked": false
+      "stat_name": "Time Hacked",
+      "stat_state": false
     },
     {
-      "Time Discorded": false
+      "stat_name": "Time Discorded",
+      "stat_state": false
     },
     {
-      "Multikills": true
+      "stat_name": "Multikills",
+      "stat_state": true
     },
     {
-      "Quick Melee Hits": true
+      "stat_name": "Quick Melee Hits",
+      "stat_state": true
     },
     {
-      "Quick Melee Accuracy": false
+      "stat_name": "Quick Melee Accuracy",
+      "stat_state": false
     },
     {
-      "Damage - Quick Melee": true
+      "stat_name": "Damage - Quick Melee",
+      "stat_state": true
     },
     {
-      "Melee Final Blows": true
+      "stat_name": "Melee Final Blows",
+      "stat_state": true
     },
     {
-      "Solo Kills": true
+      "stat_name": "Solo Kills",
+      "stat_state": true
     },
     {
-      "Turrets Destroyed": true
+      "stat_name": "Turrets Destroyed",
+      "stat_state": true
     }
   ],
   "Mei": [
     {
-      "Healing Received": true
+      "stat_name": "Healing Received",
+      "stat_state": true
     },
     {
-      "Ultimates Earned - Fractional": true
+      "stat_name": "Ultimates Earned - Fractional",
+      "stat_state": true
     },
     {
-      "Final Blows": true
+      "stat_name": "Final Blows",
+      "stat_state": true
     },
     {
-      "Shots Missed": true
+      "stat_name": "Shots Missed",
+      "stat_state": true
     },
     {
-      "Enemies Frozen": true
+      "stat_name": "Enemies Frozen",
+      "stat_state": true
     },
     {
-      "Self Healing": true
+      "stat_name": "Self Healing",
+      "stat_state": true
     },
     {
-      "Blizzard Efficiency": false
+      "stat_name": "Blizzard Efficiency",
+      "stat_state": false
     },
     {
-      "Time Alive": false
+      "stat_name": "Time Alive",
+      "stat_state": false
     },
     {
-      "Total Time Frozen": false
+      "stat_name": "Total Time Frozen",
+      "stat_state": false
     },
     {
-      "Damage - Weapon Primary": true
+      "stat_name": "Damage - Weapon Primary",
+      "stat_state": true
     },
     {
-      "Assists": true
+      "stat_name": "Assists",
+      "stat_state": true
     },
     {
-      "Eliminations": true
+      "stat_name": "Eliminations",
+      "stat_state": true
     },
     {
-      "Icicle Damage": true
+      "stat_name": "Icicle Damage",
+      "stat_state": true
     },
     {
-      "Self Healing Percent of Damage Taken": true
+      "stat_name": "Self Healing Percent of Damage Taken",
+      "stat_state": true
     },
     {
-      "Shots Hit": true
+      "stat_name": "Shots Hit",
+      "stat_state": true
     },
     {
-      "Freeze Spray Damage": true
+      "stat_name": "Freeze Spray Damage",
+      "stat_state": true
     },
     {
-      "Barrier Damage Done": true
+      "stat_name": "Barrier Damage Done",
+      "stat_state": true
     },
     {
-      "Multikills": true
+      "stat_name": "Multikills",
+      "stat_state": true
     },
     {
-      "Shots Fired": true
+      "stat_name": "Shots Fired",
+      "stat_state": true
     },
     {
-      "Weapon Accuracy": false
+      "stat_name": "Weapon Accuracy",
+      "stat_state": false
     },
     {
-      "Deaths": true
+      "stat_name": "Deaths",
+      "stat_state": true
     },
     {
-      "Time Elapsed per Ultimate Earned": false
+      "stat_name": "Time Elapsed per Ultimate Earned",
+      "stat_state": false
     },
     {
-      "Hero Damage Done": true
+      "stat_name": "Hero Damage Done",
+      "stat_state": true
     },
     {
-      "Time Holding Ultimate": false
+      "stat_name": "Time Holding Ultimate",
+      "stat_state": false
     },
     {
-      "Blizzard Kills": true
+      "stat_name": "Blizzard Kills",
+      "stat_state": true
     },
     {
-      "Objective Kills": true
+      "stat_name": "Objective Kills",
+      "stat_state": true
     },
     {
-      "Successful Freezes": true
+      "stat_name": "Successful Freezes",
+      "stat_state": true
     },
     {
-      "Offensive Assists": true
+      "stat_name": "Offensive Assists",
+      "stat_state": true
     },
     {
-      "Damage Blocked": true
+      "stat_name": "Damage Blocked",
+      "stat_state": true
     },
     {
-      "Eliminations per Life": true
+      "stat_name": "Eliminations per Life",
+      "stat_state": true
     },
     {
-      "Damage Taken": true
+      "stat_name": "Damage Taken",
+      "stat_state": true
     },
     {
-      "Time Building Ultimate": false
+      "stat_name": "Time Building Ultimate",
+      "stat_state": false
     },
     {
-      "All Damage Done": true
+      "stat_name": "All Damage Done",
+      "stat_state": true
     },
     {
-      "Time Played": false
+      "stat_name": "Time Played",
+      "stat_state": false
     },
     {
-      "Quick Melee Ticks": true
+      "stat_name": "Quick Melee Ticks",
+      "stat_state": true
     },
     {
-      "Ultimates Used": true
+      "stat_name": "Ultimates Used",
+      "stat_state": true
     },
     {
-      "Critical Hit Accuracy": false
+      "stat_name": "Critical Hit Accuracy",
+      "stat_state": false
     },
     {
-      "Damage - Weapon Secondary": true
+      "stat_name": "Damage - Weapon Secondary",
+      "stat_state": true
     },
     {
-      "Damage - Blizzard": true
+      "stat_name": "Damage - Blizzard",
+      "stat_state": true
     },
     {
-      "Critical Hits": true
+      "stat_name": "Critical Hits",
+      "stat_state": true
     },
     {
-      "Objective Time": false
+      "stat_name": "Objective Time",
+      "stat_state": false
     },
     {
-      "Average Time Alive": false
+      "stat_name": "Average Time Alive",
+      "stat_state": false
     },
     {
-      "Critical Hit Kills": true
+      "stat_name": "Critical Hit Kills",
+      "stat_state": true
     },
     {
-      "Turrets Destroyed": true
+      "stat_name": "Turrets Destroyed",
+      "stat_state": true
     },
     {
-      "Environmental Deaths": true
+      "stat_name": "Environmental Deaths",
+      "stat_state": true
     },
     {
-      "Quick Melee Hits": true
+      "stat_name": "Quick Melee Hits",
+      "stat_state": true
     },
     {
-      "Damage - Quick Melee": true
+      "stat_name": "Damage - Quick Melee",
+      "stat_state": true
     },
     {
-      "Quick Melee Accuracy": false
+      "stat_name": "Quick Melee Accuracy",
+      "stat_state": false
     },
     {
-      "Time Hacked": false
+      "stat_name": "Time Hacked",
+      "stat_state": false
     },
     {
-      "Time Discorded": false
+      "stat_name": "Time Discorded",
+      "stat_state": false
     },
     {
-      "Teleporter Pads Destroyed": true
+      "stat_name": "Teleporter Pads Destroyed",
+      "stat_state": true
     },
     {
-      "Melee Final Blows": true
+      "stat_name": "Melee Final Blows",
+      "stat_state": true
     },
     {
-      "Solo Kills": true
+      "stat_name": "Solo Kills",
+      "stat_state": true
     },
     {
-      "Environmental Kills": true
+      "stat_name": "Environmental Kills",
+      "stat_state": true
     }
   ],
   "Orisa": [
     {
-      "Quick Melee Accuracy": false
+      "stat_name": "Quick Melee Accuracy",
+      "stat_state": false
     },
     {
-      "Shots Hit": true
+      "stat_name": "Shots Hit",
+      "stat_state": true
     },
     {
-      "Shots Fired": true
+      "stat_name": "Shots Fired",
+      "stat_state": true
     },
     {
-      "Quick Melee Hits": true
+      "stat_name": "Quick Melee Hits",
+      "stat_state": true
     },
     {
-      "Healing Received": true
+      "stat_name": "Healing Received",
+      "stat_state": true
     },
     {
-      "Deaths": true
+      "stat_name": "Deaths",
+      "stat_state": true
     },
     {
-      "Weapon Accuracy": false
+      "stat_name": "Weapon Accuracy",
+      "stat_state": false
     },
     {
-      "Time Elapsed per Ultimate Earned": false
+      "stat_name": "Time Elapsed per Ultimate Earned",
+      "stat_state": false
     },
     {
-      "Quick Melee Ticks": true
+      "stat_name": "Quick Melee Ticks",
+      "stat_state": true
     },
     {
-      "Objective Kills": true
+      "stat_name": "Objective Kills",
+      "stat_state": true
     },
     {
-      "Damage - Quick Melee": true
+      "stat_name": "Damage - Quick Melee",
+      "stat_state": true
     },
     {
-      "Multikills": true
+      "stat_name": "Multikills",
+      "stat_state": true
     },
     {
-      "Time Played": false
+      "stat_name": "Time Played",
+      "stat_state": false
     },
     {
-      "Hero Damage Done": true
+      "stat_name": "Hero Damage Done",
+      "stat_state": true
     },
     {
-      "All Damage Done": true
+      "stat_name": "All Damage Done",
+      "stat_state": true
     },
     {
-      "Supercharger Assists": true
+      "stat_name": "Supercharger Assists",
+      "stat_state": true
     },
     {
-      "Damage Amplified": true
+      "stat_name": "Damage Amplified",
+      "stat_state": true
     },
     {
-      "Eliminations": true
+      "stat_name": "Eliminations",
+      "stat_state": true
     },
     {
-      "Final Blows": true
+      "stat_name": "Final Blows",
+      "stat_state": true
     },
     {
-      "Ultimates Earned - Fractional": true
+      "stat_name": "Ultimates Earned - Fractional",
+      "stat_state": true
     },
     {
-      "Time Building Ultimate": false
+      "stat_name": "Time Building Ultimate",
+      "stat_state": false
     },
     {
-      "Players Halted": true
+      "stat_name": "Players Halted",
+      "stat_state": true
     },
     {
-      "Assists": true
+      "stat_name": "Assists",
+      "stat_state": true
     },
     {
-      "Shots Missed": true
+      "stat_name": "Shots Missed",
+      "stat_state": true
     },
     {
-      "Objective Time": false
+      "stat_name": "Objective Time",
+      "stat_state": false
     },
     {
-      "Average Time Alive": false
+      "stat_name": "Average Time Alive",
+      "stat_state": false
     },
     {
-      "Ultimates Used": true
+      "stat_name": "Ultimates Used",
+      "stat_state": true
     },
     {
-      "Time Alive": false
+      "stat_name": "Time Alive",
+      "stat_state": false
     },
     {
-      "Damage Taken": true
+      "stat_name": "Damage Taken",
+      "stat_state": true
     },
     {
-      "Barrier Damage Done": true
+      "stat_name": "Barrier Damage Done",
+      "stat_state": true
     },
     {
-      "Damage Blocked": true
+      "stat_name": "Damage Blocked",
+      "stat_state": true
     },
     {
-      "Offensive Assists": true
+      "stat_name": "Offensive Assists",
+      "stat_state": true
     },
     {
-      "Eliminations per Life": true
+      "stat_name": "Eliminations per Life",
+      "stat_state": true
     },
     {
-      "Environmental Kills": true
+      "stat_name": "Environmental Kills",
+      "stat_state": true
     },
     {
-      "Damage - Weapon": true
+      "stat_name": "Damage - Weapon",
+      "stat_state": true
     },
     {
-      "Time Holding Ultimate": false
+      "stat_name": "Time Holding Ultimate",
+      "stat_state": false
     },
     {
-      "Supercharger Efficiency": false
+      "stat_name": "Supercharger Efficiency",
+      "stat_state": false
     },
     {
-      "Melee Final Blows": true
+      "stat_name": "Melee Final Blows",
+      "stat_state": true
     },
     {
-      "Time Discorded": false
+      "stat_name": "Time Discorded",
+      "stat_state": false
     },
     {
-      "Turrets Destroyed": true
+      "stat_name": "Turrets Destroyed",
+      "stat_state": true
     },
     {
-      "Critical Hit Kills": true
+      "stat_name": "Critical Hit Kills",
+      "stat_state": true
     },
     {
-      "Time Hacked": false
+      "stat_name": "Time Hacked",
+      "stat_state": false
     },
     {
-      "Solo Kills": true
+      "stat_name": "Solo Kills",
+      "stat_state": true
     },
     {
-      "Environmental Deaths": true
+      "stat_name": "Environmental Deaths",
+      "stat_state": true
     }
   ],
   "McCree": [
     {
-      "Ultimates Earned - Fractional": true
+      "stat_name": "Ultimates Earned - Fractional",
+      "stat_state": true
     },
     {
-      "Healing Received": true
+      "stat_name": "Healing Received",
+      "stat_state": true
     },
     {
-      "Objective Kills": true
+      "stat_name": "Objective Kills",
+      "stat_state": true
     },
     {
-      "Solo Kills": true
+      "stat_name": "Solo Kills",
+      "stat_state": true
     },
     {
-      "Damage - Weapon Primary": true
+      "stat_name": "Damage - Weapon Primary",
+      "stat_state": true
     },
     {
-      "Hero Damage Done": true
+      "stat_name": "Hero Damage Done",
+      "stat_state": true
     },
     {
-      "Average Time Alive": false
+      "stat_name": "Average Time Alive",
+      "stat_state": false
     },
     {
-      "Time Played": false
+      "stat_name": "Time Played",
+      "stat_state": false
     },
     {
-      "Time Elapsed per Ultimate Earned": false
+      "stat_name": "Time Elapsed per Ultimate Earned",
+      "stat_state": false
     },
     {
-      "Final Blows": true
+      "stat_name": "Final Blows",
+      "stat_state": true
     },
     {
-      "Deadeye Kills": true
+      "stat_name": "Deadeye Kills",
+      "stat_state": true
     },
     {
-      "Assists": true
+      "stat_name": "Assists",
+      "stat_state": true
     },
     {
-      "Quick Melee Ticks": true
+      "stat_name": "Quick Melee Ticks",
+      "stat_state": true
     },
     {
-      "Shots Missed": true
+      "stat_name": "Shots Missed",
+      "stat_state": true
     },
     {
-      "Damage Taken": true
+      "stat_name": "Damage Taken",
+      "stat_state": true
     },
     {
-      "Time Building Ultimate": false
+      "stat_name": "Time Building Ultimate",
+      "stat_state": false
     },
     {
-      "Critical Hits": true
+      "stat_name": "Critical Hits",
+      "stat_state": true
     },
     {
-      "Time Alive": false
+      "stat_name": "Time Alive",
+      "stat_state": false
     },
     {
-      "All Damage Done": true
+      "stat_name": "All Damage Done",
+      "stat_state": true
     },
     {
-      "Deadeye Efficiency": false
+      "stat_name": "Deadeye Efficiency",
+      "stat_state": false
     },
     {
-      "Damage - Weapon Secondary": true
+      "stat_name": "Damage - Weapon Secondary",
+      "stat_state": true
     },
     {
-      "Barrier Damage Done": true
+      "stat_name": "Barrier Damage Done",
+      "stat_state": true
     },
     {
-      "Shots Fired": true
+      "stat_name": "Shots Fired",
+      "stat_state": true
     },
     {
-      "Objective Time": false
+      "stat_name": "Objective Time",
+      "stat_state": false
     },
     {
-      "Weapon Accuracy": false
+      "stat_name": "Weapon Accuracy",
+      "stat_state": false
     },
     {
-      "Critical Hit Kills": true
+      "stat_name": "Critical Hit Kills",
+      "stat_state": true
     },
     {
-      "Ultimates Used": true
+      "stat_name": "Ultimates Used",
+      "stat_state": true
     },
     {
-      "Eliminations": true
+      "stat_name": "Eliminations",
+      "stat_state": true
     },
     {
-      "Critical Hit Accuracy": false
+      "stat_name": "Critical Hit Accuracy",
+      "stat_state": false
     },
     {
-      "Damage - Flashbang": true
+      "stat_name": "Damage - Flashbang",
+      "stat_state": true
     },
     {
-      "Shots Hit": true
+      "stat_name": "Shots Hit",
+      "stat_state": true
     },
     {
-      "Time Holding Ultimate": false
+      "stat_name": "Time Holding Ultimate",
+      "stat_state": false
     },
     {
-      "Damage - Deadeye": true
+      "stat_name": "Damage - Deadeye",
+      "stat_state": true
     },
     {
-      "Fan the Hammer Kills": true
+      "stat_name": "Fan the Hammer Kills",
+      "stat_state": true
     },
     {
-      "Deaths": true
+      "stat_name": "Deaths",
+      "stat_state": true
     },
     {
-      "Eliminations per Life": true
+      "stat_name": "Eliminations per Life",
+      "stat_state": true
     },
     {
-      "Turrets Destroyed": true
+      "stat_name": "Turrets Destroyed",
+      "stat_state": true
     },
     {
-      "Quick Melee Hits": true
+      "stat_name": "Quick Melee Hits",
+      "stat_state": true
     },
     {
-      "Time Discorded": false
+      "stat_name": "Time Discorded",
+      "stat_state": false
     },
     {
-      "Damage - Quick Melee": true
+      "stat_name": "Damage - Quick Melee",
+      "stat_state": true
     },
     {
-      "Quick Melee Accuracy": false
+      "stat_name": "Quick Melee Accuracy",
+      "stat_state": false
     },
     {
-      "Teleporter Pads Destroyed": true
+      "stat_name": "Teleporter Pads Destroyed",
+      "stat_state": true
     },
     {
-      "Multikills": true
+      "stat_name": "Multikills",
+      "stat_state": true
     },
     {
-      "Melee Final Blows": true
+      "stat_name": "Melee Final Blows",
+      "stat_state": true
     },
     {
-      "Time Hacked": false
+      "stat_name": "Time Hacked",
+      "stat_state": false
     },
     {
-      "Environmental Deaths": true
+      "stat_name": "Environmental Deaths",
+      "stat_state": true
     },
     {
-      "Environmental Kills": true
+      "stat_name": "Environmental Kills",
+      "stat_state": true
     }
   ],
   "Symmetra": [
     {
-      "Eliminations": true
+      "stat_name": "Eliminations",
+      "stat_state": true
     },
     {
-      "Damage - Weapon Primary": true
+      "stat_name": "Damage - Weapon Primary",
+      "stat_state": true
     },
     {
-      "Damage - Sentry Turret": true
+      "stat_name": "Damage - Sentry Turret",
+      "stat_state": true
     },
     {
-      "Healing Received": true
+      "stat_name": "Healing Received",
+      "stat_state": true
     },
     {
-      "Time Elapsed per Ultimate Earned": false
+      "stat_name": "Time Elapsed per Ultimate Earned",
+      "stat_state": false
     },
     {
-      "Weapon Accuracy": false
+      "stat_name": "Weapon Accuracy",
+      "stat_state": false
     },
     {
-      "Time Played": false
+      "stat_name": "Time Played",
+      "stat_state": false
     },
     {
-      "Teleporter Uptime": true
+      "stat_name": "Teleporter Uptime",
+      "stat_state": true
     },
     {
-      "Secondary Fire Accuracy": false
+      "stat_name": "Secondary Fire Accuracy",
+      "stat_state": false
     },
     {
-      "Assists": true
+      "stat_name": "Assists",
+      "stat_state": true
     },
     {
-      "Time Holding Ultimate": false
+      "stat_name": "Time Holding Ultimate",
+      "stat_state": false
     },
     {
-      "Average Players per Teleporter": false
+      "stat_name": "Average Players per Teleporter",
+      "stat_state": false
     },
     {
-      "Damage Taken": true
+      "stat_name": "Damage Taken",
+      "stat_state": true
     },
     {
-      "Primary Fire Accuracy": false
+      "stat_name": "Primary Fire Accuracy",
+      "stat_state": false
     },
     {
-      "Teleporters Placed": true
+      "stat_name": "Teleporters Placed",
+      "stat_state": true
     },
     {
-      "Hero Damage Done": true
+      "stat_name": "Hero Damage Done",
+      "stat_state": true
     },
     {
-      "Ultimates Earned - Fractional": true
+      "stat_name": "Ultimates Earned - Fractional",
+      "stat_state": true
     },
     {
-      "Shots Fired": true
+      "stat_name": "Shots Fired",
+      "stat_state": true
     },
     {
-      "Shots Hit": true
+      "stat_name": "Shots Hit",
+      "stat_state": true
     },
     {
-      "Barrier Damage Done": true
+      "stat_name": "Barrier Damage Done",
+      "stat_state": true
     },
     {
-      "Multikills": true
+      "stat_name": "Multikills",
+      "stat_state": true
     },
     {
-      "Objective Kills": true
+      "stat_name": "Objective Kills",
+      "stat_state": true
     },
     {
-      "Final Blows": true
+      "stat_name": "Final Blows",
+      "stat_state": true
     },
     {
-      "Shots Missed": true
+      "stat_name": "Shots Missed",
+      "stat_state": true
     },
     {
-      "Photon Projector Kills": true
+      "stat_name": "Photon Projector Kills",
+      "stat_state": true
     },
     {
-      "Primary Fire Hits Hits - Level": true
+      "stat_name": "Primary Fire Hits Hits - Level",
+      "stat_state": true
     },
     {
-      "Damage - Weapon Secondary": true
+      "stat_name": "Damage - Weapon Secondary",
+      "stat_state": true
     },
     {
-      "Time Alive": false
+      "stat_name": "Time Alive",
+      "stat_state": false
     },
     {
-      "Secondary Direct Hits": true
+      "stat_name": "Secondary Direct Hits",
+      "stat_state": true
     },
     {
-      "Time Building Ultimate": false
+      "stat_name": "Time Building Ultimate",
+      "stat_state": false
     },
     {
-      "All Damage Done": true
+      "stat_name": "All Damage Done",
+      "stat_state": true
     },
     {
-      "Ultimates Used": true
+      "stat_name": "Ultimates Used",
+      "stat_state": true
     },
     {
-      "Primary Fire Average Level": false
+      "stat_name": "Primary Fire Average Level",
+      "stat_state": false
     },
     {
-      "Average Time Alive": false
+      "stat_name": "Average Time Alive",
+      "stat_state": false
     },
     {
-      "Damage Blocked": true
+      "stat_name": "Damage Blocked",
+      "stat_state": true
     },
     {
-      "Primary Fire Ticks": true
+      "stat_name": "Primary Fire Ticks",
+      "stat_state": true
     },
     {
-      "Primary Fire Hits": true
+      "stat_name": "Primary Fire Hits",
+      "stat_state": true
     },
     {
-      "Deaths": true
+      "stat_name": "Deaths",
+      "stat_state": true
     },
     {
-      "Eliminations per Life": true
+      "stat_name": "Eliminations per Life",
+      "stat_state": true
     },
     {
-      "Objective Time": false
+      "stat_name": "Objective Time",
+      "stat_state": false
     },
     {
-      "Quick Melee Ticks": true
+      "stat_name": "Quick Melee Ticks",
+      "stat_state": true
     },
     {
-      "Players Teleported": true
+      "stat_name": "Players Teleported",
+      "stat_state": true
     },
     {
-      "Sentry Turret Kills": true
+      "stat_name": "Sentry Turret Kills",
+      "stat_state": true
     },
     {
-      "Time Discorded": false
+      "stat_name": "Time Discorded",
+      "stat_state": false
     },
     {
-      "Quick Melee Accuracy": false
+      "stat_name": "Quick Melee Accuracy",
+      "stat_state": false
     },
     {
-      "Quick Melee Hits": true
+      "stat_name": "Quick Melee Hits",
+      "stat_state": true
     },
     {
-      "Environmental Deaths": true
+      "stat_name": "Environmental Deaths",
+      "stat_state": true
     },
     {
-      "Turrets Destroyed": true
+      "stat_name": "Turrets Destroyed",
+      "stat_state": true
     },
     {
-      "Teleporter Pads Destroyed": true
+      "stat_name": "Teleporter Pads Destroyed",
+      "stat_state": true
     },
     {
-      "Damage - Quick Melee": true
+      "stat_name": "Damage - Quick Melee",
+      "stat_state": true
     },
     {
-      "Melee Final Blows": true
+      "stat_name": "Melee Final Blows",
+      "stat_state": true
     },
     {
-      "Solo Kills": true
+      "stat_name": "Solo Kills",
+      "stat_state": true
     },
     {
-      "Time Hacked": false
+      "stat_name": "Time Hacked",
+      "stat_state": false
     }
   ],
   "Ana": [
     {
-      "Scoped Hits": true
+      "stat_name": "Scoped Hits",
+      "stat_state": true
     },
     {
-      "All Damage Done": true
+      "stat_name": "All Damage Done",
+      "stat_state": true
     },
     {
-      "Sleep Dart Shots": true
+      "stat_name": "Sleep Dart Shots",
+      "stat_state": true
     },
     {
-      "Unscoped Accuracy": false
+      "stat_name": "Unscoped Accuracy",
+      "stat_state": false
     },
     {
-      "Healing Amplified": true
+      "stat_name": "Healing Amplified",
+      "stat_state": true
     },
     {
-      "Unscoped Shots": true
+      "stat_name": "Unscoped Shots",
+      "stat_state": true
     },
     {
-      "Sleep Dart Success Rate": true
+      "stat_name": "Sleep Dart Success Rate",
+      "stat_state": true
     },
     {
-      "Weapon Accuracy": false
+      "stat_name": "Weapon Accuracy",
+      "stat_state": false
     },
     {
-      "Healing Received": true
+      "stat_name": "Healing Received",
+      "stat_state": true
     },
     {
-      "Shots Hit": true
+      "stat_name": "Shots Hit",
+      "stat_state": true
     },
     {
-      "Nano Boost Assists": true
+      "stat_name": "Nano Boost Assists",
+      "stat_state": true
     },
     {
-      "Average Time Alive": false
+      "stat_name": "Average Time Alive",
+      "stat_state": false
     },
     {
-      "Damage Taken": true
+      "stat_name": "Damage Taken",
+      "stat_state": true
     },
     {
-      "Sleep Dart Hits": true
+      "stat_name": "Sleep Dart Hits",
+      "stat_state": true
     },
     {
-      "Ultimates Earned - Fractional": true
+      "stat_name": "Ultimates Earned - Fractional",
+      "stat_state": true
     },
     {
-      "Self Healing": true
+      "stat_name": "Self Healing",
+      "stat_state": true
     },
     {
-      "Ultimates Used": true
+      "stat_name": "Ultimates Used",
+      "stat_state": true
     },
     {
-      "Damage - Biotic Grenade": true
+      "stat_name": "Damage - Biotic Grenade",
+      "stat_state": true
     },
     {
-      "Objective Kills": true
+      "stat_name": "Objective Kills",
+      "stat_state": true
     },
     {
-      "Shots Fired": true
+      "stat_name": "Shots Fired",
+      "stat_state": true
     },
     {
-      "Shots Missed": true
+      "stat_name": "Shots Missed",
+      "stat_state": true
     },
     {
-      "Objective Time": false
+      "stat_name": "Objective Time",
+      "stat_state": false
     },
     {
-      "Time Played": false
+      "stat_name": "Time Played",
+      "stat_state": false
     },
     {
-      "Damage - Weapon": true
+      "stat_name": "Damage - Weapon",
+      "stat_state": true
     },
     {
-      "Healing - Weapon Scoped": true
+      "stat_name": "Healing - Weapon Scoped",
+      "stat_state": true
     },
     {
-      "Assists": true
+      "stat_name": "Assists",
+      "stat_state": true
     },
     {
-      "Scoped Accuracy": false
+      "stat_name": "Scoped Accuracy",
+      "stat_state": false
     },
     {
-      "Time Alive": false
+      "stat_name": "Time Alive",
+      "stat_state": false
     },
     {
-      "Damage - Weapon Scoped": true
+      "stat_name": "Damage - Weapon Scoped",
+      "stat_state": true
     },
     {
-      "Hero Damage Done": true
+      "stat_name": "Hero Damage Done",
+      "stat_state": true
     },
     {
-      "Enemies Slept": true
+      "stat_name": "Enemies Slept",
+      "stat_state": true
     },
     {
-      "Eliminations per Life": true
+      "stat_name": "Eliminations per Life",
+      "stat_state": true
     },
     {
-      "Healing - Biotic Grenade": true
+      "stat_name": "Healing - Biotic Grenade",
+      "stat_state": true
     },
     {
-      "Offensive Assists": true
+      "stat_name": "Offensive Assists",
+      "stat_state": true
     },
     {
-      "Healing - Weapon": true
+      "stat_name": "Healing - Weapon",
+      "stat_state": true
     },
     {
-      "Unscoped Hits": true
+      "stat_name": "Unscoped Hits",
+      "stat_state": true
     },
     {
-      "Biotic Grenade Kills": true
+      "stat_name": "Biotic Grenade Kills",
+      "stat_state": true
     },
     {
-      "Time Building Ultimate": false
+      "stat_name": "Time Building Ultimate",
+      "stat_state": false
     },
     {
-      "Deaths": true
+      "stat_name": "Deaths",
+      "stat_state": true
     },
     {
-      "Healing Done": true
+      "stat_name": "Healing Done",
+      "stat_state": true
     },
     {
-      "Environmental Deaths": true
+      "stat_name": "Environmental Deaths",
+      "stat_state": true
     },
     {
-      "Barrier Damage Done": true
+      "stat_name": "Barrier Damage Done",
+      "stat_state": true
     },
     {
-      "Eliminations": true
+      "stat_name": "Eliminations",
+      "stat_state": true
     },
     {
-      "Nano Boost Efficiency": false
+      "stat_name": "Nano Boost Efficiency",
+      "stat_state": false
     },
     {
-      "Defensive Assists": true
+      "stat_name": "Defensive Assists",
+      "stat_state": true
     },
     {
-      "Nano Boosts Applied": true
+      "stat_name": "Nano Boosts Applied",
+      "stat_state": true
     },
     {
-      "Time Holding Ultimate": false
+      "stat_name": "Time Holding Ultimate",
+      "stat_state": false
     },
     {
-      "Time Elapsed per Ultimate Earned": false
+      "stat_name": "Time Elapsed per Ultimate Earned",
+      "stat_state": false
     },
     {
-      "Quick Melee Ticks": true
+      "stat_name": "Quick Melee Ticks",
+      "stat_state": true
     },
     {
-      "Self Healing Percent of Damage Taken": true
+      "stat_name": "Self Healing Percent of Damage Taken",
+      "stat_state": true
     },
     {
-      "Scoped Shots": true
+      "stat_name": "Scoped Shots",
+      "stat_state": true
     },
     {
-      "Final Blows": true
+      "stat_name": "Final Blows",
+      "stat_state": true
     },
     {
-      "Quick Melee Accuracy": false
+      "stat_name": "Quick Melee Accuracy",
+      "stat_state": false
     },
     {
-      "Quick Melee Hits": true
+      "stat_name": "Quick Melee Hits",
+      "stat_state": true
     },
     {
-      "Damage - Quick Melee": true
+      "stat_name": "Damage - Quick Melee",
+      "stat_state": true
     },
     {
-      "Turrets Destroyed": true
+      "stat_name": "Turrets Destroyed",
+      "stat_state": true
     },
     {
-      "Environmental Kills": true
+      "stat_name": "Environmental Kills",
+      "stat_state": true
     },
     {
-      "Solo Kills": true
+      "stat_name": "Solo Kills",
+      "stat_state": true
     },
     {
-      "Melee Final Blows": true
+      "stat_name": "Melee Final Blows",
+      "stat_state": true
     },
     {
-      "Time Discorded": false
+      "stat_name": "Time Discorded",
+      "stat_state": false
     },
     {
-      "Multikills": true
+      "stat_name": "Multikills",
+      "stat_state": true
     },
     {
-      "Time Hacked": false
+      "stat_name": "Time Hacked",
+      "stat_state": false
     }
   ],
   "Doomfist": [
     {
-      "Time Elapsed per Ultimate Earned": false
+      "stat_name": "Time Elapsed per Ultimate Earned",
+      "stat_state": false
     },
     {
-      "Ultimates Earned - Fractional": true
+      "stat_name": "Ultimates Earned - Fractional",
+      "stat_state": true
     },
     {
-      "Average Time Alive": false
+      "stat_name": "Average Time Alive",
+      "stat_state": false
     },
     {
-      "Time Alive": false
+      "stat_name": "Time Alive",
+      "stat_state": false
     },
     {
-      "Time Played": false
+      "stat_name": "Time Played",
+      "stat_state": false
     },
     {
-      "Time Building Ultimate": false
+      "stat_name": "Time Building Ultimate",
+      "stat_state": false
     },
     {
-      "Quick Melee Ticks": true
+      "stat_name": "Quick Melee Ticks",
+      "stat_state": true
     },
     {
-      "Shots Fired": true
+      "stat_name": "Shots Fired",
+      "stat_state": true
     },
     {
-      "Shots Missed": true
+      "stat_name": "Shots Missed",
+      "stat_state": true
     },
     {
-      "Ability Damage Done": true
+      "stat_name": "Ability Damage Done",
+      "stat_state": true
     },
     {
-      "Hero Damage Done": true
+      "stat_name": "Hero Damage Done",
+      "stat_state": true
     },
     {
-      "Deaths": true
+      "stat_name": "Deaths",
+      "stat_state": true
     },
     {
-      "Weapon Accuracy": false
+      "stat_name": "Weapon Accuracy",
+      "stat_state": false
     },
     {
-      "Damage - Rising Uppercut": true
+      "stat_name": "Damage - Rising Uppercut",
+      "stat_state": true
     },
     {
-      "Damage - Weapon": true
+      "stat_name": "Damage - Weapon",
+      "stat_state": true
     },
     {
-      "Shields Created": true
+      "stat_name": "Shields Created",
+      "stat_state": true
     },
     {
-      "Healing Received": true
+      "stat_name": "Healing Received",
+      "stat_state": true
     },
     {
-      "Damage - Seismic Slam": true
+      "stat_name": "Damage - Seismic Slam",
+      "stat_state": true
     },
     {
-      "Shots Hit": true
+      "stat_name": "Shots Hit",
+      "stat_state": true
     },
     {
-      "All Damage Done": true
+      "stat_name": "All Damage Done",
+      "stat_state": true
     },
     {
-      "Damage Taken": true
+      "stat_name": "Damage Taken",
+      "stat_state": true
     },
     {
-      "Objective Time": false
+      "stat_name": "Objective Time",
+      "stat_state": false
     },
     {
-      "Quick Melee Hits": true
+      "stat_name": "Quick Melee Hits",
+      "stat_state": true
     },
     {
-      "Damage - Meteor Strike": true
+      "stat_name": "Damage - Meteor Strike",
+      "stat_state": true
     },
     {
-      "Assists": true
+      "stat_name": "Assists",
+      "stat_state": true
     },
     {
-      "Quick Melee Accuracy": false
+      "stat_name": "Quick Melee Accuracy",
+      "stat_state": false
     },
     {
-      "Objective Kills": true
+      "stat_name": "Objective Kills",
+      "stat_state": true
     },
     {
-      "Time Holding Ultimate": false
+      "stat_name": "Time Holding Ultimate",
+      "stat_state": false
     },
     {
-      "Ultimates Used": true
+      "stat_name": "Ultimates Used",
+      "stat_state": true
     },
     {
-      "Barrier Damage Done": true
+      "stat_name": "Barrier Damage Done",
+      "stat_state": true
     },
     {
-      "Eliminations": true
+      "stat_name": "Eliminations",
+      "stat_state": true
     },
     {
-      "Knockback Kills": true
+      "stat_name": "Knockback Kills",
+      "stat_state": true
     },
     {
-      "Melee Final Blows": true
+      "stat_name": "Melee Final Blows",
+      "stat_state": true
     },
     {
-      "Damage - Quick Melee": true
+      "stat_name": "Damage - Quick Melee",
+      "stat_state": true
     },
     {
-      "Meteor Strike Kills": true
+      "stat_name": "Meteor Strike Kills",
+      "stat_state": true
     },
     {
-      "Critical Hit Kills": true
+      "stat_name": "Critical Hit Kills",
+      "stat_state": true
     },
     {
-      "Eliminations per Life": true
+      "stat_name": "Eliminations per Life",
+      "stat_state": true
     },
     {
-      "Damage - Rocket Punch": true
+      "stat_name": "Damage - Rocket Punch",
+      "stat_state": true
     },
     {
-      "Meteor Strike Efficiency": false
+      "stat_name": "Meteor Strike Efficiency",
+      "stat_state": false
     },
     {
-      "Final Blows": true
+      "stat_name": "Final Blows",
+      "stat_state": true
     },
     {
-      "Environmental Kills": true
+      "stat_name": "Environmental Kills",
+      "stat_state": true
     },
     {
-      "Time Hacked": false
+      "stat_name": "Time Hacked",
+      "stat_state": false
     },
     {
-      "Solo Kills": true
+      "stat_name": "Solo Kills",
+      "stat_state": true
     },
     {
-      "Multikills": true
+      "stat_name": "Multikills",
+      "stat_state": true
     },
     {
-      "Turrets Destroyed": true
+      "stat_name": "Turrets Destroyed",
+      "stat_state": true
     },
     {
-      "Environmental Deaths": true
+      "stat_name": "Environmental Deaths",
+      "stat_state": true
     },
     {
-      "Time Discorded": false
+      "stat_name": "Time Discorded",
+      "stat_state": false
     },
     {
-      "Teleporter Pads Destroyed": true
+      "stat_name": "Teleporter Pads Destroyed",
+      "stat_state": true
     }
   ],
   "Reaper": [
     {
-      "Objective Kills": true
+      "stat_name": "Objective Kills",
+      "stat_state": true
     },
     {
-      "Turrets Destroyed": true
+      "stat_name": "Turrets Destroyed",
+      "stat_state": true
     },
     {
-      "Ultimates Earned - Fractional": true
+      "stat_name": "Ultimates Earned - Fractional",
+      "stat_state": true
     },
     {
-      "Time Holding Ultimate": false
+      "stat_name": "Time Holding Ultimate",
+      "stat_state": false
     },
     {
-      "Death Blossoms": true
+      "stat_name": "Death Blossoms",
+      "stat_state": true
     },
     {
-      "Critical Hits": true
+      "stat_name": "Critical Hits",
+      "stat_state": true
     },
     {
-      "Time Elapsed per Ultimate Earned": false
+      "stat_name": "Time Elapsed per Ultimate Earned",
+      "stat_state": false
     },
     {
-      "Ultimates Used": true
+      "stat_name": "Ultimates Used",
+      "stat_state": true
     },
     {
-      "Assists": true
+      "stat_name": "Assists",
+      "stat_state": true
     },
     {
-      "Objective Time": false
+      "stat_name": "Objective Time",
+      "stat_state": false
     },
     {
-      "Quick Melee Ticks": true
+      "stat_name": "Quick Melee Ticks",
+      "stat_state": true
     },
     {
-      "Barrier Damage Done": true
+      "stat_name": "Barrier Damage Done",
+      "stat_state": true
     },
     {
-      "Shots Missed": true
+      "stat_name": "Shots Missed",
+      "stat_state": true
     },
     {
-      "All Damage Done": true
+      "stat_name": "All Damage Done",
+      "stat_state": true
     },
     {
-      "Average Time Alive": false
+      "stat_name": "Average Time Alive",
+      "stat_state": false
     },
     {
-      "Damage - Death Blossom": true
+      "stat_name": "Damage - Death Blossom",
+      "stat_state": true
     },
     {
-      "Hero Damage Done": true
+      "stat_name": "Hero Damage Done",
+      "stat_state": true
     },
     {
-      "Critical Hit Accuracy": false
+      "stat_name": "Critical Hit Accuracy",
+      "stat_state": false
     },
     {
-      "Time Alive": false
+      "stat_name": "Time Alive",
+      "stat_state": false
     },
     {
-      "Eliminations per Life": true
+      "stat_name": "Eliminations per Life",
+      "stat_state": true
     },
     {
-      "Death Blossom Efficiency": false
+      "stat_name": "Death Blossom Efficiency",
+      "stat_state": false
     },
     {
-      "Time Played": false
+      "stat_name": "Time Played",
+      "stat_state": false
     },
     {
-      "Damage Taken": true
+      "stat_name": "Damage Taken",
+      "stat_state": true
     },
     {
-      "Healing Received": true
+      "stat_name": "Healing Received",
+      "stat_state": true
     },
     {
-      "Deaths": true
+      "stat_name": "Deaths",
+      "stat_state": true
     },
     {
-      "Shots Fired": true
+      "stat_name": "Shots Fired",
+      "stat_state": true
     },
     {
-      "Teleporter Pads Destroyed": true
+      "stat_name": "Teleporter Pads Destroyed",
+      "stat_state": true
     },
     {
-      "Death Blossom Kills": true
+      "stat_name": "Death Blossom Kills",
+      "stat_state": true
     },
     {
-      "Self Healing Percent of Damage Taken": true
+      "stat_name": "Self Healing Percent of Damage Taken",
+      "stat_state": true
     },
     {
-      "Environmental Deaths": true
+      "stat_name": "Environmental Deaths",
+      "stat_state": true
     },
     {
-      "Shots Hit": true
+      "stat_name": "Shots Hit",
+      "stat_state": true
     },
     {
-      "Time Building Ultimate": false
+      "stat_name": "Time Building Ultimate",
+      "stat_state": false
     },
     {
-      "Eliminations": true
+      "stat_name": "Eliminations",
+      "stat_state": true
     },
     {
-      "Damage - Weapon": true
+      "stat_name": "Damage - Weapon",
+      "stat_state": true
     },
     {
-      "Self Healing": true
+      "stat_name": "Self Healing",
+      "stat_state": true
     },
     {
-      "Final Blows": true
+      "stat_name": "Final Blows",
+      "stat_state": true
     },
     {
-      "Weapon Accuracy": false
+      "stat_name": "Weapon Accuracy",
+      "stat_state": false
     },
     {
-      "Critical Hit Kills": true
+      "stat_name": "Critical Hit Kills",
+      "stat_state": true
     },
     {
-      "Damage - Quick Melee": true
+      "stat_name": "Damage - Quick Melee",
+      "stat_state": true
     },
     {
-      "Solo Kills": true
+      "stat_name": "Solo Kills",
+      "stat_state": true
     },
     {
-      "Quick Melee Hits": true
+      "stat_name": "Quick Melee Hits",
+      "stat_state": true
     },
     {
-      "Multikills": true
+      "stat_name": "Multikills",
+      "stat_state": true
     },
     {
-      "Quick Melee Accuracy": false
+      "stat_name": "Quick Melee Accuracy",
+      "stat_state": false
     },
     {
-      "Time Hacked": false
+      "stat_name": "Time Hacked",
+      "stat_state": false
     },
     {
-      "Melee Final Blows": true
+      "stat_name": "Melee Final Blows",
+      "stat_state": true
     },
     {
-      "Time Discorded": false
+      "stat_name": "Time Discorded",
+      "stat_state": false
     }
   ],
   "D.Va": [
     {
-      "Time Alive": false
+      "stat_name": "Time Alive",
+      "stat_state": false
     },
     {
-      "Critical Hits": true
+      "stat_name": "Critical Hits",
+      "stat_state": true
     },
     {
-      "Quick Melee Ticks": true
+      "stat_name": "Quick Melee Ticks",
+      "stat_state": true
     },
     {
-      "Healing Received": true
+      "stat_name": "Healing Received",
+      "stat_state": true
     },
     {
-      "Eliminations": true
+      "stat_name": "Eliminations",
+      "stat_state": true
     },
     {
-      "Time Holding Ultimate": false
+      "stat_name": "Time Holding Ultimate",
+      "stat_state": false
     },
     {
-      "Critical Hit Kills": true
+      "stat_name": "Critical Hit Kills",
+      "stat_state": true
     },
     {
-      "Damage - Quick Melee": true
+      "stat_name": "Damage - Quick Melee",
+      "stat_state": true
     },
     {
-      "Self-Destruct Kills": true
+      "stat_name": "Self-Destruct Kills",
+      "stat_state": true
     },
     {
-      "Time Elapsed per Ultimate Earned": false
+      "stat_name": "Time Elapsed per Ultimate Earned",
+      "stat_state": false
     },
     {
-      "Hero Damage Done": true
+      "stat_name": "Hero Damage Done",
+      "stat_state": true
     },
     {
-      "Damage - Micro Missiles": true
+      "stat_name": "Damage - Micro Missiles",
+      "stat_state": true
     },
     {
-      "Shots Hit": true
+      "stat_name": "Shots Hit",
+      "stat_state": true
     },
     {
-      "Self-Destructs": true
+      "stat_name": "Self-Destructs",
+      "stat_state": true
     },
     {
-      "Mech Deaths": true
+      "stat_name": "Mech Deaths",
+      "stat_state": true
     },
     {
-      "Self Destruct Efficiency": false
+      "stat_name": "Self Destruct Efficiency",
+      "stat_state": false
     },
     {
-      "Barrier Damage Done": true
+      "stat_name": "Barrier Damage Done",
+      "stat_state": true
     },
     {
-      "Critical Hit Accuracy": false
+      "stat_name": "Critical Hit Accuracy",
+      "stat_state": false
     },
     {
-      "Damage Blocked": true
+      "stat_name": "Damage Blocked",
+      "stat_state": true
     },
     {
-      "Damage - Weapon": true
+      "stat_name": "Damage - Weapon",
+      "stat_state": true
     },
     {
-      "Environmental Deaths": true
+      "stat_name": "Environmental Deaths",
+      "stat_state": true
     },
     {
-      "Ultimates Earned - Fractional": true
+      "stat_name": "Ultimates Earned - Fractional",
+      "stat_state": true
     },
     {
-      "Damage - Self Destruct": true
+      "stat_name": "Damage - Self Destruct",
+      "stat_state": true
     },
     {
-      "Quick Melee Hits": true
+      "stat_name": "Quick Melee Hits",
+      "stat_state": true
     },
     {
-      "Shots Missed": true
+      "stat_name": "Shots Missed",
+      "stat_state": true
     },
     {
-      "Knockback Kills": true
+      "stat_name": "Knockback Kills",
+      "stat_state": true
     },
     {
-      "Eliminations per Life": true
+      "stat_name": "Eliminations per Life",
+      "stat_state": true
     },
     {
-      "Final Blows": true
+      "stat_name": "Final Blows",
+      "stat_state": true
     },
     {
-      "Objective Kills": true
+      "stat_name": "Objective Kills",
+      "stat_state": true
     },
     {
-      "Damage Taken": true
+      "stat_name": "Damage Taken",
+      "stat_state": true
     },
     {
-      "Teleporter Pads Destroyed": true
+      "stat_name": "Teleporter Pads Destroyed",
+      "stat_state": true
     },
     {
-      "Average Time Alive": false
+      "stat_name": "Average Time Alive",
+      "stat_state": false
     },
     {
-      "Shots Fired": true
+      "stat_name": "Shots Fired",
+      "stat_state": true
     },
     {
-      "All Damage Done": true
+      "stat_name": "All Damage Done",
+      "stat_state": true
     },
     {
-      "Damage - Boosters": true
+      "stat_name": "Damage - Boosters",
+      "stat_state": true
     },
     {
-      "Deaths": true
+      "stat_name": "Deaths",
+      "stat_state": true
     },
     {
-      "Ultimates Used": true
+      "stat_name": "Ultimates Used",
+      "stat_state": true
     },
     {
-      "Damage - Pistol": true
+      "stat_name": "Damage - Pistol",
+      "stat_state": true
     },
     {
-      "Time Building Ultimate": false
+      "stat_name": "Time Building Ultimate",
+      "stat_state": false
     },
     {
-      "Objective Time": false
+      "stat_name": "Objective Time",
+      "stat_state": false
     },
     {
-      "Quick Melee Accuracy": false
+      "stat_name": "Quick Melee Accuracy",
+      "stat_state": false
     },
     {
-      "Assists": true
+      "stat_name": "Assists",
+      "stat_state": true
     },
     {
-      "Weapon Accuracy": false
+      "stat_name": "Weapon Accuracy",
+      "stat_state": false
     },
     {
-      "Mechs Called": true
+      "stat_name": "Mechs Called",
+      "stat_state": true
     },
     {
-      "Time Played": false
+      "stat_name": "Time Played",
+      "stat_state": false
     },
     {
-      "Turrets Destroyed": true
+      "stat_name": "Turrets Destroyed",
+      "stat_state": true
     },
     {
-      "Melee Final Blows": true
+      "stat_name": "Melee Final Blows",
+      "stat_state": true
     },
     {
-      "Ultimates Negated": true
+      "stat_name": "Ultimates Negated",
+      "stat_state": true
     },
     {
-      "Solo Kills": true
+      "stat_name": "Solo Kills",
+      "stat_state": true
     },
     {
-      "Multikills": true
+      "stat_name": "Multikills",
+      "stat_state": true
     },
     {
-      "Damage - Call Mech": true
+      "stat_name": "Damage - Call Mech",
+      "stat_state": true
     },
     {
-      "Time Hacked": false
+      "stat_name": "Time Hacked",
+      "stat_state": false
     },
     {
-      "Environmental Kills": true
+      "stat_name": "Environmental Kills",
+      "stat_state": true
     },
     {
-      "Time Discorded": false
+      "stat_name": "Time Discorded",
+      "stat_state": false
     }
   ],
   "Baptiste": [
     {
-      "Time Alive": false
+      "stat_name": "Time Alive",
+      "stat_state": false
     },
     {
-      "Damage Prevented": true
+      "stat_name": "Damage Prevented",
+      "stat_state": true
     },
     {
-      "Assists": true
+      "stat_name": "Assists",
+      "stat_state": true
     },
     {
-      "Defensive Assists": true
+      "stat_name": "Defensive Assists",
+      "stat_state": true
     },
     {
-      "Healing Done": true
+      "stat_name": "Healing Done",
+      "stat_state": true
     },
     {
-      "Offensive Assists": true
+      "stat_name": "Offensive Assists",
+      "stat_state": true
     },
     {
-      "Critical Hits": true
+      "stat_name": "Critical Hits",
+      "stat_state": true
     },
     {
-      "Shots Hit": true
+      "stat_name": "Shots Hit",
+      "stat_state": true
     },
     {
-      "Amplification Matrix Casts": true
+      "stat_name": "Amplification Matrix Casts",
+      "stat_state": true
     },
     {
-      "Self Healing Percent of Damage Taken": true
+      "stat_name": "Self Healing Percent of Damage Taken",
+      "stat_state": true
     },
     {
-      "Quick Melee Accuracy": false
+      "stat_name": "Quick Melee Accuracy",
+      "stat_state": false
     },
     {
-      "Time Played": false
+      "stat_name": "Time Played",
+      "stat_state": false
     },
     {
-      "Immortality Field Deaths Prevented": true
+      "stat_name": "Immortality Field Deaths Prevented",
+      "stat_state": true
     },
     {
-      "Damage - Weapon Primary": true
+      "stat_name": "Damage - Weapon Primary",
+      "stat_state": true
     },
     {
-      "Healing Accuracy": false
+      "stat_name": "Healing Accuracy",
+      "stat_state": false
     },
     {
-      "Damage Taken": true
+      "stat_name": "Damage Taken",
+      "stat_state": true
     },
     {
-      "Weapon Accuracy": false
+      "stat_name": "Weapon Accuracy",
+      "stat_state": false
     },
     {
-      "Quick Melee Ticks": true
+      "stat_name": "Quick Melee Ticks",
+      "stat_state": true
     },
     {
-      "Ultimates Earned - Fractional": true
+      "stat_name": "Ultimates Earned - Fractional",
+      "stat_state": true
     },
     {
-      "Deaths": true
+      "stat_name": "Deaths",
+      "stat_state": true
     },
     {
-      "Barrier Damage Done": true
+      "stat_name": "Barrier Damage Done",
+      "stat_state": true
     },
     {
-      "Biotic Launcher Healing Shots": true
+      "stat_name": "Biotic Launcher Healing Shots",
+      "stat_state": true
     },
     {
-      "Healing - Regenerative Burst": true
+      "stat_name": "Healing - Regenerative Burst",
+      "stat_state": true
     },
     {
-      "Quick Melee Hits": true
+      "stat_name": "Quick Melee Hits",
+      "stat_state": true
     },
     {
-      "Average Time Alive": false
+      "stat_name": "Average Time Alive",
+      "stat_state": false
     },
     {
-      "Healing - Immortality Field": true
+      "stat_name": "Healing - Immortality Field",
+      "stat_state": true
     },
     {
-      "Objective Kills": true
+      "stat_name": "Objective Kills",
+      "stat_state": true
     },
     {
-      "Biotic Launcher Healing Explosions": true
+      "stat_name": "Biotic Launcher Healing Explosions",
+      "stat_state": true
     },
     {
-      "Time Holding Ultimate": false
+      "stat_name": "Time Holding Ultimate",
+      "stat_state": false
     },
     {
-      "Healing Received": true
+      "stat_name": "Healing Received",
+      "stat_state": true
     },
     {
-      "Healing - Biotic Launcher": true
+      "stat_name": "Healing - Biotic Launcher",
+      "stat_state": true
     },
     {
-      "Amplification Matrix Efficiency": false
+      "stat_name": "Amplification Matrix Efficiency",
+      "stat_state": false
     },
     {
-      "Amplification Matrix Assists": true
+      "stat_name": "Amplification Matrix Assists",
+      "stat_state": true
     },
     {
-      "Shots Missed": true
+      "stat_name": "Shots Missed",
+      "stat_state": true
     },
     {
-      "Self Healing": true
+      "stat_name": "Self Healing",
+      "stat_state": true
     },
     {
-      "All Damage Done": true
+      "stat_name": "All Damage Done",
+      "stat_state": true
     },
     {
-      "Objective Time": false
+      "stat_name": "Objective Time",
+      "stat_state": false
     },
     {
-      "Final Blows": true
+      "stat_name": "Final Blows",
+      "stat_state": true
     },
     {
-      "Critical Hit Accuracy": false
+      "stat_name": "Critical Hit Accuracy",
+      "stat_state": false
     },
     {
-      "Eliminations": true
+      "stat_name": "Eliminations",
+      "stat_state": true
     },
     {
-      "Time Building Ultimate": false
+      "stat_name": "Time Building Ultimate",
+      "stat_state": false
     },
     {
-      "Healing Amplified": true
+      "stat_name": "Healing Amplified",
+      "stat_state": true
     },
     {
-      "Time Elapsed per Ultimate Earned": false
+      "stat_name": "Time Elapsed per Ultimate Earned",
+      "stat_state": false
     },
     {
-      "Shots Fired": true
+      "stat_name": "Shots Fired",
+      "stat_state": true
     },
     {
-      "Damage Amplified": true
+      "stat_name": "Damage Amplified",
+      "stat_state": true
     },
     {
-      "Ultimates Used": true
+      "stat_name": "Ultimates Used",
+      "stat_state": true
     },
     {
-      "Eliminations per Life": true
+      "stat_name": "Eliminations per Life",
+      "stat_state": true
     },
     {
-      "Damage - Quick Melee": true
+      "stat_name": "Damage - Quick Melee",
+      "stat_state": true
     },
     {
-      "Hero Damage Done": true
+      "stat_name": "Hero Damage Done",
+      "stat_state": true
     },
     {
-      "Turrets Destroyed": true
+      "stat_name": "Turrets Destroyed",
+      "stat_state": true
     },
     {
-      "Critical Hit Kills": true
+      "stat_name": "Critical Hit Kills",
+      "stat_state": true
     },
     {
-      "Multikills": true
+      "stat_name": "Multikills",
+      "stat_state": true
     },
     {
-      "Environmental Deaths": true
+      "stat_name": "Environmental Deaths",
+      "stat_state": true
     },
     {
-      "Solo Kills": true
+      "stat_name": "Solo Kills",
+      "stat_state": true
     },
     {
-      "Melee Final Blows": true
+      "stat_name": "Melee Final Blows",
+      "stat_state": true
     },
     {
-      "Time Hacked": false
+      "stat_name": "Time Hacked",
+      "stat_state": false
     },
     {
-      "Teleporter Pads Destroyed": true
+      "stat_name": "Teleporter Pads Destroyed",
+      "stat_state": true
     },
     {
-      "Time Discorded": false
+      "stat_name": "Time Discorded",
+      "stat_state": false
     }
   ],
   "Wrecking Ball": [
     {
-      "Time Played": false
+      "stat_name": "Time Played",
+      "stat_state": false
     },
     {
-      "Knockback Kills": true
+      "stat_name": "Knockback Kills",
+      "stat_state": true
     },
     {
-      "Shots Missed": true
+      "stat_name": "Shots Missed",
+      "stat_state": true
     },
     {
-      "Damage Taken": true
+      "stat_name": "Damage Taken",
+      "stat_state": true
     },
     {
-      "Shots Fired": true
+      "stat_name": "Shots Fired",
+      "stat_state": true
     },
     {
-      "Damage - Grappling Claw": true
+      "stat_name": "Damage - Grappling Claw",
+      "stat_state": true
     },
     {
-      "Time Building Ultimate": false
+      "stat_name": "Time Building Ultimate",
+      "stat_state": false
     },
     {
-      "Hero Damage Done": true
+      "stat_name": "Hero Damage Done",
+      "stat_state": true
     },
     {
-      "Grappling Claw Uses": true
+      "stat_name": "Grappling Claw Uses",
+      "stat_state": true
     },
     {
-      "Damage Taken - Ball": true
+      "stat_name": "Damage Taken - Ball",
+      "stat_state": true
     },
     {
-      "Eliminations": true
+      "stat_name": "Eliminations",
+      "stat_state": true
     },
     {
-      "Players Knocked Back": true
+      "stat_name": "Players Knocked Back",
+      "stat_state": true
     },
     {
-      "Damage Taken - Tank": true
+      "stat_name": "Damage Taken - Tank",
+      "stat_state": true
     },
     {
-      "Air Uptime Percentage": false
+      "stat_name": "Air Uptime Percentage",
+      "stat_state": false
     },
     {
-      "Objective Time": false
+      "stat_name": "Objective Time",
+      "stat_state": false
     },
     {
-      "Roll Uptime": true
+      "stat_name": "Roll Uptime",
+      "stat_state": true
     },
     {
-      "Shots Hit": true
+      "stat_name": "Shots Hit",
+      "stat_state": true
     },
     {
-      "Damage Taken - Adaptive Shield": true
+      "stat_name": "Damage Taken - Adaptive Shield",
+      "stat_state": true
     },
     {
-      "Time Alive": false
+      "stat_name": "Time Alive",
+      "stat_state": false
     },
     {
-      "Objective Kills": true
+      "stat_name": "Objective Kills",
+      "stat_state": true
     },
     {
-      "Ultimates Earned - Fractional": true
+      "stat_name": "Ultimates Earned - Fractional",
+      "stat_state": true
     },
     {
-      "Assists": true
+      "stat_name": "Assists",
+      "stat_state": true
     },
     {
-      "Damage - Piledriver": true
+      "stat_name": "Damage - Piledriver",
+      "stat_state": true
     },
     {
-      "Grappling Claw Impacts": true
+      "stat_name": "Grappling Claw Impacts",
+      "stat_state": true
     },
     {
-      "Damage - Weapon": true
+      "stat_name": "Damage - Weapon",
+      "stat_state": true
     },
     {
-      "Adaptive Shield Uses": true
+      "stat_name": "Adaptive Shield Uses",
+      "stat_state": true
     },
     {
-      "Roll Uptime Percentage": false
+      "stat_name": "Roll Uptime Percentage",
+      "stat_state": false
     },
     {
-      "Air Uptime": true
+      "stat_name": "Air Uptime",
+      "stat_state": true
     },
     {
-      "Roll Uses": true
+      "stat_name": "Roll Uses",
+      "stat_state": true
     },
     {
-      "All Damage Done": true
+      "stat_name": "All Damage Done",
+      "stat_state": true
     },
     {
-      "Weapon Accuracy": false
+      "stat_name": "Weapon Accuracy",
+      "stat_state": false
     },
     {
-      "Grappling Claw Kills": true
+      "stat_name": "Grappling Claw Kills",
+      "stat_state": true
     },
     {
-      "Healing Received": true
+      "stat_name": "Healing Received",
+      "stat_state": true
     },
     {
-      "Time Elapsed per Ultimate Earned": false
+      "stat_name": "Time Elapsed per Ultimate Earned",
+      "stat_state": false
     },
     {
-      "Shielding - Adaptive Shield": true
+      "stat_name": "Shielding - Adaptive Shield",
+      "stat_state": true
     },
     {
-      "Piledriver Uses": true
+      "stat_name": "Piledriver Uses",
+      "stat_state": true
     },
     {
-      "Time Discorded": false
+      "stat_name": "Time Discorded",
+      "stat_state": false
     },
     {
-      "Barrier Damage Done": true
+      "stat_name": "Barrier Damage Done",
+      "stat_state": true
     },
     {
-      "Average Time Alive": false
+      "stat_name": "Average Time Alive",
+      "stat_state": false
     },
     {
-      "Eliminations per Life": true
+      "stat_name": "Eliminations per Life",
+      "stat_state": true
     },
     {
-      "Deaths": true
+      "stat_name": "Deaths",
+      "stat_state": true
     },
     {
-      "Piledriver Kills": true
+      "stat_name": "Piledriver Kills",
+      "stat_state": true
     },
     {
-      "Time Hacked": false
+      "stat_name": "Time Hacked",
+      "stat_state": false
     },
     {
-      "Damage - Quick Melee": true
+      "stat_name": "Damage - Quick Melee",
+      "stat_state": true
     },
     {
-      "Final Blows": true
+      "stat_name": "Final Blows",
+      "stat_state": true
     },
     {
-      "Quick Melee Hits": true
+      "stat_name": "Quick Melee Hits",
+      "stat_state": true
     },
     {
-      "Quick Melee Accuracy": false
+      "stat_name": "Quick Melee Accuracy",
+      "stat_state": false
     },
     {
-      "Melee Final Blows": true
+      "stat_name": "Melee Final Blows",
+      "stat_state": true
     },
     {
-      "Quick Melee Ticks": true
+      "stat_name": "Quick Melee Ticks",
+      "stat_state": true
     },
     {
-      "Time Holding Ultimate": false
+      "stat_name": "Time Holding Ultimate",
+      "stat_state": false
     },
     {
-      "Damage - Minefield": true
+      "stat_name": "Damage - Minefield",
+      "stat_state": true
     },
     {
-      "Minefield Kills": true
+      "stat_name": "Minefield Kills",
+      "stat_state": true
     },
     {
-      "Ultimates Used": true
+      "stat_name": "Ultimates Used",
+      "stat_state": true
     },
     {
-      "Critical Hit Kills": true
+      "stat_name": "Critical Hit Kills",
+      "stat_state": true
     },
     {
-      "Solo Kills": true
+      "stat_name": "Solo Kills",
+      "stat_state": true
     },
     {
-      "Environmental Kills": true
+      "stat_name": "Environmental Kills",
+      "stat_state": true
     },
     {
-      "Environmental Deaths": true
+      "stat_name": "Environmental Deaths",
+      "stat_state": true
     },
     {
-      "Turrets Destroyed": true
+      "stat_name": "Turrets Destroyed",
+      "stat_state": true
     }
   ],
   "Widowmaker": [
     {
-      "Hero Damage Done": true
+      "stat_name": "Hero Damage Done",
+      "stat_state": true
     },
     {
-      "Damage - Weapon Scoped": true
+      "stat_name": "Damage - Weapon Scoped",
+      "stat_state": true
     },
     {
-      "Shots Fired": true
+      "stat_name": "Shots Fired",
+      "stat_state": true
     },
     {
-      "Weapon Accuracy": false
+      "stat_name": "Weapon Accuracy",
+      "stat_state": false
     },
     {
-      "Scoped Critical Hits": true
+      "stat_name": "Scoped Critical Hits",
+      "stat_state": true
     },
     {
-      "Time Alive": false
+      "stat_name": "Time Alive",
+      "stat_state": false
     },
     {
-      "Shots Hit": true
+      "stat_name": "Shots Hit",
+      "stat_state": true
     },
     {
-      "Ultimates Earned - Fractional": true
+      "stat_name": "Ultimates Earned - Fractional",
+      "stat_state": true
     },
     {
-      "Quick Melee Ticks": true
+      "stat_name": "Quick Melee Ticks",
+      "stat_state": true
     },
     {
-      "Deaths": true
+      "stat_name": "Deaths",
+      "stat_state": true
     },
     {
-      "Damage Taken": true
+      "stat_name": "Damage Taken",
+      "stat_state": true
     },
     {
-      "Time Elapsed per Ultimate Earned": false
+      "stat_name": "Time Elapsed per Ultimate Earned",
+      "stat_state": false
     },
     {
-      "Damage - Weapon": true
+      "stat_name": "Damage - Weapon",
+      "stat_state": true
     },
     {
-      "Time Played": false
+      "stat_name": "Time Played",
+      "stat_state": false
     },
     {
-      "Time Building Ultimate": false
+      "stat_name": "Time Building Ultimate",
+      "stat_state": false
     },
     {
-      "Scoped Critical Hit Accuracy": false
+      "stat_name": "Scoped Critical Hit Accuracy",
+      "stat_state": false
     },
     {
-      "Healing Received": true
+      "stat_name": "Healing Received",
+      "stat_state": true
     },
     {
-      "Scoped Hits": true
+      "stat_name": "Scoped Hits",
+      "stat_state": true
     },
     {
-      "Scoped Accuracy": false
+      "stat_name": "Scoped Accuracy",
+      "stat_state": false
     },
     {
-      "Critical Hits": true
+      "stat_name": "Critical Hits",
+      "stat_state": true
     },
     {
-      "Shots Missed": true
+      "stat_name": "Shots Missed",
+      "stat_state": true
     },
     {
-      "Scoped Shots": true
+      "stat_name": "Scoped Shots",
+      "stat_state": true
     },
     {
-      "Critical Hit Accuracy": false
+      "stat_name": "Critical Hit Accuracy",
+      "stat_state": false
     },
     {
-      "Barrier Damage Done": true
+      "stat_name": "Barrier Damage Done",
+      "stat_state": true
     },
     {
-      "All Damage Done": true
+      "stat_name": "All Damage Done",
+      "stat_state": true
     },
     {
-      "Quick Melee Hits": true
+      "stat_name": "Quick Melee Hits",
+      "stat_state": true
     },
     {
-      "Objective Kills": true
+      "stat_name": "Objective Kills",
+      "stat_state": true
     },
     {
-      "Ultimates Used": true
+      "stat_name": "Ultimates Used",
+      "stat_state": true
     },
     {
-      "Solo Kills": true
+      "stat_name": "Solo Kills",
+      "stat_state": true
     },
     {
-      "Scoped Critical Hit Kills": true
+      "stat_name": "Scoped Critical Hit Kills",
+      "stat_state": true
     },
     {
-      "Damage - Quick Melee": true
+      "stat_name": "Damage - Quick Melee",
+      "stat_state": true
     },
     {
-      "Infra-sight Uptime": true
+      "stat_name": "Infra-sight Uptime",
+      "stat_state": true
     },
     {
-      "Infra-Sight Efficiency": false
+      "stat_name": "Infra-Sight Efficiency",
+      "stat_state": false
     },
     {
-      "Time Holding Ultimate": false
+      "stat_name": "Time Holding Ultimate",
+      "stat_state": false
     },
     {
-      "Critical Hit Kills": true
+      "stat_name": "Critical Hit Kills",
+      "stat_state": true
     },
     {
-      "Final Blows": true
+      "stat_name": "Final Blows",
+      "stat_state": true
     },
     {
-      "Average Time Alive": false
+      "stat_name": "Average Time Alive",
+      "stat_state": false
     },
     {
-      "Damage - Venom Mine": true
+      "stat_name": "Damage - Venom Mine",
+      "stat_state": true
     },
     {
-      "Eliminations per Life": true
+      "stat_name": "Eliminations per Life",
+      "stat_state": true
     },
     {
-      "Eliminations": true
+      "stat_name": "Eliminations",
+      "stat_state": true
     },
     {
-      "Quick Melee Accuracy": false
+      "stat_name": "Quick Melee Accuracy",
+      "stat_state": false
     },
     {
-      "Melee Final Blows": true
+      "stat_name": "Melee Final Blows",
+      "stat_state": true
     },
     {
-      "Assists": true
+      "stat_name": "Assists",
+      "stat_state": true
     },
     {
-      "Recon Assists": true
+      "stat_name": "Recon Assists",
+      "stat_state": true
     },
     {
-      "Objective Time": false
+      "stat_name": "Objective Time",
+      "stat_state": false
     },
     {
-      "Venom Mine Kills": true
+      "stat_name": "Venom Mine Kills",
+      "stat_state": true
     },
     {
-      "Multikills": true
+      "stat_name": "Multikills",
+      "stat_state": true
     },
     {
-      "Environmental Deaths": true
+      "stat_name": "Environmental Deaths",
+      "stat_state": true
     },
     {
-      "Time Hacked": false
+      "stat_name": "Time Hacked",
+      "stat_state": false
     }
   ],
   "Tracer": [
     {
-      "Time Played": false
+      "stat_name": "Time Played",
+      "stat_state": false
     },
     {
-      "Shots Hit": true
+      "stat_name": "Shots Hit",
+      "stat_state": true
     },
     {
-      "Healing Received": true
+      "stat_name": "Healing Received",
+      "stat_state": true
     },
     {
-      "Deaths": true
+      "stat_name": "Deaths",
+      "stat_state": true
     },
     {
-      "Quick Melee Ticks": true
+      "stat_name": "Quick Melee Ticks",
+      "stat_state": true
     },
     {
-      "Quick Melee Accuracy": false
+      "stat_name": "Quick Melee Accuracy",
+      "stat_state": false
     },
     {
-      "Damage Taken": true
+      "stat_name": "Damage Taken",
+      "stat_state": true
     },
     {
-      "Time Discorded": false
+      "stat_name": "Time Discorded",
+      "stat_state": false
     },
     {
-      "Ultimates Earned - Fractional": true
+      "stat_name": "Ultimates Earned - Fractional",
+      "stat_state": true
     },
     {
-      "Weapon Accuracy": false
+      "stat_name": "Weapon Accuracy",
+      "stat_state": false
     },
     {
-      "Self Healing": true
+      "stat_name": "Self Healing",
+      "stat_state": true
     },
     {
-      "Recalls Used": true
+      "stat_name": "Recalls Used",
+      "stat_state": true
     },
     {
-      "Time Alive": false
+      "stat_name": "Time Alive",
+      "stat_state": false
     },
     {
-      "Critical Hits": true
+      "stat_name": "Critical Hits",
+      "stat_state": true
     },
     {
-      "Match Blinks Used": true
+      "stat_name": "Match Blinks Used",
+      "stat_state": true
     },
     {
-      "All Damage Done": true
+      "stat_name": "All Damage Done",
+      "stat_state": true
     },
     {
-      "Shots Missed": true
+      "stat_name": "Shots Missed",
+      "stat_state": true
     },
     {
-      "Damage - Weapon": true
+      "stat_name": "Damage - Weapon",
+      "stat_state": true
     },
     {
-      "Shots Fired": true
+      "stat_name": "Shots Fired",
+      "stat_state": true
     },
     {
-      "Time Elapsed per Ultimate Earned": false
+      "stat_name": "Time Elapsed per Ultimate Earned",
+      "stat_state": false
     },
     {
-      "Self Healing Percent of Damage Taken": true
+      "stat_name": "Self Healing Percent of Damage Taken",
+      "stat_state": true
     },
     {
-      "Health Recovered": true
+      "stat_name": "Health Recovered",
+      "stat_state": true
     },
     {
-      "Hero Damage Done": true
+      "stat_name": "Hero Damage Done",
+      "stat_state": true
     },
     {
-      "Critical Hit Accuracy": false
+      "stat_name": "Critical Hit Accuracy",
+      "stat_state": false
     },
     {
-      "Time Building Ultimate": false
+      "stat_name": "Time Building Ultimate",
+      "stat_state": false
     },
     {
-      "Quick Melee Hits": true
+      "stat_name": "Quick Melee Hits",
+      "stat_state": true
     },
     {
-      "Barrier Damage Done": true
+      "stat_name": "Barrier Damage Done",
+      "stat_state": true
     },
     {
-      "Damage - Quick Melee": true
+      "stat_name": "Damage - Quick Melee",
+      "stat_state": true
     },
     {
-      "Ultimates Used": true
+      "stat_name": "Ultimates Used",
+      "stat_state": true
     },
     {
-      "Time Holding Ultimate": false
+      "stat_name": "Time Holding Ultimate",
+      "stat_state": false
     },
     {
-      "Eliminations": true
+      "stat_name": "Eliminations",
+      "stat_state": true
     },
     {
-      "Damage - Pulse Bomb": true
+      "stat_name": "Damage - Pulse Bomb",
+      "stat_state": true
     },
     {
-      "Eliminations per Life": true
+      "stat_name": "Eliminations per Life",
+      "stat_state": true
     },
     {
-      "Pulse Bomb Kills": true
+      "stat_name": "Pulse Bomb Kills",
+      "stat_state": true
     },
     {
-      "Pulse Bomb Efficiency": false
+      "stat_name": "Pulse Bomb Efficiency",
+      "stat_state": false
     },
     {
-      "Assists": true
+      "stat_name": "Assists",
+      "stat_state": true
     },
     {
-      "Average Time Alive": false
+      "stat_name": "Average Time Alive",
+      "stat_state": false
     },
     {
-      "Objective Time": false
+      "stat_name": "Objective Time",
+      "stat_state": false
     },
     {
-      "Final Blows": true
+      "stat_name": "Final Blows",
+      "stat_state": true
     },
     {
-      "Solo Kills": true
+      "stat_name": "Solo Kills",
+      "stat_state": true
     },
     {
-      "Objective Kills": true
+      "stat_name": "Objective Kills",
+      "stat_state": true
     },
     {
-      "Critical Hit Kills": true
+      "stat_name": "Critical Hit Kills",
+      "stat_state": true
     },
     {
-      "Melee Final Blows": true
+      "stat_name": "Melee Final Blows",
+      "stat_state": true
     },
     {
-      "Pulse Bomb Attach Rate": true
+      "stat_name": "Pulse Bomb Attach Rate",
+      "stat_state": true
     },
     {
-      "Pulse Bombs Attached": true
+      "stat_name": "Pulse Bombs Attached",
+      "stat_state": true
     },
     {
-      "Teleporter Pads Destroyed": true
+      "stat_name": "Teleporter Pads Destroyed",
+      "stat_state": true
     },
     {
-      "Environmental Deaths": true
+      "stat_name": "Environmental Deaths",
+      "stat_state": true
     },
     {
-      "Multikills": true
+      "stat_name": "Multikills",
+      "stat_state": true
     },
     {
-      "Time Hacked": false
+      "stat_name": "Time Hacked",
+      "stat_state": false
     },
     {
-      "Environmental Kills": true
+      "stat_name": "Environmental Kills",
+      "stat_state": true
     }
   ],
   "Winston": [
     {
-      "All Damage Done": true
+      "stat_name": "All Damage Done",
+      "stat_state": true
     },
     {
-      "Knockback Kills": true
+      "stat_name": "Knockback Kills",
+      "stat_state": true
     },
     {
-      "Tesla Cannon Accuracy": false
+      "stat_name": "Tesla Cannon Accuracy",
+      "stat_state": false
     },
     {
-      "Objective Time": false
+      "stat_name": "Objective Time",
+      "stat_state": false
     },
     {
-      "Primal Rage Melee Accuracy": false
+      "stat_name": "Primal Rage Melee Accuracy",
+      "stat_state": false
     },
     {
-      "Deaths": true
+      "stat_name": "Deaths",
+      "stat_state": true
     },
     {
-      "Jump Pack Kills": true
+      "stat_name": "Jump Pack Kills",
+      "stat_state": true
     },
     {
-      "Quick Melee Accuracy": false
+      "stat_name": "Quick Melee Accuracy",
+      "stat_state": false
     },
     {
-      "Damage - Primal Rage Melee": true
+      "stat_name": "Damage - Primal Rage Melee",
+      "stat_state": true
     },
     {
-      "Final Blows": true
+      "stat_name": "Final Blows",
+      "stat_state": true
     },
     {
-      "Damage - Quick Melee": true
+      "stat_name": "Damage - Quick Melee",
+      "stat_state": true
     },
     {
-      "Time Elapsed per Ultimate Earned": false
+      "stat_name": "Time Elapsed per Ultimate Earned",
+      "stat_state": false
     },
     {
-      "Damage Blocked": true
+      "stat_name": "Damage Blocked",
+      "stat_state": true
     },
     {
-      "Ultimates Used": true
+      "stat_name": "Ultimates Used",
+      "stat_state": true
     },
     {
-      "Eliminations": true
+      "stat_name": "Eliminations",
+      "stat_state": true
     },
     {
-      "Melee Kills": true
+      "stat_name": "Melee Kills",
+      "stat_state": true
     },
     {
-      "Tesla Cannon Efficiency": false
+      "stat_name": "Tesla Cannon Efficiency",
+      "stat_state": false
     },
     {
-      "Primal Rage Melee Ticks": true
+      "stat_name": "Primal Rage Melee Ticks",
+      "stat_state": true
     },
     {
-      "Barrier Damage Done": true
+      "stat_name": "Barrier Damage Done",
+      "stat_state": true
     },
     {
-      "Tesla Cannon Hits": true
+      "stat_name": "Tesla Cannon Hits",
+      "stat_state": true
     },
     {
-      "Time Building Ultimate": false
+      "stat_name": "Time Building Ultimate",
+      "stat_state": false
     },
     {
-      "Damage Taken": true
+      "stat_name": "Damage Taken",
+      "stat_state": true
     },
     {
-      "Primal Rage Melee Efficiency": false
+      "stat_name": "Primal Rage Melee Efficiency",
+      "stat_state": false
     },
     {
-      "Weapon Kills": true
+      "stat_name": "Weapon Kills",
+      "stat_state": true
     },
     {
-      "Time Played": false
+      "stat_name": "Time Played",
+      "stat_state": false
     },
     {
-      "Primal Rage Efficiency": false
+      "stat_name": "Primal Rage Efficiency",
+      "stat_state": false
     },
     {
-      "Eliminations per Life": true
+      "stat_name": "Eliminations per Life",
+      "stat_state": true
     },
     {
-      "Average Time Alive": false
+      "stat_name": "Average Time Alive",
+      "stat_state": false
     },
     {
-      "Tesla Cannon Hits - Multiple": true
+      "stat_name": "Tesla Cannon Hits - Multiple",
+      "stat_state": true
     },
     {
-      "Melee Final Blows": true
+      "stat_name": "Melee Final Blows",
+      "stat_state": true
     },
     {
-      "Time Holding Ultimate": false
+      "stat_name": "Time Holding Ultimate",
+      "stat_state": false
     },
     {
-      "Damage - Weapon": true
+      "stat_name": "Damage - Weapon",
+      "stat_state": true
     },
     {
-      "Healing Received": true
+      "stat_name": "Healing Received",
+      "stat_state": true
     },
     {
-      "Primal Rage Kills": true
+      "stat_name": "Primal Rage Kills",
+      "stat_state": true
     },
     {
-      "Primal Rage Melee Hits - Multiple": true
+      "stat_name": "Primal Rage Melee Hits - Multiple",
+      "stat_state": true
     },
     {
-      "Time Alive": false
+      "stat_name": "Time Alive",
+      "stat_state": false
     },
     {
-      "Ultimates Earned - Fractional": true
+      "stat_name": "Ultimates Earned - Fractional",
+      "stat_state": true
     },
     {
-      "Objective Kills": true
+      "stat_name": "Objective Kills",
+      "stat_state": true
     },
     {
-      "Primal Rage Melee Hits": true
+      "stat_name": "Primal Rage Melee Hits",
+      "stat_state": true
     },
     {
-      "Quick Melee Ticks": true
+      "stat_name": "Quick Melee Ticks",
+      "stat_state": true
     },
     {
-      "Assists": true
+      "stat_name": "Assists",
+      "stat_state": true
     },
     {
-      "Quick Melee Hits": true
+      "stat_name": "Quick Melee Hits",
+      "stat_state": true
     },
     {
-      "Players Knocked Back": true
+      "stat_name": "Players Knocked Back",
+      "stat_state": true
     },
     {
-      "Damage - Primal Rage Leap": true
+      "stat_name": "Damage - Primal Rage Leap",
+      "stat_state": true
     },
     {
-      "Hero Damage Done": true
+      "stat_name": "Hero Damage Done",
+      "stat_state": true
     },
     {
-      "Damage - Primal Rage Total": true
+      "stat_name": "Damage - Primal Rage Total",
+      "stat_state": true
     },
     {
-      "Damage - Jump Pack": true
+      "stat_name": "Damage - Jump Pack",
+      "stat_state": true
     },
     {
-      "Tesla Cannon Ticks": true
+      "stat_name": "Tesla Cannon Ticks",
+      "stat_state": true
     },
     {
-      "Solo Kills": true
+      "stat_name": "Solo Kills",
+      "stat_state": true
     },
     {
-      "Multikills": true
+      "stat_name": "Multikills",
+      "stat_state": true
     },
     {
-      "Time Hacked": false
+      "stat_name": "Time Hacked",
+      "stat_state": false
     },
     {
-      "Environmental Kills": true
+      "stat_name": "Environmental Kills",
+      "stat_state": true
     },
     {
-      "Environmental Deaths": true
+      "stat_name": "Environmental Deaths",
+      "stat_state": true
     },
     {
-      "Time Discorded": false
+      "stat_name": "Time Discorded",
+      "stat_state": false
     }
   ],
   "Zenyatta": [
     {
-      "Ultimates Earned - Fractional": true
+      "stat_name": "Ultimates Earned - Fractional",
+      "stat_state": true
     },
     {
-      "Transcendence Healing": true
+      "stat_name": "Transcendence Healing",
+      "stat_state": true
     },
     {
-      "Ultimates Used": true
+      "stat_name": "Ultimates Used",
+      "stat_state": true
     },
     {
-      "Self Healing Percent of Damage Taken": true
+      "stat_name": "Self Healing Percent of Damage Taken",
+      "stat_state": true
     },
     {
-      "Discord Orb Time": false
+      "stat_name": "Discord Orb Time",
+      "stat_state": false
     },
     {
-      "Shots Hit": true
+      "stat_name": "Shots Hit",
+      "stat_state": true
     },
     {
-      "Average Time Alive": false
+      "stat_name": "Average Time Alive",
+      "stat_state": false
     },
     {
-      "Transcendence Percent of Healing": true
+      "stat_name": "Transcendence Percent of Healing",
+      "stat_state": true
     },
     {
-      "Self Healing": true
+      "stat_name": "Self Healing",
+      "stat_state": true
     },
     {
-      "Time Played": false
+      "stat_name": "Time Played",
+      "stat_state": false
     },
     {
-      "Damage - Weapon Charged": true
+      "stat_name": "Damage - Weapon Charged",
+      "stat_state": true
     },
     {
-      "Deaths": true
+      "stat_name": "Deaths",
+      "stat_state": true
     },
     {
-      "Harmony Orb Time": false
+      "stat_name": "Harmony Orb Time",
+      "stat_state": false
     },
     {
-      "Defensive Assists": true
+      "stat_name": "Defensive Assists",
+      "stat_state": true
     },
     {
-      "Critical Hit Accuracy": false
+      "stat_name": "Critical Hit Accuracy",
+      "stat_state": false
     },
     {
-      "Time Elapsed per Ultimate Earned": false
+      "stat_name": "Time Elapsed per Ultimate Earned",
+      "stat_state": false
     },
     {
-      "Time Holding Ultimate": false
+      "stat_name": "Time Holding Ultimate",
+      "stat_state": false
     },
     {
-      "Eliminations": true
+      "stat_name": "Eliminations",
+      "stat_state": true
     },
     {
-      "Weapon Accuracy": false
+      "stat_name": "Weapon Accuracy",
+      "stat_state": false
     },
     {
-      "Objective Kills": true
+      "stat_name": "Objective Kills",
+      "stat_state": true
     },
     {
-      "Objective Time": false
+      "stat_name": "Objective Time",
+      "stat_state": false
     },
     {
-      "Healing - Transcendence": true
+      "stat_name": "Healing - Transcendence",
+      "stat_state": true
     },
     {
-      "Shots Missed": true
+      "stat_name": "Shots Missed",
+      "stat_state": true
     },
     {
-      "Healing - Harmony Orb": true
+      "stat_name": "Healing - Harmony Orb",
+      "stat_state": true
     },
     {
-      "Time Building Ultimate": false
+      "stat_name": "Time Building Ultimate",
+      "stat_state": false
     },
     {
-      "Healing Done": true
+      "stat_name": "Healing Done",
+      "stat_state": true
     },
     {
-      "Quick Melee Ticks": true
+      "stat_name": "Quick Melee Ticks",
+      "stat_state": true
     },
     {
-      "Critical Hits": true
+      "stat_name": "Critical Hits",
+      "stat_state": true
     },
     {
-      "Damage Taken": true
+      "stat_name": "Damage Taken",
+      "stat_state": true
     },
     {
-      "Final Blows": true
+      "stat_name": "Final Blows",
+      "stat_state": true
     },
     {
-      "Shots Fired": true
+      "stat_name": "Shots Fired",
+      "stat_state": true
     },
     {
-      "Transcendence Efficiency": false
+      "stat_name": "Transcendence Efficiency",
+      "stat_state": false
     },
     {
-      "All Damage Done": true
+      "stat_name": "All Damage Done",
+      "stat_state": true
     },
     {
-      "Barrier Damage Done": true
+      "stat_name": "Barrier Damage Done",
+      "stat_state": true
     },
     {
-      "Time Alive": false
+      "stat_name": "Time Alive",
+      "stat_state": false
     },
     {
-      "Assists": true
+      "stat_name": "Assists",
+      "stat_state": true
     },
     {
-      "Hero Damage Done": true
+      "stat_name": "Hero Damage Done",
+      "stat_state": true
     },
     {
-      "Eliminations per Life": true
+      "stat_name": "Eliminations per Life",
+      "stat_state": true
     },
     {
-      "Damage - Weapon Primary": true
+      "stat_name": "Damage - Weapon Primary",
+      "stat_state": true
     },
     {
-      "Healing Received": true
+      "stat_name": "Healing Received",
+      "stat_state": true
     },
     {
-      "Damage - Discord Orb": true
+      "stat_name": "Damage - Discord Orb",
+      "stat_state": true
     },
     {
-      "Offensive Assists": true
+      "stat_name": "Offensive Assists",
+      "stat_state": true
     },
     {
-      "Quick Melee Hits": true
+      "stat_name": "Quick Melee Hits",
+      "stat_state": true
     },
     {
-      "Critical Hit Kills": true
+      "stat_name": "Critical Hit Kills",
+      "stat_state": true
     },
     {
-      "Damage - Quick Melee": true
+      "stat_name": "Damage - Quick Melee",
+      "stat_state": true
     },
     {
-      "Time Hacked": false
+      "stat_name": "Time Hacked",
+      "stat_state": false
     },
     {
-      "Quick Melee Accuracy": false
+      "stat_name": "Quick Melee Accuracy",
+      "stat_state": false
     },
     {
-      "Melee Final Blows": true
+      "stat_name": "Melee Final Blows",
+      "stat_state": true
     },
     {
-      "Time Discorded": false
+      "stat_name": "Time Discorded",
+      "stat_state": false
     },
     {
-      "Environmental Deaths": true
+      "stat_name": "Environmental Deaths",
+      "stat_state": true
     },
     {
-      "Solo Kills": true
+      "stat_name": "Solo Kills",
+      "stat_state": true
     },
     {
-      "Turrets Destroyed": true
+      "stat_name": "Turrets Destroyed",
+      "stat_state": true
     }
   ],
   "Sombra": [
     {
-      "Damage - Weapon": true
+      "stat_name": "Damage - Weapon",
+      "stat_state": true
     },
     {
-      "Hero Damage Done": true
+      "stat_name": "Hero Damage Done",
+      "stat_state": true
     },
     {
-      "Time Elapsed per Ultimate Earned": false
+      "stat_name": "Time Elapsed per Ultimate Earned",
+      "stat_state": false
     },
     {
-      "Final Blows": true
+      "stat_name": "Final Blows",
+      "stat_state": true
     },
     {
-      "Critical Hit Accuracy": false
+      "stat_name": "Critical Hit Accuracy",
+      "stat_state": false
     },
     {
-      "Enemies EMP'd": true
+      "stat_name": "Enemies EMP'd",
+      "stat_state": true
     },
     {
-      "Objective Kills": true
+      "stat_name": "Objective Kills",
+      "stat_state": true
     },
     {
-      "Assists": true
+      "stat_name": "Assists",
+      "stat_state": true
     },
     {
-      "Barrier Damage Done": true
+      "stat_name": "Barrier Damage Done",
+      "stat_state": true
     },
     {
-      "Eliminations per Life": true
+      "stat_name": "Eliminations per Life",
+      "stat_state": true
     },
     {
-      "Ultimates Earned - Fractional": true
+      "stat_name": "Ultimates Earned - Fractional",
+      "stat_state": true
     },
     {
-      "Time Holding Ultimate": false
+      "stat_name": "Time Holding Ultimate",
+      "stat_state": false
     },
     {
-      "EMP Efficiency": false
+      "stat_name": "EMP Efficiency",
+      "stat_state": false
     },
     {
-      "Enemies Hacked": true
+      "stat_name": "Enemies Hacked",
+      "stat_state": true
     },
     {
-      "Time Alive": false
+      "stat_name": "Time Alive",
+      "stat_state": false
     },
     {
-      "Eliminations": true
+      "stat_name": "Eliminations",
+      "stat_state": true
     },
     {
-      "Healing Received": true
+      "stat_name": "Healing Received",
+      "stat_state": true
     },
     {
-      "Ultimates Used": true
+      "stat_name": "Ultimates Used",
+      "stat_state": true
     },
     {
-      "Shots Hit": true
+      "stat_name": "Shots Hit",
+      "stat_state": true
     },
     {
-      "Time Building Ultimate": false
+      "stat_name": "Time Building Ultimate",
+      "stat_state": false
     },
     {
-      "Shots Fired": true
+      "stat_name": "Shots Fired",
+      "stat_state": true
     },
     {
-      "All Damage Done": true
+      "stat_name": "All Damage Done",
+      "stat_state": true
     },
     {
-      "Critical Hits": true
+      "stat_name": "Critical Hits",
+      "stat_state": true
     },
     {
-      "Shots Missed": true
+      "stat_name": "Shots Missed",
+      "stat_state": true
     },
     {
-      "Average Time Alive": false
+      "stat_name": "Average Time Alive",
+      "stat_state": false
     },
     {
-      "Weapon Accuracy": false
+      "stat_name": "Weapon Accuracy",
+      "stat_state": false
     },
     {
-      "Teleporter Pads Destroyed": true
+      "stat_name": "Teleporter Pads Destroyed",
+      "stat_state": true
     },
     {
-      "Damage Taken": true
+      "stat_name": "Damage Taken",
+      "stat_state": true
     },
     {
-      "Objective Time": false
+      "stat_name": "Objective Time",
+      "stat_state": false
     },
     {
-      "Deaths": true
+      "stat_name": "Deaths",
+      "stat_state": true
     },
     {
-      "Time Played": false
+      "stat_name": "Time Played",
+      "stat_state": false
     },
     {
-      "Offensive Assists": true
+      "stat_name": "Offensive Assists",
+      "stat_state": true
     },
     {
-      "Damage - EMP": true
+      "stat_name": "Damage - EMP",
+      "stat_state": true
     },
     {
-      "Quick Melee Hits": true
+      "stat_name": "Quick Melee Hits",
+      "stat_state": true
     },
     {
-      "Quick Melee Ticks": true
+      "stat_name": "Quick Melee Ticks",
+      "stat_state": true
     },
     {
-      "Damage - Quick Melee": true
+      "stat_name": "Damage - Quick Melee",
+      "stat_state": true
     },
     {
-      "Quick Melee Accuracy": false
+      "stat_name": "Quick Melee Accuracy",
+      "stat_state": false
     },
     {
-      "Solo Kills": true
+      "stat_name": "Solo Kills",
+      "stat_state": true
     },
     {
-      "Melee Final Blows": true
+      "stat_name": "Melee Final Blows",
+      "stat_state": true
     },
     {
-      "Critical Hit Kills": true
+      "stat_name": "Critical Hit Kills",
+      "stat_state": true
     },
     {
-      "Environmental Kills": true
+      "stat_name": "Environmental Kills",
+      "stat_state": true
     },
     {
-      "Time Hacked": false
+      "stat_name": "Time Hacked",
+      "stat_state": false
     },
     {
-      "Multikills": true
+      "stat_name": "Multikills",
+      "stat_state": true
     },
     {
-      "Time Discorded": false
+      "stat_name": "Time Discorded",
+      "stat_state": false
     },
     {
-      "Turrets Destroyed": true
+      "stat_name": "Turrets Destroyed",
+      "stat_state": true
     }
   ],
   "Hanzo": [
     {
-      "Ultimates Earned - Fractional": true
+      "stat_name": "Ultimates Earned - Fractional",
+      "stat_state": true
     },
     {
-      "Eliminations": true
+      "stat_name": "Eliminations",
+      "stat_state": true
     },
     {
-      "Ultimates Used": true
+      "stat_name": "Ultimates Used",
+      "stat_state": true
     },
     {
-      "Damage Taken": true
+      "stat_name": "Damage Taken",
+      "stat_state": true
     },
     {
-      "Damage - Storm Arrows": true
+      "stat_name": "Damage - Storm Arrows",
+      "stat_state": true
     },
     {
-      "Time Building Ultimate": false
+      "stat_name": "Time Building Ultimate",
+      "stat_state": false
     },
     {
-      "Critical Hit Accuracy": false
+      "stat_name": "Critical Hit Accuracy",
+      "stat_state": false
     },
     {
-      "Dragonstrike Efficiency": false
+      "stat_name": "Dragonstrike Efficiency",
+      "stat_state": false
     },
     {
-      "Damage - Sonic": true
+      "stat_name": "Damage - Sonic",
+      "stat_state": true
     },
     {
-      "Critical Hits": true
+      "stat_name": "Critical Hits",
+      "stat_state": true
     },
     {
-      "Healing Received": true
+      "stat_name": "Healing Received",
+      "stat_state": true
     },
     {
-      "Time Alive": false
+      "stat_name": "Time Alive",
+      "stat_state": false
     },
     {
-      "Shots Fired": true
+      "stat_name": "Shots Fired",
+      "stat_state": true
     },
     {
-      "Average Time Alive": false
+      "stat_name": "Average Time Alive",
+      "stat_state": false
     },
     {
-      "Quick Melee Ticks": true
+      "stat_name": "Quick Melee Ticks",
+      "stat_state": true
     },
     {
-      "Deaths": true
+      "stat_name": "Deaths",
+      "stat_state": true
     },
     {
-      "Time Played": false
+      "stat_name": "Time Played",
+      "stat_state": false
     },
     {
-      "Time Elapsed per Ultimate Earned": false
+      "stat_name": "Time Elapsed per Ultimate Earned",
+      "stat_state": false
     },
     {
-      "Final Blows": true
+      "stat_name": "Final Blows",
+      "stat_state": true
     },
     {
-      "Weapon Accuracy": false
+      "stat_name": "Weapon Accuracy",
+      "stat_state": false
     },
     {
-      "Dragonstrike Kills": true
+      "stat_name": "Dragonstrike Kills",
+      "stat_state": true
     },
     {
-      "Barrier Damage Done": true
+      "stat_name": "Barrier Damage Done",
+      "stat_state": true
     },
     {
-      "Damage - Weapon": true
+      "stat_name": "Damage - Weapon",
+      "stat_state": true
     },
     {
-      "All Damage Done": true
+      "stat_name": "All Damage Done",
+      "stat_state": true
     },
     {
-      "Shots Hit": true
+      "stat_name": "Shots Hit",
+      "stat_state": true
     },
     {
-      "Eliminations per Life": true
+      "stat_name": "Eliminations per Life",
+      "stat_state": true
     },
     {
-      "Time Holding Ultimate": false
+      "stat_name": "Time Holding Ultimate",
+      "stat_state": false
     },
     {
-      "Shots Missed": true
+      "stat_name": "Shots Missed",
+      "stat_state": true
     },
     {
-      "Damage - Dragonstrike": true
+      "stat_name": "Damage - Dragonstrike",
+      "stat_state": true
     },
     {
-      "Hero Damage Done": true
+      "stat_name": "Hero Damage Done",
+      "stat_state": true
     },
     {
-      "Solo Kills": true
+      "stat_name": "Solo Kills",
+      "stat_state": true
     },
     {
-      "Critical Hit Kills": true
+      "stat_name": "Critical Hit Kills",
+      "stat_state": true
     },
     {
-      "Objective Time": false
+      "stat_name": "Objective Time",
+      "stat_state": false
     },
     {
-      "Recon Assists": true
+      "stat_name": "Recon Assists",
+      "stat_state": true
     },
     {
-      "Infra-Sight Efficiency": false
+      "stat_name": "Infra-Sight Efficiency",
+      "stat_state": false
     },
     {
-      "Objective Kills": true
+      "stat_name": "Objective Kills",
+      "stat_state": true
     },
     {
-      "Assists": true
+      "stat_name": "Assists",
+      "stat_state": true
     },
     {
-      "Storm Arrow Kills": true
+      "stat_name": "Storm Arrow Kills",
+      "stat_state": true
     },
     {
-      "Quick Melee Accuracy": false
+      "stat_name": "Quick Melee Accuracy",
+      "stat_state": false
     },
     {
-      "Damage - Quick Melee": true
+      "stat_name": "Damage - Quick Melee",
+      "stat_state": true
     },
     {
-      "Melee Final Blows": true
+      "stat_name": "Melee Final Blows",
+      "stat_state": true
     },
     {
-      "Quick Melee Hits": true
+      "stat_name": "Quick Melee Hits",
+      "stat_state": true
     },
     {
-      "Multikills": true
+      "stat_name": "Multikills",
+      "stat_state": true
     },
     {
-      "Time Hacked": false
+      "stat_name": "Time Hacked",
+      "stat_state": false
     },
     {
-      "Time Discorded": false
+      "stat_name": "Time Discorded",
+      "stat_state": false
     },
     {
-      "Turrets Destroyed": true
+      "stat_name": "Turrets Destroyed",
+      "stat_state": true
     }
   ],
   "Zarya": [
     {
-      "Primary Fire Ticks": true
+      "stat_name": "Primary Fire Ticks",
+      "stat_state": true
     },
     {
-      "Healing Received": true
+      "stat_name": "Healing Received",
+      "stat_state": true
     },
     {
-      "Defensive Assists": true
+      "stat_name": "Defensive Assists",
+      "stat_state": true
     },
     {
-      "Time Building Ultimate": false
+      "stat_name": "Time Building Ultimate",
+      "stat_state": false
     },
     {
-      "Ultimates Earned - Fractional": true
+      "stat_name": "Ultimates Earned - Fractional",
+      "stat_state": true
     },
     {
-      "Weapon Accuracy": false
+      "stat_name": "Weapon Accuracy",
+      "stat_state": false
     },
     {
-      "All Damage Done": true
+      "stat_name": "All Damage Done",
+      "stat_state": true
     },
     {
-      "Quick Melee Hits": true
+      "stat_name": "Quick Melee Hits",
+      "stat_state": true
     },
     {
-      "Primary Fire Hits": true
+      "stat_name": "Primary Fire Hits",
+      "stat_state": true
     },
     {
-      "Hero Damage Done": true
+      "stat_name": "Hero Damage Done",
+      "stat_state": true
     },
     {
-      "Damage - Quick Melee": true
+      "stat_name": "Damage - Quick Melee",
+      "stat_state": true
     },
     {
-      "Ultimates Used": true
+      "stat_name": "Ultimates Used",
+      "stat_state": true
     },
     {
-      "Primary Fire Accuracy": false
+      "stat_name": "Primary Fire Accuracy",
+      "stat_state": false
     },
     {
-      "Barrier Damage Done": true
+      "stat_name": "Barrier Damage Done",
+      "stat_state": true
     },
     {
-      "Final Blows": true
+      "stat_name": "Final Blows",
+      "stat_state": true
     },
     {
-      "Assists": true
+      "stat_name": "Assists",
+      "stat_state": true
     },
     {
-      "Offensive Assists": true
+      "stat_name": "Offensive Assists",
+      "stat_state": true
     },
     {
-      "Quick Melee Ticks": true
+      "stat_name": "Quick Melee Ticks",
+      "stat_state": true
     },
     {
-      "Graviton Surge Kills": true
+      "stat_name": "Graviton Surge Kills",
+      "stat_state": true
     },
     {
-      "Eliminations per Life": true
+      "stat_name": "Eliminations per Life",
+      "stat_state": true
     },
     {
-      "Damage - Graviton Surge": true
+      "stat_name": "Damage - Graviton Surge",
+      "stat_state": true
     },
     {
-      "Shots Fired": true
+      "stat_name": "Shots Fired",
+      "stat_state": true
     },
     {
-      "Time Alive": false
+      "stat_name": "Time Alive",
+      "stat_state": false
     },
     {
-      "Average Energy": false
+      "stat_name": "Average Energy",
+      "stat_state": false
     },
     {
-      "Graviton Surge Efficiency": false
+      "stat_name": "Graviton Surge Efficiency",
+      "stat_state": false
     },
     {
-      "Projected Barrier Damage Blocked": true
+      "stat_name": "Projected Barrier Damage Blocked",
+      "stat_state": true
     },
     {
-      "Shots Hit": true
+      "stat_name": "Shots Hit",
+      "stat_state": true
     },
     {
-      "Damage - Weapon Primary": true
+      "stat_name": "Damage - Weapon Primary",
+      "stat_state": true
     },
     {
-      "Time Played": false
+      "stat_name": "Time Played",
+      "stat_state": false
     },
     {
-      "Damage Taken": true
+      "stat_name": "Damage Taken",
+      "stat_state": true
     },
     {
-      "Lifetime Energy Accumulation": true
+      "stat_name": "Lifetime Energy Accumulation",
+      "stat_state": true
     },
     {
-      "Deaths": true
+      "stat_name": "Deaths",
+      "stat_state": true
     },
     {
-      "High Energy Kills": true
+      "stat_name": "High Energy Kills",
+      "stat_state": true
     },
     {
-      "Eliminations": true
+      "stat_name": "Eliminations",
+      "stat_state": true
     },
     {
-      "Quick Melee Accuracy": false
+      "stat_name": "Quick Melee Accuracy",
+      "stat_state": false
     },
     {
-      "Shots Missed": true
+      "stat_name": "Shots Missed",
+      "stat_state": true
     },
     {
-      "Energy Maximum": true
+      "stat_name": "Energy Maximum",
+      "stat_state": true
     },
     {
-      "Time Elapsed per Ultimate Earned": false
+      "stat_name": "Time Elapsed per Ultimate Earned",
+      "stat_state": false
     },
     {
-      "Objective Time": false
+      "stat_name": "Objective Time",
+      "stat_state": false
     },
     {
-      "Multikills": true
+      "stat_name": "Multikills",
+      "stat_state": true
     },
     {
-      "Objective Kills": true
+      "stat_name": "Objective Kills",
+      "stat_state": true
     },
     {
-      "Damage - Weapon Secondary": true
+      "stat_name": "Damage - Weapon Secondary",
+      "stat_state": true
     },
     {
-      "Projected Barriers Applied": true
+      "stat_name": "Projected Barriers Applied",
+      "stat_state": true
     },
     {
-      "Damage Blocked": true
+      "stat_name": "Damage Blocked",
+      "stat_state": true
     },
     {
-      "Time Holding Ultimate": false
+      "stat_name": "Time Holding Ultimate",
+      "stat_state": false
     },
     {
-      "Average Time Alive": false
+      "stat_name": "Average Time Alive",
+      "stat_state": false
     },
     {
-      "Environmental Deaths": true
+      "stat_name": "Environmental Deaths",
+      "stat_state": true
     },
     {
-      "Solo Kills": true
+      "stat_name": "Solo Kills",
+      "stat_state": true
     }
   ],
   "Roadhog": [
     {
-      "Time Alive": false
+      "stat_name": "Time Alive",
+      "stat_state": false
     },
     {
-      "Time Building Ultimate": false
+      "stat_name": "Time Building Ultimate",
+      "stat_state": false
     },
     {
-      "Shots Missed": true
+      "stat_name": "Shots Missed",
+      "stat_state": true
     },
     {
-      "Time Played": false
+      "stat_name": "Time Played",
+      "stat_state": false
     },
     {
-      "Shots Fired": true
+      "stat_name": "Shots Fired",
+      "stat_state": true
     },
     {
-      "Ultimates Earned - Fractional": true
+      "stat_name": "Ultimates Earned - Fractional",
+      "stat_state": true
     },
     {
-      "Time Elapsed per Ultimate Earned": false
+      "stat_name": "Time Elapsed per Ultimate Earned",
+      "stat_state": false
     },
     {
-      "Damage - Chain Hook": true
+      "stat_name": "Damage - Chain Hook",
+      "stat_state": true
     },
     {
-      "All Damage Done": true
+      "stat_name": "All Damage Done",
+      "stat_state": true
     },
     {
-      "Damage - Weapon Primary": true
+      "stat_name": "Damage - Weapon Primary",
+      "stat_state": true
     },
     {
-      "Enemies Hooked": true
+      "stat_name": "Enemies Hooked",
+      "stat_state": true
     },
     {
-      "Average Time Alive": false
+      "stat_name": "Average Time Alive",
+      "stat_state": false
     },
     {
-      "Assists": true
+      "stat_name": "Assists",
+      "stat_state": true
     },
     {
-      "Offensive Assists": true
+      "stat_name": "Offensive Assists",
+      "stat_state": true
     },
     {
-      "Quick Melee Hits": true
+      "stat_name": "Quick Melee Hits",
+      "stat_state": true
     },
     {
-      "Quick Melee Ticks": true
+      "stat_name": "Quick Melee Ticks",
+      "stat_state": true
     },
     {
-      "Eliminations": true
+      "stat_name": "Eliminations",
+      "stat_state": true
     },
     {
-      "Hook Accuracy": false
+      "stat_name": "Hook Accuracy",
+      "stat_state": false
     },
     {
-      "Hooks Attempted": true
+      "stat_name": "Hooks Attempted",
+      "stat_state": true
     },
     {
-      "Shots Hit": true
+      "stat_name": "Shots Hit",
+      "stat_state": true
     },
     {
-      "Hero Damage Done": true
+      "stat_name": "Hero Damage Done",
+      "stat_state": true
     },
     {
-      "Damage - Quick Melee": true
+      "stat_name": "Damage - Quick Melee",
+      "stat_state": true
     },
     {
-      "Damage Taken": true
+      "stat_name": "Damage Taken",
+      "stat_state": true
     },
     {
-      "Quick Melee Accuracy": false
+      "stat_name": "Quick Melee Accuracy",
+      "stat_state": false
     },
     {
-      "Weapon Accuracy": false
+      "stat_name": "Weapon Accuracy",
+      "stat_state": false
     },
     {
-      "Healing Received": true
+      "stat_name": "Healing Received",
+      "stat_state": true
     }
   ],
   "Mercy": [
     {
-      "Healing Done": true
+      "stat_name": "Healing Done",
+      "stat_state": true
     },
     {
-      "Time Alive": false
+      "stat_name": "Time Alive",
+      "stat_state": false
     },
     {
-      "Time Elapsed per Ultimate Earned": false
+      "stat_name": "Time Elapsed per Ultimate Earned",
+      "stat_state": false
     },
     {
-      "Ultimates Earned - Fractional": true
+      "stat_name": "Ultimates Earned - Fractional",
+      "stat_state": true
     },
     {
-      "Damage Taken": true
+      "stat_name": "Damage Taken",
+      "stat_state": true
     },
     {
-      "Offensive Assists": true
+      "stat_name": "Offensive Assists",
+      "stat_state": true
     },
     {
-      "Damage Amplified": true
+      "stat_name": "Damage Amplified",
+      "stat_state": true
     },
     {
-      "Time Played": false
+      "stat_name": "Time Played",
+      "stat_state": false
     },
     {
-      "Time Building Ultimate": false
+      "stat_name": "Time Building Ultimate",
+      "stat_state": false
     },
     {
-      "Defensive Assists": true
+      "stat_name": "Defensive Assists",
+      "stat_state": true
     },
     {
-      "Objective Time": false
+      "stat_name": "Objective Time",
+      "stat_state": false
     },
     {
-      "Deaths": true
+      "stat_name": "Deaths",
+      "stat_state": true
     },
     {
-      "Healing - Weapon": true
+      "stat_name": "Healing - Weapon",
+      "stat_state": true
     },
     {
-      "Players Resurrected": true
+      "stat_name": "Players Resurrected",
+      "stat_state": true
     },
     {
-      "Self Healing": true
+      "stat_name": "Self Healing",
+      "stat_state": true
     },
     {
-      "Average Time Alive": false
+      "stat_name": "Average Time Alive",
+      "stat_state": false
     },
     {
-      "Healing Received": true
+      "stat_name": "Healing Received",
+      "stat_state": true
     },
     {
-      "Self Healing Percent of Damage Taken": true
+      "stat_name": "Self Healing Percent of Damage Taken",
+      "stat_state": true
     },
     {
-      "Eliminations per Life": true
+      "stat_name": "Eliminations per Life",
+      "stat_state": true
     },
     {
-      "Objective Kills": true
+      "stat_name": "Objective Kills",
+      "stat_state": true
     },
     {
-      "Players Saved": true
+      "stat_name": "Players Saved",
+      "stat_state": true
     },
     {
-      "Healing - Weapon Valkyrie": true
+      "stat_name": "Healing - Weapon Valkyrie",
+      "stat_state": true
     },
     {
-      "Quick Melee Accuracy": false
+      "stat_name": "Quick Melee Accuracy",
+      "stat_state": false
     },
     {
-      "Quick Melee Ticks": true
+      "stat_name": "Quick Melee Ticks",
+      "stat_state": true
     },
     {
-      "Time Holding Ultimate": false
+      "stat_name": "Time Holding Ultimate",
+      "stat_state": false
     },
     {
-      "Ultimates Used": true
+      "stat_name": "Ultimates Used",
+      "stat_state": true
     },
     {
-      "All Damage Done": true
+      "stat_name": "All Damage Done",
+      "stat_state": true
     },
     {
-      "Eliminations": true
+      "stat_name": "Eliminations",
+      "stat_state": true
     },
     {
-      "Hero Damage Done": true
+      "stat_name": "Hero Damage Done",
+      "stat_state": true
     },
     {
-      "Quick Melee Hits": true
+      "stat_name": "Quick Melee Hits",
+      "stat_state": true
     },
     {
-      "Assists": true
+      "stat_name": "Assists",
+      "stat_state": true
     },
     {
-      "Valkyrie Healing Efficiency": false
+      "stat_name": "Valkyrie Healing Efficiency",
+      "stat_state": false
     },
     {
-      "Damage - Quick Melee": true
+      "stat_name": "Damage - Quick Melee",
+      "stat_state": true
     },
     {
-      "Shots Hit": true
+      "stat_name": "Shots Hit",
+      "stat_state": true
     },
     {
-      "Shots Fired": true
+      "stat_name": "Shots Fired",
+      "stat_state": true
     },
     {
-      "Damage - Weapon Pistol": true
+      "stat_name": "Damage - Weapon Pistol",
+      "stat_state": true
     },
     {
-      "Critical Hit Accuracy": false
+      "stat_name": "Critical Hit Accuracy",
+      "stat_state": false
     },
     {
-      "Shots Missed": true
+      "stat_name": "Shots Missed",
+      "stat_state": true
     },
     {
-      "Weapon Accuracy": false
+      "stat_name": "Weapon Accuracy",
+      "stat_state": false
     },
     {
-      "Critical Hits": true
+      "stat_name": "Critical Hits",
+      "stat_state": true
     },
     {
-      "Barrier Damage Done": true
+      "stat_name": "Barrier Damage Done",
+      "stat_state": true
     },
     {
-      "Blaster Kills": true
+      "stat_name": "Blaster Kills",
+      "stat_state": true
     },
     {
-      "Time Hacked": false
+      "stat_name": "Time Hacked",
+      "stat_state": false
     },
     {
-      "Time Discorded": false
+      "stat_name": "Time Discorded",
+      "stat_state": false
     },
     {
-      "Environmental Deaths": true
+      "stat_name": "Environmental Deaths",
+      "stat_state": true
     }
   ],
   "Genji": [
     {
-      "Quick Melee Accuracy": false
+      "stat_name": "Quick Melee Accuracy",
+      "stat_state": false
     },
     {
-      "Time Played": false
+      "stat_name": "Time Played",
+      "stat_state": false
     },
     {
-      "Eliminations": true
+      "stat_name": "Eliminations",
+      "stat_state": true
     },
     {
-      "Ultimates Earned - Fractional": true
+      "stat_name": "Ultimates Earned - Fractional",
+      "stat_state": true
     },
     {
-      "Damage - Dragonblade": true
+      "stat_name": "Damage - Dragonblade",
+      "stat_state": true
     },
     {
-      "Damage - Quick Melee": true
+      "stat_name": "Damage - Quick Melee",
+      "stat_state": true
     },
     {
-      "Objective Kills": true
+      "stat_name": "Objective Kills",
+      "stat_state": true
     },
     {
-      "Quick Melee Ticks": true
+      "stat_name": "Quick Melee Ticks",
+      "stat_state": true
     },
     {
-      "Barrier Damage Done": true
+      "stat_name": "Barrier Damage Done",
+      "stat_state": true
     },
     {
-      "Damage - Swift Strike Dragonblade": true
+      "stat_name": "Damage - Swift Strike Dragonblade",
+      "stat_state": true
     },
     {
-      "Objective Time": false
+      "stat_name": "Objective Time",
+      "stat_state": false
     },
     {
-      "Final Blows": true
+      "stat_name": "Final Blows",
+      "stat_state": true
     },
     {
-      "Dragonblades": true
+      "stat_name": "Dragonblades",
+      "stat_state": true
     },
     {
-      "Assists": true
+      "stat_name": "Assists",
+      "stat_state": true
     },
     {
-      "Damage - Swift Strike": true
+      "stat_name": "Damage - Swift Strike",
+      "stat_state": true
     },
     {
-      "Dragonblade Efficiency": false
+      "stat_name": "Dragonblade Efficiency",
+      "stat_state": false
     },
     {
-      "Healing Received": true
+      "stat_name": "Healing Received",
+      "stat_state": true
     },
     {
-      "Multikills": true
+      "stat_name": "Multikills",
+      "stat_state": true
     },
     {
-      "Time Alive": false
+      "stat_name": "Time Alive",
+      "stat_state": false
     },
     {
-      "Critical Hits": true
+      "stat_name": "Critical Hits",
+      "stat_state": true
     },
     {
-      "Shots Hit": true
+      "stat_name": "Shots Hit",
+      "stat_state": true
     },
     {
-      "Weapon Accuracy": false
+      "stat_name": "Weapon Accuracy",
+      "stat_state": false
     },
     {
-      "Damage - Weapon Secondary": true
+      "stat_name": "Damage - Weapon Secondary",
+      "stat_state": true
     },
     {
-      "Ultimates Used": true
+      "stat_name": "Ultimates Used",
+      "stat_state": true
     },
     {
-      "Time Elapsed per Ultimate Earned": false
+      "stat_name": "Time Elapsed per Ultimate Earned",
+      "stat_state": false
     },
     {
-      "Dragonblade Kills": true
+      "stat_name": "Dragonblade Kills",
+      "stat_state": true
     },
     {
-      "Critical Hit Accuracy": false
+      "stat_name": "Critical Hit Accuracy",
+      "stat_state": false
     },
     {
-      "Damage Reflected": true
+      "stat_name": "Damage Reflected",
+      "stat_state": true
     },
     {
-      "Damage Taken": true
+      "stat_name": "Damage Taken",
+      "stat_state": true
     },
     {
-      "Damage - Deflect": true
+      "stat_name": "Damage - Deflect",
+      "stat_state": true
     },
     {
-      "Average Time Alive": false
+      "stat_name": "Average Time Alive",
+      "stat_state": false
     },
     {
-      "Melee Final Blows": true
+      "stat_name": "Melee Final Blows",
+      "stat_state": true
     },
     {
-      "Shots Fired": true
+      "stat_name": "Shots Fired",
+      "stat_state": true
     },
     {
-      "Time Holding Ultimate": false
+      "stat_name": "Time Holding Ultimate",
+      "stat_state": false
     },
     {
-      "Hero Damage Done": true
+      "stat_name": "Hero Damage Done",
+      "stat_state": true
     },
     {
-      "Shots Missed": true
+      "stat_name": "Shots Missed",
+      "stat_state": true
     },
     {
-      "All Damage Done": true
+      "stat_name": "All Damage Done",
+      "stat_state": true
     },
     {
-      "Damage - Dragonblade Total": true
+      "stat_name": "Damage - Dragonblade Total",
+      "stat_state": true
     },
     {
-      "Damage - Weapon Primary": true
+      "stat_name": "Damage - Weapon Primary",
+      "stat_state": true
     },
     {
-      "Quick Melee Hits": true
+      "stat_name": "Quick Melee Hits",
+      "stat_state": true
     },
     {
-      "Time Building Ultimate": false
+      "stat_name": "Time Building Ultimate",
+      "stat_state": false
     },
     {
-      "Deflection Kills": true
+      "stat_name": "Deflection Kills",
+      "stat_state": true
     },
     {
-      "Deaths": true
+      "stat_name": "Deaths",
+      "stat_state": true
     },
     {
-      "Eliminations per Life": true
+      "stat_name": "Eliminations per Life",
+      "stat_state": true
     },
     {
-      "Critical Hit Kills": true
+      "stat_name": "Critical Hit Kills",
+      "stat_state": true
     },
     {
-      "Solo Kills": true
+      "stat_name": "Solo Kills",
+      "stat_state": true
     },
     {
-      "Turrets Destroyed": true
+      "stat_name": "Turrets Destroyed",
+      "stat_state": true
     }
   ],
   "Bastion": [
     {
-      "Shots Fired": true
+      "stat_name": "Shots Fired",
+      "stat_state": true
     },
     {
-      "Time Played": false
+      "stat_name": "Time Played",
+      "stat_state": false
     },
     {
-      "Shots Missed": true
+      "stat_name": "Shots Missed",
+      "stat_state": true
     },
     {
-      "Time Elapsed per Ultimate Earned": false
+      "stat_name": "Time Elapsed per Ultimate Earned",
+      "stat_state": false
     },
     {
-      "Barrier Damage Done": true
+      "stat_name": "Barrier Damage Done",
+      "stat_state": true
     },
     {
-      "Time Alive": false
+      "stat_name": "Time Alive",
+      "stat_state": false
     },
     {
-      "Ultimates Earned - Fractional": true
+      "stat_name": "Ultimates Earned - Fractional",
+      "stat_state": true
     },
     {
-      "All Damage Done": true
+      "stat_name": "All Damage Done",
+      "stat_state": true
     },
     {
-      "Time Building Ultimate": false
+      "stat_name": "Time Building Ultimate",
+      "stat_state": false
     },
     {
-      "Weapon Accuracy": false
+      "stat_name": "Weapon Accuracy",
+      "stat_state": false
     },
     {
-      "Damage Taken": true
+      "stat_name": "Damage Taken",
+      "stat_state": true
     },
     {
-      "Quick Melee Ticks": true
+      "stat_name": "Quick Melee Ticks",
+      "stat_state": true
     },
     {
-      "Hero Damage Done": true
+      "stat_name": "Hero Damage Done",
+      "stat_state": true
     },
     {
-      "Healing Received": true
+      "stat_name": "Healing Received",
+      "stat_state": true
     },
     {
-      "Damage - Weapon Recon": true
+      "stat_name": "Damage - Weapon Recon",
+      "stat_state": true
     },
     {
-      "Damage - Weapon Sentry": true
+      "stat_name": "Damage - Weapon Sentry",
+      "stat_state": true
     },
     {
-      "Shots Hit": true
+      "stat_name": "Shots Hit",
+      "stat_state": true
     }
   ],
   "Brigitte": [
     {
-      "Healing - Inspire": true
+      "stat_name": "Healing - Inspire",
+      "stat_state": true
     },
     {
-      "Knockback Kills": true
+      "stat_name": "Knockback Kills",
+      "stat_state": true
     },
     {
-      "Healing - Repair Pack": true
+      "stat_name": "Healing - Repair Pack",
+      "stat_state": true
     },
     {
-      "Eliminations per Life": true
+      "stat_name": "Eliminations per Life",
+      "stat_state": true
     },
     {
-      "Eliminations": true
+      "stat_name": "Eliminations",
+      "stat_state": true
     },
     {
-      "Rally Armor Efficiency": false
+      "stat_name": "Rally Armor Efficiency",
+      "stat_state": false
     },
     {
-      "Time Building Ultimate": false
+      "stat_name": "Time Building Ultimate",
+      "stat_state": false
     },
     {
-      "All Damage Done": true
+      "stat_name": "All Damage Done",
+      "stat_state": true
     },
     {
-      "Hero Damage Done": true
+      "stat_name": "Hero Damage Done",
+      "stat_state": true
     },
     {
-      "Damage Blocked": true
+      "stat_name": "Damage Blocked",
+      "stat_state": true
     },
     {
-      "Damage Taken": true
+      "stat_name": "Damage Taken",
+      "stat_state": true
     },
     {
-      "Self Healing Percent of Damage Taken": true
+      "stat_name": "Self Healing Percent of Damage Taken",
+      "stat_state": true
     },
     {
-      "Ultimates Used": true
+      "stat_name": "Ultimates Used",
+      "stat_state": true
     },
     {
-      "Armor Provided": true
+      "stat_name": "Armor Provided",
+      "stat_state": true
     },
     {
-      "Armor - Repair Pack": true
+      "stat_name": "Armor - Repair Pack",
+      "stat_state": true
     },
     {
-      "Damage - Weapon": true
+      "stat_name": "Damage - Weapon",
+      "stat_state": true
     },
     {
-      "Ultimates Earned - Fractional": true
+      "stat_name": "Ultimates Earned - Fractional",
+      "stat_state": true
     },
     {
-      "Time Elapsed per Ultimate Earned": false
+      "stat_name": "Time Elapsed per Ultimate Earned",
+      "stat_state": false
     },
     {
-      "Objective Kills": true
+      "stat_name": "Objective Kills",
+      "stat_state": true
     },
     {
-      "Time Alive": false
+      "stat_name": "Time Alive",
+      "stat_state": false
     },
     {
-      "Inspire Uptime": true
+      "stat_name": "Inspire Uptime",
+      "stat_state": true
     },
     {
-      "Healing Received": true
+      "stat_name": "Healing Received",
+      "stat_state": true
     },
     {
-      "Objective Time": false
+      "stat_name": "Objective Time",
+      "stat_state": false
     },
     {
-      "Self Healing": true
+      "stat_name": "Self Healing",
+      "stat_state": true
     },
     {
-      "Armor - Rally": true
+      "stat_name": "Armor - Rally",
+      "stat_state": true
     },
     {
-      "Barrier Damage Done": true
+      "stat_name": "Barrier Damage Done",
+      "stat_state": true
     },
     {
-      "Average Time Alive": false
+      "stat_name": "Average Time Alive",
+      "stat_state": false
     },
     {
-      "Damage - Shield Bash": true
+      "stat_name": "Damage - Shield Bash",
+      "stat_state": true
     },
     {
-      "Defensive Assists": true
+      "stat_name": "Defensive Assists",
+      "stat_state": true
     },
     {
-      "Healing Done": true
+      "stat_name": "Healing Done",
+      "stat_state": true
     },
     {
-      "Deaths": true
+      "stat_name": "Deaths",
+      "stat_state": true
     },
     {
-      "Environmental Deaths": true
+      "stat_name": "Environmental Deaths",
+      "stat_state": true
     },
     {
-      "Time Holding Ultimate": false
+      "stat_name": "Time Holding Ultimate",
+      "stat_state": false
     },
     {
-      "Inspire Uptime Percentage": false
+      "stat_name": "Inspire Uptime Percentage",
+      "stat_state": false
     },
     {
-      "Assists": true
+      "stat_name": "Assists",
+      "stat_state": true
     },
     {
-      "Time Played": false
+      "stat_name": "Time Played",
+      "stat_state": false
     },
     {
-      "Offensive Assists": true
+      "stat_name": "Offensive Assists",
+      "stat_state": true
     },
     {
-      "Final Blows": true
+      "stat_name": "Final Blows",
+      "stat_state": true
     },
     {
-      "Solo Kills": true
+      "stat_name": "Solo Kills",
+      "stat_state": true
     },
     {
-      "Time Hacked": false
+      "stat_name": "Time Hacked",
+      "stat_state": false
     },
     {
-      "Environmental Kills": true
+      "stat_name": "Environmental Kills",
+      "stat_state": true
     },
     {
-      "Teleporter Pads Destroyed": true
+      "stat_name": "Teleporter Pads Destroyed",
+      "stat_state": true
     },
     {
-      "Turrets Destroyed": true
+      "stat_name": "Turrets Destroyed",
+      "stat_state": true
     },
     {
-      "Multikills": true
+      "stat_name": "Multikills",
+      "stat_state": true
     },
     {
-      "Time Discorded": false
+      "stat_name": "Time Discorded",
+      "stat_state": false
     }
   ],
   "Pharah": [
     {
-      "Weapon Accuracy": false
+      "stat_name": "Weapon Accuracy",
+      "stat_state": false
     },
     {
-      "Hero Damage Done": true
+      "stat_name": "Hero Damage Done",
+      "stat_state": true
     },
     {
-      "Damage Taken": true
+      "stat_name": "Damage Taken",
+      "stat_state": true
     },
     {
-      "Time Elapsed per Ultimate Earned": false
+      "stat_name": "Time Elapsed per Ultimate Earned",
+      "stat_state": false
     },
     {
-      "Time Alive": false
+      "stat_name": "Time Alive",
+      "stat_state": false
     },
     {
-      "Deaths": true
+      "stat_name": "Deaths",
+      "stat_state": true
     },
     {
-      "Average Time Alive": false
+      "stat_name": "Average Time Alive",
+      "stat_state": false
     },
     {
-      "Ultimates Earned - Fractional": true
+      "stat_name": "Ultimates Earned - Fractional",
+      "stat_state": true
     },
     {
-      "Healing Received": true
+      "stat_name": "Healing Received",
+      "stat_state": true
     },
     {
-      "Direct Hit Accuracy": false
+      "stat_name": "Direct Hit Accuracy",
+      "stat_state": false
     },
     {
-      "Shots Fired": true
+      "stat_name": "Shots Fired",
+      "stat_state": true
     },
     {
-      "Time Played": false
+      "stat_name": "Time Played",
+      "stat_state": false
     },
     {
-      "Rocket Direct Hits": true
+      "stat_name": "Rocket Direct Hits",
+      "stat_state": true
     },
     {
-      "Shots Missed": true
+      "stat_name": "Shots Missed",
+      "stat_state": true
     },
     {
-      "Damage - Weapon": true
+      "stat_name": "Damage - Weapon",
+      "stat_state": true
     },
     {
-      "Time Building Ultimate": false
+      "stat_name": "Time Building Ultimate",
+      "stat_state": false
     },
     {
-      "of Rockets Fired": true
+      "stat_name": "of Rockets Fired",
+      "stat_state": true
     },
     {
-      "Quick Melee Ticks": true
+      "stat_name": "Quick Melee Ticks",
+      "stat_state": true
     },
     {
-      "All Damage Done": true
+      "stat_name": "All Damage Done",
+      "stat_state": true
     },
     {
-      "Shots Hit": true
+      "stat_name": "Shots Hit",
+      "stat_state": true
     },
     {
-      "Time Holding Ultimate": false
+      "stat_name": "Time Holding Ultimate",
+      "stat_state": false
     },
     {
-      "Ultimates Used": true
+      "stat_name": "Ultimates Used",
+      "stat_state": true
     },
     {
-      "Eliminations per Life": true
+      "stat_name": "Eliminations per Life",
+      "stat_state": true
     },
     {
-      "Final Blows": true
+      "stat_name": "Final Blows",
+      "stat_state": true
     },
     {
-      "Damage - Barrage": true
+      "stat_name": "Damage - Barrage",
+      "stat_state": true
     },
     {
-      "Barrier Damage Done": true
+      "stat_name": "Barrier Damage Done",
+      "stat_state": true
     },
     {
-      "Eliminations": true
+      "stat_name": "Eliminations",
+      "stat_state": true
     },
     {
-      "Rocket Barrages": true
+      "stat_name": "Rocket Barrages",
+      "stat_state": true
     },
     {
-      "Objective Time": false
+      "stat_name": "Objective Time",
+      "stat_state": false
     },
     {
-      "Objective Kills": true
+      "stat_name": "Objective Kills",
+      "stat_state": true
     },
     {
-      "Damage - Quick Melee": true
+      "stat_name": "Damage - Quick Melee",
+      "stat_state": true
     },
     {
-      "Assists": true
+      "stat_name": "Assists",
+      "stat_state": true
     },
     {
-      "Barrage Kills": true
+      "stat_name": "Barrage Kills",
+      "stat_state": true
     },
     {
-      "Knockback Kills": true
+      "stat_name": "Knockback Kills",
+      "stat_state": true
     },
     {
-      "Quick Melee Hits": true
+      "stat_name": "Quick Melee Hits",
+      "stat_state": true
     },
     {
-      "Barrage Efficiency": false
+      "stat_name": "Barrage Efficiency",
+      "stat_state": false
     },
     {
-      "Melee Final Blows": true
+      "stat_name": "Melee Final Blows",
+      "stat_state": true
     },
     {
-      "Time Hacked": false
+      "stat_name": "Time Hacked",
+      "stat_state": false
     },
     {
-      "Quick Melee Accuracy": false
+      "stat_name": "Quick Melee Accuracy",
+      "stat_state": false
     },
     {
-      "Solo Kills": true
+      "stat_name": "Solo Kills",
+      "stat_state": true
     },
     {
-      "Multikills": true
+      "stat_name": "Multikills",
+      "stat_state": true
     },
     {
-      "Environmental Kills": true
+      "stat_name": "Environmental Kills",
+      "stat_state": true
     },
     {
-      "Turrets Destroyed": true
+      "stat_name": "Turrets Destroyed",
+      "stat_state": true
     },
     {
-      "Time Discorded": false
+      "stat_name": "Time Discorded",
+      "stat_state": false
     }
   ],
   "Sigma": [
     {
-      "Environmental Deaths": true
+      "stat_name": "Environmental Deaths",
+      "stat_state": true
     },
     {
-      "Objective Time": false
+      "stat_name": "Objective Time",
+      "stat_state": false
     },
     {
-      "Gravitic Flux Kills": true
+      "stat_name": "Gravitic Flux Kills",
+      "stat_state": true
     },
     {
-      "Eliminations per Life": true
+      "stat_name": "Eliminations per Life",
+      "stat_state": true
     },
     {
-      "Time Holding Ultimate": false
+      "stat_name": "Time Holding Ultimate",
+      "stat_state": false
     },
     {
-      "Eliminations": true
+      "stat_name": "Eliminations",
+      "stat_state": true
     },
     {
-      "Hero Damage Done": true
+      "stat_name": "Hero Damage Done",
+      "stat_state": true
     },
     {
-      "Time Building Ultimate": false
+      "stat_name": "Time Building Ultimate",
+      "stat_state": false
     },
     {
-      "Quick Melee Accuracy": false
+      "stat_name": "Quick Melee Accuracy",
+      "stat_state": false
     },
     {
-      "Assists": true
+      "stat_name": "Assists",
+      "stat_state": true
     },
     {
-      "Ultimates Earned - Fractional": true
+      "stat_name": "Ultimates Earned - Fractional",
+      "stat_state": true
     },
     {
-      "Damage - Hyperspheres": true
+      "stat_name": "Damage - Hyperspheres",
+      "stat_state": true
     },
     {
-      "Accretion Kills": true
+      "stat_name": "Accretion Kills",
+      "stat_state": true
     },
     {
-      "Time Elapsed per Ultimate Earned": false
+      "stat_name": "Time Elapsed per Ultimate Earned",
+      "stat_state": false
     },
     {
-      "Damage - Accretion": true
+      "stat_name": "Damage - Accretion",
+      "stat_state": true
     },
     {
-      "Final Blows": true
+      "stat_name": "Final Blows",
+      "stat_state": true
     },
     {
-      "Time Alive": false
+      "stat_name": "Time Alive",
+      "stat_state": false
     },
     {
-      "Healing Received": true
+      "stat_name": "Healing Received",
+      "stat_state": true
     },
     {
-      "Quick Melee Ticks": true
+      "stat_name": "Quick Melee Ticks",
+      "stat_state": true
     },
     {
-      "Damage Taken": true
+      "stat_name": "Damage Taken",
+      "stat_state": true
     },
     {
-      "Ultimates Used": true
+      "stat_name": "Ultimates Used",
+      "stat_state": true
     },
     {
-      "Quick Melee Hits": true
+      "stat_name": "Quick Melee Hits",
+      "stat_state": true
     },
     {
-      "All Damage Done": true
+      "stat_name": "All Damage Done",
+      "stat_state": true
     },
     {
-      "Multikills": true
+      "stat_name": "Multikills",
+      "stat_state": true
     },
     {
-      "Barrier Damage Done": true
+      "stat_name": "Barrier Damage Done",
+      "stat_state": true
     },
     {
-      "Gravitic Flux Damage Done": true
+      "stat_name": "Gravitic Flux Damage Done",
+      "stat_state": true
     },
     {
-      "Time Played": false
+      "stat_name": "Time Played",
+      "stat_state": false
     },
     {
-      "Hyperspheres Direct Hits": true
+      "stat_name": "Hyperspheres Direct Hits",
+      "stat_state": true
     },
     {
-      "Objective Kills": true
+      "stat_name": "Objective Kills",
+      "stat_state": true
     },
     {
-      "Average Time Alive": false
+      "stat_name": "Average Time Alive",
+      "stat_state": false
     },
     {
-      "Accretion Stuns": true
+      "stat_name": "Accretion Stuns",
+      "stat_state": true
     },
     {
-      "Deaths": true
+      "stat_name": "Deaths",
+      "stat_state": true
     },
     {
-      "Damage Blocked": true
+      "stat_name": "Damage Blocked",
+      "stat_state": true
     },
     {
-      "Damage Absorbed": true
+      "stat_name": "Damage Absorbed",
+      "stat_state": true
     },
     {
-      "Damage - Quick Melee": true
+      "stat_name": "Damage - Quick Melee",
+      "stat_state": true
     },
     {
-      "Melee Final Blows": true
+      "stat_name": "Melee Final Blows",
+      "stat_state": true
     },
     {
-      "Time Discorded": false
+      "stat_name": "Time Discorded",
+      "stat_state": false
     },
     {
-      "Time Hacked": false
+      "stat_name": "Time Hacked",
+      "stat_state": false
     },
     {
-      "Solo Kills": true
+      "stat_name": "Solo Kills",
+      "stat_state": true
     }
   ],
   "Soldier: 76": [
     {
-      "Damage - Weapon": true
+      "stat_name": "Damage - Weapon",
+      "stat_state": true
     },
     {
-      "Healing Received": true
+      "stat_name": "Healing Received",
+      "stat_state": true
     },
     {
-      "Time Alive": false
+      "stat_name": "Time Alive",
+      "stat_state": false
     },
     {
-      "Shots Missed": true
+      "stat_name": "Shots Missed",
+      "stat_state": true
     },
     {
-      "Self Healing": true
+      "stat_name": "Self Healing",
+      "stat_state": true
     },
     {
-      "Damage Taken": true
+      "stat_name": "Damage Taken",
+      "stat_state": true
     },
     {
-      "Ultimates Earned - Fractional": true
+      "stat_name": "Ultimates Earned - Fractional",
+      "stat_state": true
     },
     {
-      "Biotic Fields Deployed": true
+      "stat_name": "Biotic Fields Deployed",
+      "stat_state": true
     },
     {
-      "Shots Fired": true
+      "stat_name": "Shots Fired",
+      "stat_state": true
     },
     {
-      "Critical Hit Accuracy": false
+      "stat_name": "Critical Hit Accuracy",
+      "stat_state": false
     },
     {
-      "Healing Done": true
+      "stat_name": "Healing Done",
+      "stat_state": true
     },
     {
-      "Hero Damage Done": true
+      "stat_name": "Hero Damage Done",
+      "stat_state": true
     },
     {
-      "Barrier Damage Done": true
+      "stat_name": "Barrier Damage Done",
+      "stat_state": true
     },
     {
-      "Critical Hits": true
+      "stat_name": "Critical Hits",
+      "stat_state": true
     },
     {
-      "Weapon Accuracy": false
+      "stat_name": "Weapon Accuracy",
+      "stat_state": false
     },
     {
-      "Time Played": false
+      "stat_name": "Time Played",
+      "stat_state": false
     },
     {
-      "Biotic Field Healing Done": true
+      "stat_name": "Biotic Field Healing Done",
+      "stat_state": true
     },
     {
-      "All Damage Done": true
+      "stat_name": "All Damage Done",
+      "stat_state": true
     },
     {
-      "Self Healing Percent of Damage Taken": true
+      "stat_name": "Self Healing Percent of Damage Taken",
+      "stat_state": true
     },
     {
-      "Time Building Ultimate": false
+      "stat_name": "Time Building Ultimate",
+      "stat_state": false
     },
     {
-      "Shots Hit": true
+      "stat_name": "Shots Hit",
+      "stat_state": true
     },
     {
-      "Average Time Alive": false
+      "stat_name": "Average Time Alive",
+      "stat_state": false
     },
     {
-      "Damage - Helix Rockets": true
+      "stat_name": "Damage - Helix Rockets",
+      "stat_state": true
     },
     {
-      "Time Elapsed per Ultimate Earned": false
+      "stat_name": "Time Elapsed per Ultimate Earned",
+      "stat_state": false
     },
     {
-      "Deaths": true
+      "stat_name": "Deaths",
+      "stat_state": true
     },
     {
-      "Objective Time": false
+      "stat_name": "Objective Time",
+      "stat_state": false
     },
     {
-      "Eliminations": true
+      "stat_name": "Eliminations",
+      "stat_state": true
     },
     {
-      "Eliminations per Life": true
+      "stat_name": "Eliminations per Life",
+      "stat_state": true
     },
     {
-      "Assists": true
+      "stat_name": "Assists",
+      "stat_state": true
     },
     {
-      "Final Blows": true
+      "stat_name": "Final Blows",
+      "stat_state": true
     },
     {
-      "Quick Melee Accuracy": false
+      "stat_name": "Quick Melee Accuracy",
+      "stat_state": false
     },
     {
-      "Damage - Quick Melee": true
+      "stat_name": "Damage - Quick Melee",
+      "stat_state": true
     },
     {
-      "Helix Rocket Kills": true
+      "stat_name": "Helix Rocket Kills",
+      "stat_state": true
     },
     {
-      "Quick Melee Hits": true
+      "stat_name": "Quick Melee Hits",
+      "stat_state": true
     },
     {
-      "Quick Melee Ticks": true
+      "stat_name": "Quick Melee Ticks",
+      "stat_state": true
     },
     {
-      "Melee Final Blows": true
+      "stat_name": "Melee Final Blows",
+      "stat_state": true
     },
     {
-      "Ultimates Used": true
+      "stat_name": "Ultimates Used",
+      "stat_state": true
     },
     {
-      "Objective Kills": true
+      "stat_name": "Objective Kills",
+      "stat_state": true
     },
     {
-      "Tactical Visor Kills": true
+      "stat_name": "Tactical Visor Kills",
+      "stat_state": true
     },
     {
-      "Damage - Tactical Visor": true
+      "stat_name": "Damage - Tactical Visor",
+      "stat_state": true
     },
     {
-      "Defensive Assists": true
+      "stat_name": "Defensive Assists",
+      "stat_state": true
     },
     {
-      "Tactical Visors": true
+      "stat_name": "Tactical Visors",
+      "stat_state": true
     },
     {
-      "Time Holding Ultimate": false
+      "stat_name": "Time Holding Ultimate",
+      "stat_state": false
     },
     {
-      "Time Discorded": false
+      "stat_name": "Time Discorded",
+      "stat_state": false
     },
     {
-      "Tactical Visor Efficiency": false
+      "stat_name": "Tactical Visor Efficiency",
+      "stat_state": false
     },
     {
-      "Critical Hit Kills": true
+      "stat_name": "Critical Hit Kills",
+      "stat_state": true
     },
     {
-      "Multikills": true
+      "stat_name": "Multikills",
+      "stat_state": true
     },
     {
-      "Time Hacked": false
+      "stat_name": "Time Hacked",
+      "stat_state": false
     },
     {
-      "Solo Kills": true
+      "stat_name": "Solo Kills",
+      "stat_state": true
     },
     {
-      "Environmental Deaths": true
+      "stat_name": "Environmental Deaths",
+      "stat_state": true
     },
     {
-      "Turrets Destroyed": true
+      "stat_name": "Turrets Destroyed",
+      "stat_state": true
     }
   ],
   "Junkrat": [
     {
-      "Shots Missed": true
+      "stat_name": "Shots Missed",
+      "stat_state": true
     },
     {
-      "Time Played": false
+      "stat_name": "Time Played",
+      "stat_state": false
     },
     {
-      "Knockback Kills": true
+      "stat_name": "Knockback Kills",
+      "stat_state": true
     },
     {
-      "Solo Kills": true
+      "stat_name": "Solo Kills",
+      "stat_state": true
     },
     {
-      "Damage - RIP-Tire": true
+      "stat_name": "Damage - RIP-Tire",
+      "stat_state": true
     },
     {
-      "Eliminations": true
+      "stat_name": "Eliminations",
+      "stat_state": true
     },
     {
-      "Barrier Damage Done": true
+      "stat_name": "Barrier Damage Done",
+      "stat_state": true
     },
     {
-      "RIP-Tire Efficiency": false
+      "stat_name": "RIP-Tire Efficiency",
+      "stat_state": false
     },
     {
-      "Final Blows": true
+      "stat_name": "Final Blows",
+      "stat_state": true
     },
     {
-      "Healing Received": true
+      "stat_name": "Healing Received",
+      "stat_state": true
     },
     {
-      "All Damage Done": true
+      "stat_name": "All Damage Done",
+      "stat_state": true
     },
     {
-      "Turrets Destroyed": true
+      "stat_name": "Turrets Destroyed",
+      "stat_state": true
     },
     {
-      "Frag Launcher Direct Hits": true
+      "stat_name": "Frag Launcher Direct Hits",
+      "stat_state": true
     },
     {
-      "Damage - Weapon": true
+      "stat_name": "Damage - Weapon",
+      "stat_state": true
     },
     {
-      "Damage - Steel Trap": true
+      "stat_name": "Damage - Steel Trap",
+      "stat_state": true
     },
     {
-      "Shots Hit": true
+      "stat_name": "Shots Hit",
+      "stat_state": true
     },
     {
-      "RIP-Tire Kills": true
+      "stat_name": "RIP-Tire Kills",
+      "stat_state": true
     },
     {
-      "Objective Kills": true
+      "stat_name": "Objective Kills",
+      "stat_state": true
     },
     {
-      "Time Hacked": false
+      "stat_name": "Time Hacked",
+      "stat_state": false
     },
     {
-      "Ultimates Used": true
+      "stat_name": "Ultimates Used",
+      "stat_state": true
     },
     {
-      "Offensive Assists": true
+      "stat_name": "Offensive Assists",
+      "stat_state": true
     },
     {
-      "Assists": true
+      "stat_name": "Assists",
+      "stat_state": true
     },
     {
-      "Time Building Ultimate": false
+      "stat_name": "Time Building Ultimate",
+      "stat_state": false
     },
     {
-      "Objective Time": false
+      "stat_name": "Objective Time",
+      "stat_state": false
     },
     {
-      "Enemies Trapped": true
+      "stat_name": "Enemies Trapped",
+      "stat_state": true
     },
     {
-      "Ultimates Earned - Fractional": true
+      "stat_name": "Ultimates Earned - Fractional",
+      "stat_state": true
     },
     {
-      "Time Holding Ultimate": false
+      "stat_name": "Time Holding Ultimate",
+      "stat_state": false
     },
     {
-      "Eliminations per Life": true
+      "stat_name": "Eliminations per Life",
+      "stat_state": true
     },
     {
-      "Deaths": true
+      "stat_name": "Deaths",
+      "stat_state": true
     },
     {
-      "Damage Taken": true
+      "stat_name": "Damage Taken",
+      "stat_state": true
     },
     {
-      "Average Time Alive": false
+      "stat_name": "Average Time Alive",
+      "stat_state": false
     },
     {
-      "Time Elapsed per Ultimate Earned": false
+      "stat_name": "Time Elapsed per Ultimate Earned",
+      "stat_state": false
     },
     {
-      "Hero Damage Done": true
+      "stat_name": "Hero Damage Done",
+      "stat_state": true
     },
     {
-      "Concussion Mine Kills": true
+      "stat_name": "Concussion Mine Kills",
+      "stat_state": true
     },
     {
-      "Quick Melee Ticks": true
+      "stat_name": "Quick Melee Ticks",
+      "stat_state": true
     },
     {
-      "Weapon Accuracy": false
+      "stat_name": "Weapon Accuracy",
+      "stat_state": false
     },
     {
-      "Time Alive": false
+      "stat_name": "Time Alive",
+      "stat_state": false
     },
     {
-      "Damage - Concussion Mine": true
+      "stat_name": "Damage - Concussion Mine",
+      "stat_state": true
     },
     {
-      "Shots Fired": true
+      "stat_name": "Shots Fired",
+      "stat_state": true
     },
     {
-      "Damage - Quick Melee": true
+      "stat_name": "Damage - Quick Melee",
+      "stat_state": true
     },
     {
-      "Quick Melee Accuracy": false
+      "stat_name": "Quick Melee Accuracy",
+      "stat_state": false
     },
     {
-      "Quick Melee Hits": true
+      "stat_name": "Quick Melee Hits",
+      "stat_state": true
     },
     {
-      "Time Discorded": false
+      "stat_name": "Time Discorded",
+      "stat_state": false
     }
   ],
   "Torbj\u00f6rn": [
     {
-      "Shots Fired": true
+      "stat_name": "Shots Fired",
+      "stat_state": true
     },
     {
-      "Time Played": false
+      "stat_name": "Time Played",
+      "stat_state": false
     },
     {
-      "Time Alive": false
+      "stat_name": "Time Alive",
+      "stat_state": false
     },
     {
-      "Ultimates Earned - Fractional": true
+      "stat_name": "Ultimates Earned - Fractional",
+      "stat_state": true
     },
     {
-      "Final Blows": true
+      "stat_name": "Final Blows",
+      "stat_state": true
     },
     {
-      "All Damage Done": true
+      "stat_name": "All Damage Done",
+      "stat_state": true
     },
     {
-      "Shots Hit": true
+      "stat_name": "Shots Hit",
+      "stat_state": true
     },
     {
-      "Damage - Weapon Hammer": true
+      "stat_name": "Damage - Weapon Hammer",
+      "stat_state": true
     },
     {
-      "Shots Missed": true
+      "stat_name": "Shots Missed",
+      "stat_state": true
     },
     {
-      "Barrier Damage Done": true
+      "stat_name": "Barrier Damage Done",
+      "stat_state": true
     },
     {
-      "Time Elapsed per Ultimate Earned": false
+      "stat_name": "Time Elapsed per Ultimate Earned",
+      "stat_state": false
     },
     {
-      "Eliminations": true
+      "stat_name": "Eliminations",
+      "stat_state": true
     },
     {
-      "Healing Received": true
+      "stat_name": "Healing Received",
+      "stat_state": true
     },
     {
-      "Weapon Accuracy": false
+      "stat_name": "Weapon Accuracy",
+      "stat_state": false
     },
     {
-      "Time Building Ultimate": false
+      "stat_name": "Time Building Ultimate",
+      "stat_state": false
     },
     {
-      "Average Time Alive": false
+      "stat_name": "Average Time Alive",
+      "stat_state": false
     },
     {
-      "Assists": true
+      "stat_name": "Assists",
+      "stat_state": true
     },
     {
-      "Turret Damage": true
+      "stat_name": "Turret Damage",
+      "stat_state": true
     },
     {
-      "Torbj\u00f6rn Kills": true
+      "stat_name": "Torbj\u00f6rn Kills",
+      "stat_state": true
     },
     {
-      "Damage - Weapon Secondary": true
+      "stat_name": "Damage - Weapon Secondary",
+      "stat_state": true
     },
     {
-      "Turret Kills": true
+      "stat_name": "Turret Kills",
+      "stat_state": true
     },
     {
-      "Overload Kills": true
+      "stat_name": "Overload Kills",
+      "stat_state": true
     },
     {
-      "Damage Taken": true
+      "stat_name": "Damage Taken",
+      "stat_state": true
     },
     {
-      "Hero Damage Done": true
+      "stat_name": "Hero Damage Done",
+      "stat_state": true
     },
     {
-      "Damage - Weapon Primary": true
+      "stat_name": "Damage - Weapon Primary",
+      "stat_state": true
     },
     {
-      "Quick Melee Hits": true
+      "stat_name": "Quick Melee Hits",
+      "stat_state": true
     },
     {
-      "Eliminations per Life": true
+      "stat_name": "Eliminations per Life",
+      "stat_state": true
     },
     {
-      "Quick Melee Accuracy": false
+      "stat_name": "Quick Melee Accuracy",
+      "stat_state": false
     },
     {
-      "Time Holding Ultimate": false
+      "stat_name": "Time Holding Ultimate",
+      "stat_state": false
     },
     {
-      "Quick Melee Ticks": true
+      "stat_name": "Quick Melee Ticks",
+      "stat_state": true
     },
     {
-      "Critical Hits": true
+      "stat_name": "Critical Hits",
+      "stat_state": true
     },
     {
-      "Damage - Quick Melee": true
+      "stat_name": "Damage - Quick Melee",
+      "stat_state": true
     },
     {
-      "Damage - Molten Core": true
+      "stat_name": "Damage - Molten Core",
+      "stat_state": true
     },
     {
-      "Deaths": true
+      "stat_name": "Deaths",
+      "stat_state": true
     },
     {
-      "Critical Hit Accuracy": false
+      "stat_name": "Critical Hit Accuracy",
+      "stat_state": false
     },
     {
-      "Ultimates Used": true
+      "stat_name": "Ultimates Used",
+      "stat_state": true
     },
     {
-      "Objective Time": false
+      "stat_name": "Objective Time",
+      "stat_state": false
     },
     {
-      "Molten Core Efficiency": false
+      "stat_name": "Molten Core Efficiency",
+      "stat_state": false
     },
     {
-      "Molten Core Kills": true
+      "stat_name": "Molten Core Kills",
+      "stat_state": true
     },
     {
-      "Objective Kills": true
+      "stat_name": "Objective Kills",
+      "stat_state": true
     },
     {
-      "Hammer Kills": true
+      "stat_name": "Hammer Kills",
+      "stat_state": true
     },
     {
-      "Turrets Destroyed": true
+      "stat_name": "Turrets Destroyed",
+      "stat_state": true
     },
     {
-      "Teleporter Pads Destroyed": true
+      "stat_name": "Teleporter Pads Destroyed",
+      "stat_state": true
     },
     {
-      "Time Hacked": false
+      "stat_name": "Time Hacked",
+      "stat_state": false
     },
     {
-      "Time Discorded": false
+      "stat_name": "Time Discorded",
+      "stat_state": false
     }
   ],
   "Ashe": [
     {
-      "Healing Received": true
+      "stat_name": "Healing Received",
+      "stat_state": true
     },
     {
-      "Time Building Ultimate": false
+      "stat_name": "Time Building Ultimate",
+      "stat_state": false
     },
     {
-      "Coach Gun Kills": true
+      "stat_name": "Coach Gun Kills",
+      "stat_state": true
     },
     {
-      "Barrier Damage Done": true
+      "stat_name": "Barrier Damage Done",
+      "stat_state": true
     },
     {
-      "Time Played": false
+      "stat_name": "Time Played",
+      "stat_state": false
     },
     {
-      "Dynamite Kills": true
+      "stat_name": "Dynamite Kills",
+      "stat_state": true
     },
     {
-      "Ultimates Earned - Fractional": true
+      "stat_name": "Ultimates Earned - Fractional",
+      "stat_state": true
     },
     {
-      "All Damage Done": true
+      "stat_name": "All Damage Done",
+      "stat_state": true
     },
     {
-      "Damage - Weapon": true
+      "stat_name": "Damage - Weapon",
+      "stat_state": true
     },
     {
-      "Damage - Dynamite": true
+      "stat_name": "Damage - Dynamite",
+      "stat_state": true
     },
     {
-      "Critical Hits": true
+      "stat_name": "Critical Hits",
+      "stat_state": true
     },
     {
-      "Knockback Kills": true
+      "stat_name": "Knockback Kills",
+      "stat_state": true
     },
     {
-      "Time Holding Ultimate": false
+      "stat_name": "Time Holding Ultimate",
+      "stat_state": false
     },
     {
-      "Damage - Weapon Scoped": true
+      "stat_name": "Damage - Weapon Scoped",
+      "stat_state": true
     },
     {
-      "Solo Kills": true
+      "stat_name": "Solo Kills",
+      "stat_state": true
     },
     {
-      "Time Alive": false
+      "stat_name": "Time Alive",
+      "stat_state": false
     },
     {
-      "Scoped Shots": true
+      "stat_name": "Scoped Shots",
+      "stat_state": true
     },
     {
-      "Players Knocked Back": true
+      "stat_name": "Players Knocked Back",
+      "stat_state": true
     },
     {
-      "Quick Melee Ticks": true
+      "stat_name": "Quick Melee Ticks",
+      "stat_state": true
     },
     {
-      "Deaths": true
+      "stat_name": "Deaths",
+      "stat_state": true
     },
     {
-      "Objective Kills": true
+      "stat_name": "Objective Kills",
+      "stat_state": true
     },
     {
-      "Eliminations": true
+      "stat_name": "Eliminations",
+      "stat_state": true
     },
     {
-      "Damage - Bob": true
+      "stat_name": "Damage - Bob",
+      "stat_state": true
     },
     {
-      "Assists": true
+      "stat_name": "Assists",
+      "stat_state": true
     },
     {
-      "Bob Gun Damage": true
+      "stat_name": "Bob Gun Damage",
+      "stat_state": true
     },
     {
-      "Critical Hit Accuracy": false
+      "stat_name": "Critical Hit Accuracy",
+      "stat_state": false
     },
     {
-      "Shots Hit": true
+      "stat_name": "Shots Hit",
+      "stat_state": true
     },
     {
-      "Scoped Critical Hits": true
+      "stat_name": "Scoped Critical Hits",
+      "stat_state": true
     },
     {
-      "Scoped Hits": true
+      "stat_name": "Scoped Hits",
+      "stat_state": true
     },
     {
-      "Damage Taken": true
+      "stat_name": "Damage Taken",
+      "stat_state": true
     },
     {
-      "Final Blows": true
+      "stat_name": "Final Blows",
+      "stat_state": true
     },
     {
-      "Damage - Coach Gun": true
+      "stat_name": "Damage - Coach Gun",
+      "stat_state": true
     },
     {
-      "Shots Fired": true
+      "stat_name": "Shots Fired",
+      "stat_state": true
     },
     {
-      "Weapon Accuracy": false
+      "stat_name": "Weapon Accuracy",
+      "stat_state": false
     },
     {
-      "Scoped Accuracy": false
+      "stat_name": "Scoped Accuracy",
+      "stat_state": false
     },
     {
-      "Time Elapsed per Ultimate Earned": false
+      "stat_name": "Time Elapsed per Ultimate Earned",
+      "stat_state": false
     },
     {
-      "Shots Missed": true
+      "stat_name": "Shots Missed",
+      "stat_state": true
     },
     {
-      "Hero Damage Done": true
+      "stat_name": "Hero Damage Done",
+      "stat_state": true
     },
     {
-      "Ultimates Used": true
+      "stat_name": "Ultimates Used",
+      "stat_state": true
     },
     {
-      "Average Time Alive": false
+      "stat_name": "Average Time Alive",
+      "stat_state": false
     },
     {
-      "Eliminations per Life": true
+      "stat_name": "Eliminations per Life",
+      "stat_state": true
     },
     {
-      "Objective Time": false
+      "stat_name": "Objective Time",
+      "stat_state": false
     },
     {
-      "Scoped Critical Hit Accuracy": false
+      "stat_name": "Scoped Critical Hit Accuracy",
+      "stat_state": false
     }
   ]
 }

@@ -8,32 +8,70 @@ import numpy as np
 import pandas as pd
 from matplotlib import pyplot as plt
 
+#TODO: place info in dict instead of lists so i can customize what the order is 
+
+plt.style.use("fivethirtyeight")
+
 with open('hero_stats.json', 'r') as json_data:
     hero_stats = json.load(json_data)
 
 with open('hero_stats_list.json', 'r') as json_data:
     hero_stats_list = json.load(json_data)
 
-hero_search = 'Ana'
-stat_search = ['Damage - Biotic Grenade']
+hero_search = 'All Heroes'
+stat_search = ['Damage Taken', 'Hero Damage Done']
 
 for hero in hero_stats:
     if hero  == hero_search:
-        for search in stat_search:
-            bar_player = []
-            bar_amounr = []
-            for player in hero_stats[hero][search]:
-                if player['play_time'] / 60 >= 90:
-                    bar_player.append("{} - {}".format(player['player_name'],round(player['per_10'],2)))
-                    bar_amounr.append(player['per_10'])
+        bar_player = []
+        bar_amount = []
+        for i in range(0, 50000):
+            for player in hero_stats[hero][stat_search[0]]:
+                if player['play_time'] / 60 >= 60:
+                    if int(player['per_10']) == i:
+                        bar_player.append(player['player_name'])
+                        for p in hero_stats_list[hero]:
+                            if p['stat_name'] == stat_search[0]:
+                                if p['stat_state']:
+                                    bar_amount.append(player['per_10'])
+                                else:
+                                    bar_amount.append(player['stat_amount'])
+        if len(stat_search) >1:
+            bar_amount_2 = []
+            for i in bar_player:
+                for player in hero_stats[hero][stat_search[1]]:
+                    if player['player_name'] == i:
+                        for p in hero_stats_list[hero]:
+                            if p['stat_name'] == stat_search[1]:
+                                if p['stat_state']:
+                                    bar_amount_2.append(player['per_10'])
+                                else:
+                                    bar_amount_2.append(player['stat_amount'])
 
-            plt.barh(bar_player, bar_amounr)
+if len(stat_search) >1:
+    average = []
+    for i in range(len(bar_player)):
+        average.append((bar_amount[i] + bar_amount_2[i])/2)
 
-            plt.title(hero_search)
-            plt.xlabel('{} / 10 mins'.format(search))
+x_indexes = np.arange(len(bar_player))
+w = 0.25
 
-            plt.tight_layout()
+plt.plot(x_indexes, average, color="#000000", label='Average')  
+if len(stat_search) >1:
+    plt.bar(x_indexes - w/2, bar_amount, width= w, color="#c71212", label=stat_search[0])
+    plt.bar(x_indexes + w/2, bar_amount_2, width= w, color="#008fd5", label=stat_search[1])
+else:
+    plt.bar(x_indexes, bar_amount, label=stat_search[0])
 
-            plt.show()
+plt.xticks(ticks=x_indexes, labels=bar_player, rotation='vertical')
+
+# plt.title('Biotic Grenade / 10 mins')
+# plt.xlabel('Player'.format(stat_search[0]))
+
+plt.tight_layout()
+
+plt.legend(loc='upper left',prop={'size':10})
+
+plt.show()
 
 json_data.close()

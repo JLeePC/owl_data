@@ -10,10 +10,12 @@ def build():
     for hero in hero_stats:
         hero_stats_list[hero] = []
         for stat in hero_stats[hero]:
+            builder = {}
+            builder['stat_name'] = stat
             if 'Time' in stat or 'Percentage' in stat or 'Efficiency' in stat or 'Average' in stat or 'Accuracy' in stat:
-                builder = {stat: False}
+                builder['stat_state'] = False
             else:
-                builder = {stat: True}
+                builder['stat_state'] = True
             hero_stats_list[hero].append(builder)
 
     with open('hero_stats_list.json', 'w') as json_file:
