@@ -23,6 +23,20 @@ stat_search = ['Sound Barrier Efficiency', 'Sound Barrier Casts']
 
 plot_stats = {}
 
+plot_stats = {}
+for hero in hero_stats:
+    if hero == hero_search:
+        for player in hero_stats[hero][stat_search[0]]:
+            if player['play_time'] / 60 >= 60:
+                plot_stats[player['player_name']] = {}
+                for p in hero_stats_list[hero]:
+                    if p['stat_name'] == stat_search[0]:
+                        if p['stat_state']:
+                            plot_stats['stat_amount'] = player['per_10']
+                        else:
+                            plot_stats['stat_amount'] = player['stat_amount']
+                            
+
 for hero in hero_stats:
     if hero  == hero_search:
         bar_player = []
