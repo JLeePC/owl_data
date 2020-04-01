@@ -18,24 +18,28 @@ with open('hero_stats.json', 'r') as json_data:
 with open('hero_stats_list.json', 'r') as json_data:
     hero_stats_list = json.load(json_data)
 
-hero_search = 'All Heroes'
-stat_search = ['Damage Taken', 'Hero Damage Done']
+hero_search = 'L\u00facio'
+stat_search = ['Sound Barrier Efficiency', 'Sound Barrier Casts']
+
+plot_stats = {}
 
 for hero in hero_stats:
     if hero  == hero_search:
         bar_player = []
         bar_amount = []
-        for i in range(0, 50000):
-            for player in hero_stats[hero][stat_search[0]]:
-                if player['play_time'] / 60 >= 60:
-                    if int(player['per_10']) == i:
-                        bar_player.append(player['player_name'])
-                        for p in hero_stats_list[hero]:
-                            if p['stat_name'] == stat_search[0]:
-                                if p['stat_state']:
-                                    bar_amount.append(player['per_10'])
-                                else:
-                                    bar_amount.append(player['stat_amount'])
+        for player in hero_stats[hero][stat_search[0]]:
+            if player['play_time'] / 60 >= 60:
+                builder = {}
+                builder['player_name'] = player['player_name']
+                bar_player.append(player['player_name'])
+                for p in hero_stats_list[hero]:
+                    if p['stat_name'] == stat_search[0]:
+                        if p['stat_state']:
+                            builder['amount'] = player['per_10']
+                            bar_amount.append(player['per_10'])
+                        else:
+                            builder['amount'] = player['stat_amount']
+                            bar_amount.append(player['stat_amount'])
         if len(stat_search) >1:
             bar_amount_2 = []
             for i in bar_player:
@@ -55,8 +59,8 @@ if len(stat_search) >1:
 
 x_indexes = np.arange(len(bar_player))
 w = 0.25
-
-plt.plot(x_indexes, average, color="#000000", label='Average')  
+if len(stat_search) >1:
+    plt.plot(x_indexes, average, color="#000000", label='Average')  
 if len(stat_search) >1:
     plt.bar(x_indexes - w/2, bar_amount, width= w, color="#c71212", label=stat_search[0])
     plt.bar(x_indexes + w/2, bar_amount_2, width= w, color="#008fd5", label=stat_search[1])
