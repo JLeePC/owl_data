@@ -1,126 +1,126 @@
 [
   {
     "hero_name": "D.Va",
-    "percentage": 0.5558670599198395
+    "percentage": 0.5676870362022326
   },
   {
     "hero_name": "Orisa",
-    "percentage": 0.34785048234982635
+    "percentage": 0.3527082300586056
   },
   {
     "hero_name": "Reinhardt",
-    "percentage": 0.9873646633544524
+    "percentage": 0.654542723745229
   },
   {
     "hero_name": "Roadhog",
-    "percentage": 0.0057301575438280855
+    "percentage": 0.005806886077870723
   },
   {
     "hero_name": "Sigma",
-    "percentage": 0.2130887530952502
+    "percentage": 0.2633045630953312
   },
   {
     "hero_name": "Winston",
-    "percentage": 0.097126672363833
+    "percentage": 0.20642489823361293
   },
   {
     "hero_name": "Wrecking Ball",
-    "percentage": 0.0744947538753786
+    "percentage": 0.059211391545457535
   },
   {
     "hero_name": "Zarya",
-    "percentage": 0.47659026228262424
+    "percentage": 0.2635373400953701
   },
   {
     "hero_name": "Ashe",
-    "percentage": 0.0014162081051269711
+    "percentage": 0.04968152949307249
   },
   {
     "hero_name": "Bastion",
-    "percentage": 0.00037700742079893287
+    "percentage": 0.00032063102553820717
   },
   {
     "hero_name": "Doomfist",
-    "percentage": 0.11737313466546995
+    "percentage": 0.0945043499315126
   },
   {
     "hero_name": "Genji",
-    "percentage": 0.03149636282985023
+    "percentage": 0.02191566683600607
   },
   {
     "hero_name": "Hanzo",
-    "percentage": 0.16739670255632239
+    "percentage": 0.12319690767031573
   },
   {
     "hero_name": "Junkrat",
-    "percentage": 0.006105093738105096
+    "percentage": 0.003661405318578112
   },
   {
     "hero_name": "McCree",
-    "percentage": 0.3068527887933786
+    "percentage": 0.25654643681085065
   },
   {
     "hero_name": "Mei",
-    "percentage": 0.5673265084158918
+    "percentage": 0.49560812928022513
   },
   {
     "hero_name": "Pharah",
-    "percentage": 0.03423666893004982
+    "percentage": 0.04055047763450208
   },
   {
     "hero_name": "Reaper",
-    "percentage": 0.6085986825848206
+    "percentage": 0.3979729849963687
   },
   {
     "hero_name": "Soldier: 76",
-    "percentage": 0.03289214818496779
+    "percentage": 0.02991166543300065
   },
   {
     "hero_name": "Sombra",
-    "percentage": 0.4991534595325729
+    "percentage": 0.3696443780529689
   },
   {
     "hero_name": "Symmetra",
-    "percentage": 0.030491850648628537
+    "percentage": 0.026381247651198515
   },
   {
     "hero_name": "Torbj\u00f6rn",
-    "percentage": 0.06751230858663529
+    "percentage": 0.06162023569706822
   },
   {
     "hero_name": "Tracer",
-    "percentage": 0.20799069268355516
+    "percentage": 0.2422453191254323
   },
   {
     "hero_name": "Widowmaker",
-    "percentage": 0.07401223473698913
+    "percentage": 0.05973312719229575
   },
   {
     "hero_name": "Ana",
-    "percentage": 0.4174958778172663
+    "percentage": 0.37667699076759326
   },
   {
     "hero_name": "Baptiste",
-    "percentage": 0.2638993695717661
+    "percentage": 0.25497570071540837
   },
   {
     "hero_name": "Brigitte",
-    "percentage": 0.23986005032170263
+    "percentage": 0.23093541686569755
   },
   {
     "hero_name": "L\u00facio",
-    "percentage": 0.9546770097617653
+    "percentage": 0.7757288473064559
   },
   {
     "hero_name": "Mercy",
-    "percentage": 0.042504146064107885
+    "percentage": 0.05308971504637487
   },
   {
     "hero_name": "Moira",
-    "percentage": 0.6127834947137335
+    "percentage": 0.4608792318785614
   },
   {
     "hero_name": "Zenyatta",
-    "percentage": 0.22689285654122826
+    "percentage": 0.22093716647874148
   }
 ]

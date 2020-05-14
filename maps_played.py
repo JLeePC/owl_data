@@ -3,6 +3,7 @@ import csv
 import numpy as np
 import pandas as pd
 import matplotlib
+import progressbar
 from collections import Counter
 from matplotlib import pyplot as plt
 
@@ -11,14 +12,16 @@ match_id = []
 map_counter = Counter()
 match_counter = Counter()
 previous_round = ''
-for i in range(len(pd_data)):
-    pd_maps = pd_data['map_name'][i]
-    pd_round = pd_data['map_round'][i]
-    pd_stage = pd_data['stage'][i]
-    if 'OWL 2020 Regular Season' in pd_stage:
-        if pd_round == 1:
-            map_counter.update(pd_maps.split('.'))
-    previous_round = pd_round
+with progressbar.ProgressBar(max_value=len(pd_data)) as bar:
+    for i in range(len(pd_data)):
+        pd_maps = pd_data['map_name'][i]
+        pd_round = pd_data['map_round'][i]
+        pd_stage = pd_data['stage'][i]
+        if 'OWL 2020 Regular Season' in pd_stage:
+            if pd_round == 1:
+                map_counter.update(pd_maps.split('.'))
+        previous_round = pd_round
+        bar.update(i)
 
 maps = []
 times_played = []
