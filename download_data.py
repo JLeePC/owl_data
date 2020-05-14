@@ -4,7 +4,6 @@ import requests
 
 os.chdir('data')
 
-os.remove('match_map_stats.csv')
 match_url = 'https://assets.blz-contentstack.com/v3/assets/blt321317473c90505c/bltef5373d24b5cddc6/5eb9afb7a84f2107d1775bed/match_map_stats.zip'
 r = requests.get(match_url, allow_redirects=True)
 open('maps.zip', 'wb').write(r.content)
